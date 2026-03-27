@@ -1,4 +1,4 @@
-// Who's Showing What — client-side app
+// Radar — client-side app
 (function () {
   "use strict";
 
@@ -344,7 +344,7 @@
     // Update footer year
     var footerP = document.querySelector("footer p");
     if (footerP) {
-      footerP.textContent = "Built by Charlene Chikezie";
+      footerP.textContent = "Radar \u2014 Built by Charlene Chikezie";
     }
   }
 

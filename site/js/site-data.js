@@ -2527,5 +2527,5 @@ const WSW_DATA = {
       "notes": "Venue for Frieze New York"
     }
   ],
-  "generated": "2026-03-27 03:02"
+  "generated": "2026-03-27 04:24"
 };

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Run validation and exit with its return code.
+# Radar — Run validation and exit with its return code.
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"

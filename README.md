@@ -1,10 +1,12 @@
-# Who's Showing What
+# Radar
 
 **A curated tracker of exhibitions worldwide featuring African artists.**
 
+Part of the Forme Femine ecosystem. Live at [radar.formefemine.com](https://radar.formefemine.com).
+
 ## What is this?
 
-Who's Showing What is a lightweight exhibition tracker that catalogues solo shows, group exhibitions, biennials, fairs, and more featuring African and African diaspora artists across the globe. Data is managed via a Python CLI and published as a static site.
+Radar is a lightweight exhibition tracker that catalogues solo shows, group exhibitions, biennials, fairs, and more featuring African and African diaspora artists across the globe. Data is managed via a Python CLI and published as a static site.
 
 ## Who is it for?
 

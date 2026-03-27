@@ -1,8 +1,8 @@
-# CLAUDE.md — Who's Showing What
+# CLAUDE.md — Radar — Forme Femine
 
 ## What this is
 A curated exhibition tracker for African artists showing worldwide.
-Static site + Python CLI. No backend framework.
+Part of the Forme Femine ecosystem. Static site + Python CLI. No backend framework.
 
 ## Architecture
 - Data: JSON files in data/ (exhibitions.json, artists.json, venues.json)
@@ -16,7 +16,7 @@ Static site + Python CLI. No backend framework.
 - All IDs are slugified with prefixes: exh-, art-, ven-
 - No backend server, no database, no ORM, no framework
 - site-data.js is GENERATED — never edit it directly
-- Footer must read "Built by Charlene Chikezie"
+- Footer must read "Radar — Built by Charlene Chikezie"
 - Dark mode is the default
 - All filtering is client-side
 

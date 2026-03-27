@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Who's Showing What — CLI entry point."""
+"""Radar — CLI entry point (Forme Femine)."""
 
 import argparse
 import sys
@@ -8,7 +8,7 @@ from commands import exhibition, artist, venue, build, stats, validate
 
 
 BANNER = """
-  Who's Showing What — CLI
+  Radar — CLI (Forme Femine)
   A curated tracker of exhibitions featuring African artists.
 """
 
@@ -24,7 +24,7 @@ def refresh(args):
 def main():
     parser = argparse.ArgumentParser(
         prog="wsw",
-        description="Who's Showing What — Exhibition tracker for African artists showing worldwide",
+        description="Radar — Exhibition tracker for African artists showing worldwide (Forme Femine)",
     )
     subparsers = parser.add_subparsers(dest="command")
 
