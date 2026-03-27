@@ -6,7 +6,10 @@
     "origin_region": "West Africa",
     "based_in": [],
     "is_diaspora": false,
-    "mediums": ["painting", "sculpture"],
+    "mediums": [
+      "painting",
+      "sculpture"
+    ],
     "birth_year": 1917,
     "website": "",
     "notes": "First African modernist to gain international recognition"
@@ -16,9 +19,15 @@
     "name": "El Anatsui",
     "origin_country": "Ghana",
     "origin_region": "West Africa",
-    "based_in": ["Nsukka", "Nigeria"],
+    "based_in": [
+      "Nsukka",
+      "Nigeria"
+    ],
     "is_diaspora": false,
-    "mediums": ["sculpture", "installation"],
+    "mediums": [
+      "sculpture",
+      "installation"
+    ],
     "birth_year": 1944,
     "website": "",
     "notes": ""
@@ -30,7 +39,10 @@
     "origin_region": "West Africa",
     "based_in": [],
     "is_diaspora": false,
-    "mediums": ["painting", "drawing"],
+    "mediums": [
+      "painting",
+      "drawing"
+    ],
     "birth_year": 1933,
     "website": "",
     "notes": "Zaria Art Society co-founder, uli art pioneer"
@@ -42,7 +54,9 @@
     "origin_region": "West Africa",
     "based_in": [],
     "is_diaspora": false,
-    "mediums": ["ceramics"],
+    "mediums": [
+      "ceramics"
+    ],
     "birth_year": 1925,
     "website": "",
     "notes": ""
@@ -52,9 +66,14 @@
     "name": "Uzo Egonu",
     "origin_country": "Nigeria",
     "origin_region": "West Africa",
-    "based_in": ["London", "United Kingdom"],
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
     "is_diaspora": true,
-    "mediums": ["painting"],
+    "mediums": [
+      "painting"
+    ],
     "birth_year": 1931,
     "website": "",
     "notes": ""
@@ -64,9 +83,14 @@
     "name": "Seydou Keita",
     "origin_country": "Mali",
     "origin_region": "West Africa",
-    "based_in": ["Bamako", "Mali"],
+    "based_in": [
+      "Bamako",
+      "Mali"
+    ],
     "is_diaspora": false,
-    "mediums": ["photography"],
+    "mediums": [
+      "photography"
+    ],
     "birth_year": 1921,
     "website": "",
     "notes": "Premier studio photographer of 20th-century Africa"
@@ -76,9 +100,14 @@
     "name": "Malick Sidibe",
     "origin_country": "Mali",
     "origin_region": "West Africa",
-    "based_in": ["Bamako", "Mali"],
+    "based_in": [
+      "Bamako",
+      "Mali"
+    ],
     "is_diaspora": false,
-    "mediums": ["photography"],
+    "mediums": [
+      "photography"
+    ],
     "birth_year": 1936,
     "website": "",
     "notes": ""
@@ -88,9 +117,15 @@
     "name": "Njideka Akunyili Crosby",
     "origin_country": "Nigeria",
     "origin_region": "West Africa",
-    "based_in": ["Los Angeles", "United States"],
+    "based_in": [
+      "Los Angeles",
+      "United States"
+    ],
     "is_diaspora": true,
-    "mediums": ["painting", "collage"],
+    "mediums": [
+      "painting",
+      "collage"
+    ],
     "birth_year": 1983,
     "website": "",
     "notes": ""
@@ -100,9 +135,14 @@
     "name": "Samuel Fosso",
     "origin_country": "Cameroon",
     "origin_region": "Central Africa",
-    "based_in": ["Bangui", "Central African Republic"],
+    "based_in": [
+      "Bangui",
+      "Central African Republic"
+    ],
     "is_diaspora": false,
-    "mediums": ["photography"],
+    "mediums": [
+      "photography"
+    ],
     "birth_year": 1962,
     "website": "",
     "notes": ""
@@ -112,9 +152,13 @@
     "name": "Chris Ofili",
     "origin_country": "Nigeria",
     "origin_region": "West Africa",
-    "based_in": ["Trinidad and Tobago"],
+    "based_in": [
+      "Trinidad and Tobago"
+    ],
     "is_diaspora": true,
-    "mediums": ["painting"],
+    "mediums": [
+      "painting"
+    ],
     "birth_year": 1968,
     "website": "",
     "notes": "Turner Prize winner 1998"
@@ -124,9 +168,16 @@
     "name": "Yinka Shonibare",
     "origin_country": "Nigeria",
     "origin_region": "West Africa",
-    "based_in": ["London", "United Kingdom"],
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
     "is_diaspora": true,
-    "mediums": ["sculpture", "installation", "painting"],
+    "mediums": [
+      "sculpture",
+      "installation",
+      "painting"
+    ],
     "birth_year": 1962,
     "website": "",
     "notes": ""
@@ -136,9 +187,16 @@
     "name": "Veronica Ryan",
     "origin_country": "Montserrat",
     "origin_region": "West Africa",
-    "based_in": ["London", "United Kingdom"],
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
     "is_diaspora": true,
-    "mediums": ["sculpture", "textiles", "works on paper"],
+    "mediums": [
+      "sculpture",
+      "textiles",
+      "works on paper"
+    ],
     "birth_year": 1956,
     "website": "",
     "notes": "Turner Prize winner 2022. Born in Montserrat, Caribbean heritage"
@@ -148,9 +206,14 @@
     "name": "Jean Depara",
     "origin_country": "Democratic Republic of the Congo",
     "origin_region": "Central Africa",
-    "based_in": ["Kinshasa", "Democratic Republic of the Congo"],
+    "based_in": [
+      "Kinshasa",
+      "Democratic Republic of the Congo"
+    ],
     "is_diaspora": false,
-    "mediums": ["photography"],
+    "mediums": [
+      "photography"
+    ],
     "birth_year": 1928,
     "website": "",
     "notes": ""
@@ -160,9 +223,14 @@
     "name": "Sanle Sory",
     "origin_country": "Burkina Faso",
     "origin_region": "West Africa",
-    "based_in": ["Bobo-Dioulasso", "Burkina Faso"],
+    "based_in": [
+      "Bobo-Dioulasso",
+      "Burkina Faso"
+    ],
     "is_diaspora": false,
-    "mediums": ["photography"],
+    "mediums": [
+      "photography"
+    ],
     "birth_year": 1943,
     "website": "",
     "notes": ""
@@ -172,9 +240,14 @@
     "name": "James Barnor",
     "origin_country": "Ghana",
     "origin_region": "West Africa",
-    "based_in": ["London", "United Kingdom"],
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
     "is_diaspora": true,
-    "mediums": ["photography"],
+    "mediums": [
+      "photography"
+    ],
     "birth_year": 1929,
     "website": "",
     "notes": ""
@@ -184,9 +257,14 @@
     "name": "J.D. Okhai Ojeikere",
     "origin_country": "Nigeria",
     "origin_region": "West Africa",
-    "based_in": ["Lagos", "Nigeria"],
+    "based_in": [
+      "Lagos",
+      "Nigeria"
+    ],
     "is_diaspora": false,
-    "mediums": ["photography"],
+    "mediums": [
+      "photography"
+    ],
     "birth_year": 1930,
     "website": "",
     "notes": ""
@@ -196,9 +274,14 @@
     "name": "Gustavo Nazareno",
     "origin_country": "Brazil",
     "origin_region": "West Africa",
-    "based_in": ["Sao Paulo", "Brazil"],
+    "based_in": [
+      "Sao Paulo",
+      "Brazil"
+    ],
     "is_diaspora": true,
-    "mediums": ["painting"],
+    "mediums": [
+      "painting"
+    ],
     "birth_year": null,
     "website": "",
     "notes": "Afro-Brazilian, paintings of Orishas"
@@ -208,9 +291,14 @@
     "name": "Cinga Samson",
     "origin_country": "South Africa",
     "origin_region": "Southern Africa",
-    "based_in": ["Cape Town", "South Africa"],
+    "based_in": [
+      "Cape Town",
+      "South Africa"
+    ],
     "is_diaspora": false,
-    "mediums": ["painting"],
+    "mediums": [
+      "painting"
+    ],
     "birth_year": 1986,
     "website": "",
     "notes": "Represented by White Cube"
@@ -220,9 +308,15 @@
     "name": "Lubaina Himid",
     "origin_country": "Tanzania",
     "origin_region": "East Africa",
-    "based_in": ["Preston", "United Kingdom"],
+    "based_in": [
+      "Preston",
+      "United Kingdom"
+    ],
     "is_diaspora": true,
-    "mediums": ["painting", "installation"],
+    "mediums": [
+      "painting",
+      "installation"
+    ],
     "birth_year": 1954,
     "website": "",
     "notes": "Turner Prize winner 2017. Born Zanzibar, raised UK. Representing Great Britain at Venice Biennale 2026"
@@ -232,9 +326,14 @@
     "name": "Odili Donald Odita",
     "origin_country": "Nigeria",
     "origin_region": "West Africa",
-    "based_in": ["Philadelphia", "United States"],
+    "based_in": [
+      "Philadelphia",
+      "United States"
+    ],
     "is_diaspora": true,
-    "mediums": ["painting"],
+    "mediums": [
+      "painting"
+    ],
     "birth_year": 1966,
     "website": "",
     "notes": "Known for geometric abstractions exploring colour and identity"
@@ -244,9 +343,16 @@
     "name": "Bruce Clarke",
     "origin_country": "South Africa",
     "origin_region": "Southern Africa",
-    "based_in": ["Paris", "France"],
+    "based_in": [
+      "Paris",
+      "France"
+    ],
     "is_diaspora": true,
-    "mediums": ["painting", "collage", "printmaking"],
+    "mediums": [
+      "painting",
+      "collage",
+      "printmaking"
+    ],
     "birth_year": 1959,
     "website": "",
     "notes": ""
@@ -256,11 +362,303 @@
     "name": "Ifeyinwa Joy Chiamonwu",
     "origin_country": "Nigeria",
     "origin_region": "West Africa",
-    "based_in": ["Lagos", "Nigeria"],
+    "based_in": [
+      "Lagos",
+      "Nigeria"
+    ],
     "is_diaspora": false,
-    "mediums": ["drawing", "charcoal"],
+    "mediums": [
+      "drawing",
+      "charcoal"
+    ],
     "birth_year": null,
     "website": "",
     "notes": "Hyperrealist charcoal artist. Represented by Jack Shainman Gallery"
+  },
+  {
+    "id": "art-portia-zvavahera",
+    "name": "Portia Zvavahera",
+    "origin_country": "Zimbabwe",
+    "origin_region": "Southern Africa",
+    "based_in": [
+      "Harare",
+      "Zimbabwe"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting",
+      "printmaking"
+    ],
+    "birth_year": 1985,
+    "website": "",
+    "notes": "Represented by David Zwirner and Stevenson"
+  },
+  {
+    "id": "art-william-kentridge",
+    "name": "William Kentridge",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "based_in": [
+      "Johannesburg",
+      "South Africa"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "drawing",
+      "animation",
+      "film",
+      "sculpture",
+      "tapestry"
+    ],
+    "birth_year": 1955,
+    "website": "",
+    "notes": "Represented by Goodman Gallery"
+  },
+  {
+    "id": "art-iba-ndiaye",
+    "name": "Iba Ndiaye",
+    "origin_country": "Senegal",
+    "origin_region": "West Africa",
+    "based_in": [],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1928,
+    "website": "",
+    "notes": "Leading Senegalese Modernist (1928-2008)"
+  },
+  {
+    "id": "art-toyin-ojih-odutola",
+    "name": "Toyin Ojih Odutola",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "drawing",
+      "mixed media"
+    ],
+    "birth_year": 1985,
+    "website": "",
+    "notes": "Represented by Jack Shainman Gallery"
+  },
+  {
+    "id": "art-tesfaye-bekele",
+    "name": "Tesfaye Bekele",
+    "origin_country": "Ethiopia",
+    "origin_region": "East Africa",
+    "based_in": [
+      "Addis Ababa",
+      "Ethiopia"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-sam-nhlengethwa",
+    "name": "Sam Nhlengethwa",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "based_in": [
+      "Johannesburg",
+      "South Africa"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting",
+      "collage"
+    ],
+    "birth_year": 1955,
+    "website": "",
+    "notes": "Known for jazz-infused collage works"
+  },
+  {
+    "id": "art-ghada-amer",
+    "name": "Ghada Amer",
+    "origin_country": "Egypt",
+    "origin_region": "North Africa",
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "embroidery",
+      "sculpture"
+    ],
+    "birth_year": 1963,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-moshekwa-langa",
+    "name": "Moshekwa Langa",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "based_in": [
+      "Cape Town",
+      "South Africa"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "mixed media",
+      "installation",
+      "drawing"
+    ],
+    "birth_year": 1975,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-michael-soi",
+    "name": "Michael Soi",
+    "origin_country": "Kenya",
+    "origin_region": "East Africa",
+    "based_in": [
+      "Nairobi",
+      "Kenya"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1972,
+    "website": "",
+    "notes": "Satirist offering commentary on Nairobi social and political dynamics"
+  },
+  {
+    "id": "art-abdoulaye-konate",
+    "name": "Abdoulaye Konate",
+    "origin_country": "Mali",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Bamako",
+      "Mali"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "textiles",
+      "installation"
+    ],
+    "birth_year": 1953,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-eva-obodo",
+    "name": "Eva Obodo",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Nsukka",
+      "Nigeria"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "sculpture",
+      "mixed media"
+    ],
+    "birth_year": 1963,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-mouhcine-rahaoui",
+    "name": "Mouhcine Rahaoui",
+    "origin_country": "Morocco",
+    "origin_region": "North Africa",
+    "based_in": [
+      "Morocco"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1990,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-sthenjwa-luthuli",
+    "name": "Sthenjwa Luthuli",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "based_in": [
+      "KwaZulu-Natal",
+      "South Africa"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "woodcut",
+      "sculpture"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "Self-taught printmaker and wood carver"
+  },
+  {
+    "id": "art-zohra-opoku",
+    "name": "Zohra Opoku",
+    "origin_country": "Ghana",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Accra",
+      "Ghana"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "photography",
+      "textiles",
+      "mixed media"
+    ],
+    "birth_year": 1976,
+    "website": "",
+    "notes": "German-Ghanaian artist"
+  },
+  {
+    "id": "art-kate-gottgens",
+    "name": "Kate Gottgens",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "based_in": [
+      "Cape Town",
+      "South Africa"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1965,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-kapwani-kiwanga",
+    "name": "Kapwani Kiwanga",
+    "origin_country": "Tanzania",
+    "origin_region": "East Africa",
+    "based_in": [
+      "Paris",
+      "France"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "installation",
+      "sculpture",
+      "film"
+    ],
+    "birth_year": 1978,
+    "website": "",
+    "notes": "Canadian-Tanzanian, based in Paris. Marcel Duchamp Prize 2020"
   }
 ]

@@ -677,6 +677,747 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming"
+    },
+    {
+      "id": "exh-met-iba-ndiaye-2025",
+      "title": "Iba Ndiaye: Between Latitude and Longitude",
+      "artist_ids": [
+        "art-iba-ndiaye"
+      ],
+      "venue_id": "ven-met-museum",
+      "city": "New York",
+      "country": "United States",
+      "region": "North America",
+      "start_date": "2025-05-31",
+      "end_date": "2026-05-31",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "painting"
+      ],
+      "focus": "dedicated",
+      "description": "Solo exhibition within the reopened Arts of Africa galleries honouring the leading Senegalese Modernist painter.",
+      "url": "https://www.metmuseum.org/press-releases/mcrw_africa-2025-news",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-met-arts-of-africa-2025",
+      "title": "Arts of Africa (Permanent Reopening)",
+      "artist_ids": [],
+      "venue_id": "ven-met-museum",
+      "city": "New York",
+      "country": "United States",
+      "region": "North America",
+      "start_date": "2025-05-31",
+      "end_date": "2030-12-31",
+      "type": "group",
+      "admission": "paid",
+      "mediums": [
+        "sculpture",
+        "textiles",
+        "metalwork",
+        "ceramics"
+      ],
+      "focus": "dedicated",
+      "description": "Reopened Michael C. Rockefeller Wing with 500+ works spanning medieval to contemporary periods across redesigned 40,000 sq ft galleries.",
+      "url": "https://www.metmuseum.org/exhibitions/arts-of-africa",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-zwirner-la-zvavahera-2025",
+      "title": "Portia Zvavahera: Zvibereko zvemweya wangu",
+      "artist_ids": [
+        "art-portia-zvavahera"
+      ],
+      "venue_id": "ven-david-zwirner-la",
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "North America",
+      "start_date": "2025-11-14",
+      "end_date": "2026-02-07",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "printmaking"
+      ],
+      "focus": "dedicated",
+      "description": "Third solo with David Zwirner. New paintings joining dream worlds with lived experience, featuring symbolic creatures as spiritual conduits.",
+      "url": "https://www.davidzwirner.com/exhibitions/2025/portia-zvavahera",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-ica-boston-zvavahera-2025",
+      "title": "Portia Zvavahera: Hidden Battles / Hondo dzakavanzika",
+      "artist_ids": [
+        "art-portia-zvavahera"
+      ],
+      "venue_id": "ven-ica-boston",
+      "city": "Boston",
+      "country": "United States",
+      "region": "North America",
+      "start_date": "2025-10-07",
+      "end_date": "2026-03-29",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "focus": "dedicated",
+      "description": "First solo museum exhibition in the United States. Paintings centred on animals from her dream world representing mysterious forces.",
+      "url": "https://www.icaboston.org/exhibitions/portia-zvavahera/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-fridericianum-zvavahera-2025",
+      "title": "Portia Zvavahera",
+      "artist_ids": [
+        "art-portia-zvavahera"
+      ],
+      "venue_id": "ven-fridericianum-kassel",
+      "city": "Kassel",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2025-09-27",
+      "end_date": "2026-02-08",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "painting"
+      ],
+      "focus": "dedicated",
+      "description": "First institutional solo in Germany, featuring works from 2019-2024 offering insight into her deeply personal practice.",
+      "url": "https://www.e-flux.com/announcements/6784094/portia-zvavahera",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-folkwang-kentridge-2025",
+      "title": "William Kentridge: Listen to the Echo",
+      "artist_ids": [
+        "art-william-kentridge"
+      ],
+      "venue_id": "ven-museum-folkwang",
+      "city": "Dresden",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2025-09-06",
+      "end_date": "2026-06-28",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "drawing",
+        "animation",
+        "film",
+        "sculpture",
+        "tapestry"
+      ],
+      "focus": "dedicated",
+      "description": "Major career-spanning retrospective for the artist's 70th birthday across multiple Dresden venues. Four decades of work.",
+      "url": "https://www.museum-folkwang.de/en/exhibition/william-kentridge",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-ysp-kentridge-2025",
+      "title": "William Kentridge: The Pull of Gravity",
+      "artist_ids": [
+        "art-william-kentridge"
+      ],
+      "venue_id": "ven-yorkshire-sculpture-park",
+      "city": "Wakefield",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "start_date": "2025-06-28",
+      "end_date": "2026-04-19",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "sculpture",
+        "drawing",
+        "film",
+        "tapestry"
+      ],
+      "focus": "dedicated",
+      "description": "Major outdoor and indoor exhibition exploring Kentridge's sculptural practice alongside drawings and moving image works.",
+      "url": "https://ysp.org.uk",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-fondation-h-shonibare-2025",
+      "title": "Safiotra: Hybridites / Hybridities",
+      "artist_ids": [
+        "art-yinka-shonibare",
+        "art-el-anatsui",
+        "art-abdoulaye-konate"
+      ],
+      "venue_id": "ven-fondation-h",
+      "city": "Antananarivo",
+      "country": "Madagascar",
+      "region": "East Africa",
+      "start_date": "2025-04-11",
+      "end_date": "2026-02-28",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "sculpture",
+        "installation",
+        "textiles",
+        "mixed media"
+      ],
+      "focus": "dedicated",
+      "description": "Shonibare's first major showcase on the African continent. 2,200 sq m venue featuring The African Library (6,000 books) plus 20 African artists.",
+      "url": "https://www.fondation-h.com/exhibitions-en/safiotra-hybridites-hybridities",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-hamburger-bahnhof-odutola-2025",
+      "title": "Toyin Ojih Odutola: U22 - Adijatu Strasse",
+      "artist_ids": [
+        "art-toyin-ojih-odutola"
+      ],
+      "venue_id": "ven-hamburger-bahnhof",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "start_date": "2025-06-13",
+      "end_date": "2026-01-04",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "drawing",
+        "mixed media"
+      ],
+      "focus": "dedicated",
+      "description": "First solo in Germany. Figurative drawings spanning the last decade, conceptually framed around Berlin's U-Bahn train system.",
+      "url": "https://www.smb.museum/en/exhibitions/detail/toyin-ojih-odutola/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-addis-fine-art-bekele-2026",
+      "title": "Tesfaye Bekele",
+      "artist_ids": [
+        "art-tesfaye-bekele"
+      ],
+      "venue_id": "ven-addis-fine-art",
+      "city": "Addis Ababa",
+      "country": "Ethiopia",
+      "region": "East Africa",
+      "start_date": "2026-01-10",
+      "end_date": "2026-02-20",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "focus": "dedicated",
+      "description": "Bekele explores the power of nature and seasonal changes as metaphors for lived experience, bodily limitation and resilience.",
+      "url": "https://addisfineart.com/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-goodman-nyc-nhlengethwa-2026",
+      "title": "Sam Nhlengethwa: All Blues",
+      "artist_ids": [
+        "art-sam-nhlengethwa"
+      ],
+      "venue_id": "ven-goodman-gallery-nyc",
+      "city": "New York",
+      "country": "United States",
+      "region": "North America",
+      "start_date": "2026-01-28",
+      "end_date": "2026-02-19",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "collage"
+      ],
+      "focus": "dedicated",
+      "description": "Solo exhibition by the celebrated South African artist known for jazz-infused collage works.",
+      "url": "https://goodman-gallery.com/exhibitions",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-goodman-ct-ghada-amer-2025",
+      "title": "Ghada Amer: You Are What You Seek",
+      "artist_ids": [
+        "art-ghada-amer"
+      ],
+      "venue_id": "ven-goodman-gallery-cape-town",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "region": "Southern Africa",
+      "start_date": "2025-12-06",
+      "end_date": "2026-01-31",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "embroidery",
+        "sculpture"
+      ],
+      "focus": "dedicated",
+      "description": "Egyptian-born artist's solo challenging conventions around femininity through embroidered canvases.",
+      "url": "https://goodman-gallery.com/exhibitions",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-stevenson-ct-langa-2026",
+      "title": "Moshekwa Langa",
+      "artist_ids": [
+        "art-moshekwa-langa"
+      ],
+      "venue_id": "ven-stevenson-cape-town",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "region": "Southern Africa",
+      "start_date": "2026-03-28",
+      "end_date": "2026-05-09",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "mixed media",
+        "installation"
+      ],
+      "focus": "dedicated",
+      "description": "Solo by the South African artist known for assemblage, drawing and installation exploring displacement and belonging.",
+      "url": "https://www.stevenson.info/exhibitions-upcoming",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-circle-art-soi-2026",
+      "title": "Michael Soi",
+      "artist_ids": [
+        "art-michael-soi"
+      ],
+      "venue_id": "ven-circle-art-nairobi",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "region": "East Africa",
+      "start_date": "2026-01-21",
+      "end_date": "2026-02-25",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "focus": "dedicated",
+      "description": "Solo by the Nairobi-based satirist whose practice offers sharp commentary on social and political dynamics.",
+      "url": "https://circleartagency.com/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-234-art-fair-lagos-2026",
+      "title": "+234 Art Fair 2026: Inclusivity",
+      "artist_ids": [],
+      "venue_id": "ven-ecobank-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-03-05",
+      "end_date": "2026-03-08",
+      "type": "fair",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "installation",
+        "mixed media"
+      ],
+      "focus": "dedicated",
+      "description": "Third edition themed 'Inclusivity'. Widens the frame to include overlooked voices through collaborations with universities and art schools across Nigeria.",
+      "url": "https://plus234art.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-efie-dubai-shape-2025",
+      "title": "The Shape of Things to Come",
+      "artist_ids": [
+        "art-el-anatsui",
+        "art-yinka-shonibare",
+        "art-abdoulaye-konate"
+      ],
+      "venue_id": "ven-efie-gallery-dubai",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "region": "Middle East",
+      "start_date": "2025-10-10",
+      "end_date": "2026-01-10",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "sculpture",
+        "painting",
+        "installation",
+        "photography"
+      ],
+      "focus": "significant",
+      "description": "Major group show at Alserkal Avenue examining how artists respond to a rapidly shifting world. Curated by Dexter Wimberly.",
+      "url": "https://africanscolumn.com/the-shape-of-things-to-come-efie-gallerys-landmark-exhibition-brings-together-leading-voices-in-contemporary-art/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-biennale-of-sydney-2026",
+      "title": "Biennale of Sydney 2026: Rememory",
+      "artist_ids": [
+        "art-kapwani-kiwanga"
+      ],
+      "venue_id": "ven-sydney-multiple",
+      "city": "Sydney",
+      "country": "Australia",
+      "region": "Oceania",
+      "start_date": "2026-03-14",
+      "end_date": "2026-06-14",
+      "type": "biennial",
+      "admission": "free",
+      "mediums": [
+        "installation",
+        "sculpture",
+        "film",
+        "performance",
+        "photography"
+      ],
+      "focus": "featured",
+      "description": "25th edition curated by Hoor Al Qasimi. 83 artists from 37 countries exploring memory, history and reclaiming erased narratives.",
+      "url": "https://www.biennaleofsydney.art/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-afikaris-obodo-2025",
+      "title": "Eva Obodo: First European Solo",
+      "artist_ids": [
+        "art-eva-obodo"
+      ],
+      "venue_id": "ven-afikaris-paris",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-11-06",
+      "end_date": "2026-01-03",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "sculpture",
+        "mixed media"
+      ],
+      "focus": "dedicated",
+      "description": "First solo exhibition in Europe by the veteran Nigerian artist (b. 1963) whose practice encompasses sculpture and environmental art.",
+      "url": "https://afikaris.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-afikaris-rahaoui-2026",
+      "title": "Mouhcine Rahaoui at Art Geneve",
+      "artist_ids": [
+        "art-mouhcine-rahaoui"
+      ],
+      "venue_id": "ven-afikaris-paris",
+      "city": "Geneva",
+      "country": "Switzerland",
+      "region": "Europe",
+      "start_date": "2026-01-29",
+      "end_date": "2026-02-01",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "painting"
+      ],
+      "focus": "dedicated",
+      "description": "Monographic exhibition dedicated to Moroccan artist at Art Geneve fair. Work composes an aesthetic of the miner and shapes its legend.",
+      "url": "https://afikaris.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-art-basel-qatar-2026",
+      "title": "Art Basel Qatar (Inaugural Edition)",
+      "artist_ids": [],
+      "venue_id": "ven-m7-doha",
+      "city": "Doha",
+      "country": "Qatar",
+      "region": "Middle East",
+      "start_date": "2026-02-05",
+      "end_date": "2026-02-07",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "installation",
+        "mixed media"
+      ],
+      "focus": "featured",
+      "description": "Art Basel's fifth fair globally. 87 galleries from 31 countries. Inaugurated under curatorial direction of Egyptian-born artist Wael Shawky.",
+      "url": "https://www.artbasel.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-goodman-joburg-gottgens-2026",
+      "title": "Kate Gottgens: Her Own Myth",
+      "artist_ids": [
+        "art-kate-gottgens"
+      ],
+      "venue_id": "ven-goodman-gallery-joburg",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "region": "Southern Africa",
+      "start_date": "2026-03-28",
+      "end_date": "2026-05-30",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "focus": "dedicated",
+      "description": "Solo exhibition at Goodman Gallery Johannesburg by the South African painter.",
+      "url": "https://goodman-gallery.com/exhibitions",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-smithsonian-pride-belonging-2025",
+      "title": "Here: Pride and Belonging in African Art",
+      "artist_ids": [
+        "art-toyin-ojih-odutola"
+      ],
+      "venue_id": "ven-smithsonian-african-art",
+      "city": "Washington DC",
+      "country": "United States",
+      "region": "North America",
+      "start_date": "2025-06-01",
+      "end_date": "2026-06-01",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "mixed media",
+        "photography"
+      ],
+      "focus": "dedicated",
+      "description": "Exhibition exploring pride and belonging through contemporary and historical African art at the Smithsonian's Africa-focused museum.",
+      "url": "https://africa.si.edu",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-norval-luthuli-2025",
+      "title": "Sthenjwa Luthuli: Umkhangu / Birthmark",
+      "artist_ids": [
+        "art-sthenjwa-luthuli"
+      ],
+      "venue_id": "ven-norval-foundation",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "region": "Southern Africa",
+      "start_date": "2025-09-11",
+      "end_date": "2026-01-10",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "woodcut",
+        "sculpture"
+      ],
+      "focus": "dedicated",
+      "description": "Self-taught KwaZulu-Natal printmaker exploring identity, African spiritualism and cultural traditions through intricately carved works.",
+      "url": "https://www.norval.co.za",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-zeitz-mocaa-opoku-2025",
+      "title": "Zohra Opoku survey",
+      "artist_ids": [
+        "art-zohra-opoku"
+      ],
+      "venue_id": "ven-zeitz-mocaa",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "region": "Southern Africa",
+      "start_date": "2025-06-01",
+      "end_date": "2026-06-01",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "photography",
+        "textiles",
+        "mixed media"
+      ],
+      "focus": "dedicated",
+      "description": "Survey show by the German-Ghanaian artist at the world's largest museum of contemporary African art.",
+      "url": "https://www.zeitzmocaa.museum",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current"
+    },
+    {
+      "id": "exh-richmond-diaspora-2026",
+      "title": "Art of the African Diaspora 2026",
+      "artist_ids": [],
+      "venue_id": "ven-richmond-art-center",
+      "city": "Richmond",
+      "country": "United States",
+      "region": "North America",
+      "start_date": "2026-01-14",
+      "end_date": "2026-03-14",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media"
+      ],
+      "focus": "dedicated",
+      "description": "29th year of annual exhibition spotlighting creativity of artists of African descent. 150+ artists plus open studios.",
+      "url": "https://richmondartcenter.org/exhibitions/art-of-the-african-diaspora-2026/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-lagos-biennial-2026",
+      "title": "Lagos Biennial 2026: The Museum of Things Unseen",
+      "artist_ids": [],
+      "venue_id": "ven-lagos-multiple",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-10-01",
+      "end_date": "2026-12-31",
+      "type": "biennial",
+      "admission": "free",
+      "mediums": [
+        "installation",
+        "mixed media",
+        "performance"
+      ],
+      "focus": "dedicated",
+      "description": "5th edition directed by Folakunle Oshun. Interrogates what makes certain artworks visible while others remain obscured by market forces.",
+      "url": "",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "upcoming"
+    },
+    {
+      "id": "exh-fnb-art-joburg-2025",
+      "title": "FNB Art Joburg 2025",
+      "artist_ids": [],
+      "venue_id": "ven-sandton-convention",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "region": "Southern Africa",
+      "start_date": "2025-08-29",
+      "end_date": "2025-08-31",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media"
+      ],
+      "focus": "dedicated",
+      "description": "Seven specialized sections. Followed by 16-day Open City citywide initiative across Johannesburg.",
+      "url": "",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past"
+    },
+    {
+      "id": "exh-frieze-new-york-2026",
+      "title": "Frieze New York 2026",
+      "artist_ids": [],
+      "venue_id": "ven-the-shed-nyc",
+      "city": "New York",
+      "country": "United States",
+      "region": "North America",
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-17",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media",
+        "installation"
+      ],
+      "focus": "featured",
+      "description": "14th edition. 67 galleries from 26 countries including Gagosian, White Cube, Pace, David Zwirner. Focus section curated by Essence Harden.",
+      "url": "https://www.frieze.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "upcoming"
     }
   ],
   "artists": [
@@ -1055,6 +1796,292 @@ const WSW_DATA = {
       "birth_year": null,
       "website": "",
       "notes": "Hyperrealist charcoal artist. Represented by Jack Shainman Gallery"
+    },
+    {
+      "id": "art-portia-zvavahera",
+      "name": "Portia Zvavahera",
+      "origin_country": "Zimbabwe",
+      "origin_region": "Southern Africa",
+      "based_in": [
+        "Harare",
+        "Zimbabwe"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting",
+        "printmaking"
+      ],
+      "birth_year": 1985,
+      "website": "",
+      "notes": "Represented by David Zwirner and Stevenson"
+    },
+    {
+      "id": "art-william-kentridge",
+      "name": "William Kentridge",
+      "origin_country": "South Africa",
+      "origin_region": "Southern Africa",
+      "based_in": [
+        "Johannesburg",
+        "South Africa"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "drawing",
+        "animation",
+        "film",
+        "sculpture",
+        "tapestry"
+      ],
+      "birth_year": 1955,
+      "website": "",
+      "notes": "Represented by Goodman Gallery"
+    },
+    {
+      "id": "art-iba-ndiaye",
+      "name": "Iba Ndiaye",
+      "origin_country": "Senegal",
+      "origin_region": "West Africa",
+      "based_in": [],
+      "is_diaspora": false,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1928,
+      "website": "",
+      "notes": "Leading Senegalese Modernist (1928-2008)"
+    },
+    {
+      "id": "art-toyin-ojih-odutola",
+      "name": "Toyin Ojih Odutola",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "New York",
+        "United States"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "drawing",
+        "mixed media"
+      ],
+      "birth_year": 1985,
+      "website": "",
+      "notes": "Represented by Jack Shainman Gallery"
+    },
+    {
+      "id": "art-tesfaye-bekele",
+      "name": "Tesfaye Bekele",
+      "origin_country": "Ethiopia",
+      "origin_region": "East Africa",
+      "based_in": [
+        "Addis Ababa",
+        "Ethiopia"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-sam-nhlengethwa",
+      "name": "Sam Nhlengethwa",
+      "origin_country": "South Africa",
+      "origin_region": "Southern Africa",
+      "based_in": [
+        "Johannesburg",
+        "South Africa"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting",
+        "collage"
+      ],
+      "birth_year": 1955,
+      "website": "",
+      "notes": "Known for jazz-infused collage works"
+    },
+    {
+      "id": "art-ghada-amer",
+      "name": "Ghada Amer",
+      "origin_country": "Egypt",
+      "origin_region": "North Africa",
+      "based_in": [
+        "New York",
+        "United States"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting",
+        "embroidery",
+        "sculpture"
+      ],
+      "birth_year": 1963,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-moshekwa-langa",
+      "name": "Moshekwa Langa",
+      "origin_country": "South Africa",
+      "origin_region": "Southern Africa",
+      "based_in": [
+        "Cape Town",
+        "South Africa"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "mixed media",
+        "installation",
+        "drawing"
+      ],
+      "birth_year": 1975,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-michael-soi",
+      "name": "Michael Soi",
+      "origin_country": "Kenya",
+      "origin_region": "East Africa",
+      "based_in": [
+        "Nairobi",
+        "Kenya"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1972,
+      "website": "",
+      "notes": "Satirist offering commentary on Nairobi social and political dynamics"
+    },
+    {
+      "id": "art-abdoulaye-konate",
+      "name": "Abdoulaye Konate",
+      "origin_country": "Mali",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Bamako",
+        "Mali"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "textiles",
+        "installation"
+      ],
+      "birth_year": 1953,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-eva-obodo",
+      "name": "Eva Obodo",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Nsukka",
+        "Nigeria"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "sculpture",
+        "mixed media"
+      ],
+      "birth_year": 1963,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-mouhcine-rahaoui",
+      "name": "Mouhcine Rahaoui",
+      "origin_country": "Morocco",
+      "origin_region": "North Africa",
+      "based_in": [
+        "Morocco"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1990,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-sthenjwa-luthuli",
+      "name": "Sthenjwa Luthuli",
+      "origin_country": "South Africa",
+      "origin_region": "Southern Africa",
+      "based_in": [
+        "KwaZulu-Natal",
+        "South Africa"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "woodcut",
+        "sculpture"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "Self-taught printmaker and wood carver"
+    },
+    {
+      "id": "art-zohra-opoku",
+      "name": "Zohra Opoku",
+      "origin_country": "Ghana",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Accra",
+        "Ghana"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "photography",
+        "textiles",
+        "mixed media"
+      ],
+      "birth_year": 1976,
+      "website": "",
+      "notes": "German-Ghanaian artist"
+    },
+    {
+      "id": "art-kate-gottgens",
+      "name": "Kate Gottgens",
+      "origin_country": "South Africa",
+      "origin_region": "Southern Africa",
+      "based_in": [
+        "Cape Town",
+        "South Africa"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1965,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-kapwani-kiwanga",
+      "name": "Kapwani Kiwanga",
+      "origin_country": "Tanzania",
+      "origin_region": "East Africa",
+      "based_in": [
+        "Paris",
+        "France"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "installation",
+        "sculpture",
+        "film"
+      ],
+      "birth_year": 1978,
+      "website": "",
+      "notes": "Canadian-Tanzanian, based in Paris. Marcel Duchamp Prize 2020"
     }
   ],
   "venues": [
@@ -1273,7 +2300,232 @@ const WSW_DATA = {
       "type": "gallery",
       "website": "https://www.jackshainman.com",
       "notes": ""
+    },
+    {
+      "id": "ven-met-museum",
+      "name": "The Metropolitan Museum of Art",
+      "city": "New York",
+      "country": "United States",
+      "type": "museum",
+      "website": "https://www.metmuseum.org",
+      "notes": ""
+    },
+    {
+      "id": "ven-david-zwirner-la",
+      "name": "David Zwirner",
+      "city": "Los Angeles",
+      "country": "United States",
+      "type": "gallery",
+      "website": "https://www.davidzwirner.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-ica-boston",
+      "name": "ICA Boston",
+      "city": "Boston",
+      "country": "United States",
+      "type": "museum",
+      "website": "https://www.icaboston.org",
+      "notes": ""
+    },
+    {
+      "id": "ven-fridericianum-kassel",
+      "name": "Fridericianum",
+      "city": "Kassel",
+      "country": "Germany",
+      "type": "museum",
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "ven-museum-folkwang",
+      "name": "Museum Folkwang / Staatliche Kunstsammlungen Dresden",
+      "city": "Dresden",
+      "country": "Germany",
+      "type": "museum",
+      "website": "https://www.museum-folkwang.de",
+      "notes": ""
+    },
+    {
+      "id": "ven-yorkshire-sculpture-park",
+      "name": "Yorkshire Sculpture Park",
+      "city": "Wakefield",
+      "country": "United Kingdom",
+      "type": "museum",
+      "website": "https://ysp.org.uk",
+      "notes": ""
+    },
+    {
+      "id": "ven-fondation-h",
+      "name": "Fondation H",
+      "city": "Antananarivo",
+      "country": "Madagascar",
+      "type": "institution",
+      "website": "https://www.fondation-h.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-hamburger-bahnhof",
+      "name": "Hamburger Bahnhof",
+      "city": "Berlin",
+      "country": "Germany",
+      "type": "museum",
+      "website": "https://www.smb.museum",
+      "notes": ""
+    },
+    {
+      "id": "ven-addis-fine-art",
+      "name": "Addis Fine Art",
+      "city": "Addis Ababa",
+      "country": "Ethiopia",
+      "type": "gallery",
+      "website": "https://addisfineart.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-goodman-gallery-nyc",
+      "name": "Goodman Gallery",
+      "city": "New York",
+      "country": "United States",
+      "type": "gallery",
+      "website": "https://goodman-gallery.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-goodman-gallery-joburg",
+      "name": "Goodman Gallery",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "type": "gallery",
+      "website": "https://goodman-gallery.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-goodman-gallery-cape-town",
+      "name": "Goodman Gallery",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "type": "gallery",
+      "website": "https://goodman-gallery.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-stevenson-cape-town",
+      "name": "Stevenson",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "type": "gallery",
+      "website": "https://www.stevenson.info",
+      "notes": ""
+    },
+    {
+      "id": "ven-circle-art-nairobi",
+      "name": "Circle Art Gallery",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "type": "gallery",
+      "website": "https://circleartagency.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-ecobank-lagos",
+      "name": "Ecobank Pan African Center",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "fair",
+      "website": "",
+      "notes": "Venue for +234 Art Fair"
+    },
+    {
+      "id": "ven-efie-gallery-dubai",
+      "name": "Efie Gallery",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "type": "gallery",
+      "website": "",
+      "notes": "Alserkal Avenue"
+    },
+    {
+      "id": "ven-sydney-multiple",
+      "name": "Multiple venues across Sydney",
+      "city": "Sydney",
+      "country": "Australia",
+      "type": "biennial-venue",
+      "website": "https://www.biennaleofsydney.art",
+      "notes": ""
+    },
+    {
+      "id": "ven-afikaris-paris",
+      "name": "AFIKARIS",
+      "city": "Paris",
+      "country": "France",
+      "type": "gallery",
+      "website": "https://afikaris.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-norval-foundation",
+      "name": "Norval Foundation",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "type": "museum",
+      "website": "https://www.norval.co.za",
+      "notes": ""
+    },
+    {
+      "id": "ven-smithsonian-african-art",
+      "name": "National Museum of African Art, Smithsonian",
+      "city": "Washington DC",
+      "country": "United States",
+      "type": "museum",
+      "website": "https://africa.si.edu",
+      "notes": ""
+    },
+    {
+      "id": "ven-richmond-art-center",
+      "name": "Richmond Art Center",
+      "city": "Richmond",
+      "country": "United States",
+      "type": "institution",
+      "website": "https://richmondartcenter.org",
+      "notes": ""
+    },
+    {
+      "id": "ven-lagos-multiple",
+      "name": "Multiple venues across Lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "biennial-venue",
+      "website": "",
+      "notes": "Venue for Lagos Biennial"
+    },
+    {
+      "id": "ven-sandton-convention",
+      "name": "Sandton Convention Centre",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "type": "fair",
+      "website": "",
+      "notes": "Venue for FNB Art Joburg"
+    },
+    {
+      "id": "ven-m7-doha",
+      "name": "M7 and Doha Design District",
+      "city": "Doha",
+      "country": "Qatar",
+      "type": "fair",
+      "website": "",
+      "notes": "Venue for Art Basel Qatar"
+    },
+    {
+      "id": "ven-the-shed-nyc",
+      "name": "The Shed",
+      "city": "New York",
+      "country": "United States",
+      "type": "institution",
+      "website": "https://theshed.org",
+      "notes": "Venue for Frieze New York"
     }
   ],
-  "generated": "2026-03-27 01:24"
+  "generated": "2026-03-27 03:02"
 };

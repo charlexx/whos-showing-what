@@ -214,5 +214,230 @@
     "type": "gallery",
     "website": "https://www.jackshainman.com",
     "notes": ""
+  },
+  {
+    "id": "ven-met-museum",
+    "name": "The Metropolitan Museum of Art",
+    "city": "New York",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.metmuseum.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-david-zwirner-la",
+    "name": "David Zwirner",
+    "city": "Los Angeles",
+    "country": "United States",
+    "type": "gallery",
+    "website": "https://www.davidzwirner.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-ica-boston",
+    "name": "ICA Boston",
+    "city": "Boston",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.icaboston.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-fridericianum-kassel",
+    "name": "Fridericianum",
+    "city": "Kassel",
+    "country": "Germany",
+    "type": "museum",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-museum-folkwang",
+    "name": "Museum Folkwang / Staatliche Kunstsammlungen Dresden",
+    "city": "Dresden",
+    "country": "Germany",
+    "type": "museum",
+    "website": "https://www.museum-folkwang.de",
+    "notes": ""
+  },
+  {
+    "id": "ven-yorkshire-sculpture-park",
+    "name": "Yorkshire Sculpture Park",
+    "city": "Wakefield",
+    "country": "United Kingdom",
+    "type": "museum",
+    "website": "https://ysp.org.uk",
+    "notes": ""
+  },
+  {
+    "id": "ven-fondation-h",
+    "name": "Fondation H",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "type": "institution",
+    "website": "https://www.fondation-h.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-hamburger-bahnhof",
+    "name": "Hamburger Bahnhof",
+    "city": "Berlin",
+    "country": "Germany",
+    "type": "museum",
+    "website": "https://www.smb.museum",
+    "notes": ""
+  },
+  {
+    "id": "ven-addis-fine-art",
+    "name": "Addis Fine Art",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "type": "gallery",
+    "website": "https://addisfineart.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-goodman-gallery-nyc",
+    "name": "Goodman Gallery",
+    "city": "New York",
+    "country": "United States",
+    "type": "gallery",
+    "website": "https://goodman-gallery.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-goodman-gallery-joburg",
+    "name": "Goodman Gallery",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "type": "gallery",
+    "website": "https://goodman-gallery.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-goodman-gallery-cape-town",
+    "name": "Goodman Gallery",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "type": "gallery",
+    "website": "https://goodman-gallery.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-stevenson-cape-town",
+    "name": "Stevenson",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "type": "gallery",
+    "website": "https://www.stevenson.info",
+    "notes": ""
+  },
+  {
+    "id": "ven-circle-art-nairobi",
+    "name": "Circle Art Gallery",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "type": "gallery",
+    "website": "https://circleartagency.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-ecobank-lagos",
+    "name": "Ecobank Pan African Center",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "fair",
+    "website": "",
+    "notes": "Venue for +234 Art Fair"
+  },
+  {
+    "id": "ven-efie-gallery-dubai",
+    "name": "Efie Gallery",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "type": "gallery",
+    "website": "",
+    "notes": "Alserkal Avenue"
+  },
+  {
+    "id": "ven-sydney-multiple",
+    "name": "Multiple venues across Sydney",
+    "city": "Sydney",
+    "country": "Australia",
+    "type": "biennial-venue",
+    "website": "https://www.biennaleofsydney.art",
+    "notes": ""
+  },
+  {
+    "id": "ven-afikaris-paris",
+    "name": "AFIKARIS",
+    "city": "Paris",
+    "country": "France",
+    "type": "gallery",
+    "website": "https://afikaris.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-norval-foundation",
+    "name": "Norval Foundation",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "type": "museum",
+    "website": "https://www.norval.co.za",
+    "notes": ""
+  },
+  {
+    "id": "ven-smithsonian-african-art",
+    "name": "National Museum of African Art, Smithsonian",
+    "city": "Washington DC",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://africa.si.edu",
+    "notes": ""
+  },
+  {
+    "id": "ven-richmond-art-center",
+    "name": "Richmond Art Center",
+    "city": "Richmond",
+    "country": "United States",
+    "type": "institution",
+    "website": "https://richmondartcenter.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-lagos-multiple",
+    "name": "Multiple venues across Lagos",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "biennial-venue",
+    "website": "",
+    "notes": "Venue for Lagos Biennial"
+  },
+  {
+    "id": "ven-sandton-convention",
+    "name": "Sandton Convention Centre",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "type": "fair",
+    "website": "",
+    "notes": "Venue for FNB Art Joburg"
+  },
+  {
+    "id": "ven-m7-doha",
+    "name": "M7 and Doha Design District",
+    "city": "Doha",
+    "country": "Qatar",
+    "type": "fair",
+    "website": "",
+    "notes": "Venue for Art Basel Qatar"
+  },
+  {
+    "id": "ven-the-shed-nyc",
+    "name": "The Shed",
+    "city": "New York",
+    "country": "United States",
+    "type": "institution",
+    "website": "https://theshed.org",
+    "notes": "Venue for Frieze New York"
   }
 ]
