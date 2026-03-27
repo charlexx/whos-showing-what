@@ -3,17 +3,85 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A curated tracker of exhibitions worldwide featuring African artists.">
   <title>Who's Showing What</title>
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-  <div class="placeholder">
-    <h1>Who's Showing What</h1>
-    <p>A curated tracker of exhibitions featuring African artists.</p>
-  </div>
+
+  <header class="hero">
+    <div class="hero-inner">
+      <h1 class="hero-title">Who's Showing What</h1>
+      <p class="hero-subtitle">A curated tracker of exhibitions worldwide featuring African artists</p>
+      <p class="hero-stats" id="hero-stats"></p>
+    </div>
+  </header>
+
+  <nav class="filter-bar" id="filter-bar">
+    <div class="filter-bar-inner">
+      <div class="filter-row">
+        <div class="filter-group">
+          <label for="filter-search" class="sr-only">Search</label>
+          <input type="search" id="filter-search" class="filter-search" placeholder="Search exhibitions, artists, venues..." autocomplete="off">
+        </div>
+        <div class="filter-group">
+          <label for="filter-status" class="sr-only">Status</label>
+          <select id="filter-status">
+            <option value="">All Statuses</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-city" class="sr-only">City</label>
+          <select id="filter-city">
+            <option value="">All Cities</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-country" class="sr-only">Country</label>
+          <select id="filter-country">
+            <option value="">All Countries</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-region" class="sr-only">Region</label>
+          <select id="filter-region">
+            <option value="">All Regions</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-type" class="sr-only">Type</label>
+          <select id="filter-type">
+            <option value="">All Types</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-admission" class="sr-only">Admission</label>
+          <select id="filter-admission">
+            <option value="">All Admission</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-medium" class="sr-only">Medium</label>
+          <select id="filter-medium">
+            <option value="">All Mediums</option>
+          </select>
+        </div>
+      </div>
+      <p class="filter-count" id="filter-count"></p>
+    </div>
+  </nav>
+
+  <main>
+    <section class="exhibition-grid" id="exhibition-grid" role="list"></section>
+    <div class="empty-state" id="empty-state" hidden>
+      <p>No exhibitions match your filters.</p>
+    </div>
+  </main>
+
   <footer>
     <p>Built by Charlene Chikezie</p>
   </footer>
+
   <script src="js/site-data.js"></script>
   <script src="js/app.js"></script>
 </body>
