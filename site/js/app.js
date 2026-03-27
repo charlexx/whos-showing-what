@@ -24,8 +24,9 @@
   var selType = document.getElementById("filter-type");
   var selAdmission = document.getElementById("filter-admission");
   var selMedium = document.getElementById("filter-medium");
+  var selFocus = document.getElementById("filter-focus");
 
-  var allFilters = [selStatus, selCity, selCountry, selRegion, selType, selAdmission, selMedium];
+  var allFilters = [selStatus, selCity, selCountry, selRegion, selType, selAdmission, selMedium, selFocus];
 
   // ==================== Helpers ====================
   var MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
@@ -113,6 +114,10 @@
     return uniqueSorted(all);
   }
 
+  function uniqueFocus() {
+    return uniqueSorted(data.exhibitions.map(function (e) { return e.focus; }));
+  }
+
   // ==================== Populate filters ====================
   function populateSelect(el, values, labelFn) {
     values.forEach(function (v) {
@@ -131,6 +136,7 @@
     populateSelect(selType, uniqueTypes(), capitalize);
     populateSelect(selAdmission, uniqueAdmission(), capitalize);
     populateSelect(selMedium, uniqueMediums(), capitalize);
+    populateSelect(selFocus, uniqueFocus(), capitalize);
   }
 
   // ==================== Hero stats ====================
@@ -153,7 +159,8 @@
     region: selRegion,
     type: selType,
     admission: selAdmission,
-    medium: selMedium
+    medium: selMedium,
+    focus: selFocus
   };
 
   function readParams() {
@@ -199,6 +206,7 @@
     var fType = selType.value;
     var fAdmission = selAdmission.value;
     var fMedium = selMedium.value;
+    var fFocus = selFocus.value;
 
     return data.exhibitions.filter(function (exh) {
       exh._status = deriveStatus(exh);
@@ -209,6 +217,7 @@
       if (fRegion && exh.region !== fRegion) return false;
       if (fType && exh.type !== fType) return false;
       if (fAdmission && exh.admission !== fAdmission) return false;
+      if (fFocus && exh.focus !== fFocus) return false;
       if (fMedium) {
         if (!(exh.mediums || []).some(function (m) { return m === fMedium; })) return false;
       }
@@ -263,6 +272,7 @@
       "<span class=\"badge badge-status " + esc(status) + "\">" + esc(status) + "</span>" +
       "<span class=\"badge badge-type\">" + esc(exh.type) + "</span>" +
       "<span class=\"badge badge-admission" + (exh.admission === "free" ? " free" : "") + "\">" + esc(exh.admission) + "</span>" +
+      (exh.focus ? "<span class=\"badge badge-focus " + esc(exh.focus) + "\">" + esc(exh.focus) + "</span>" : "") +
     "</div>";
 
     // Mediums

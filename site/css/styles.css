@@ -308,6 +308,26 @@ main {
   color: var(--status-current);
 }
 
+/* ========== Focus Badges ========== */
+.badge-focus {
+  text-transform: capitalize;
+}
+
+.badge-focus.dedicated {
+  background: rgba(201, 168, 124, 0.15);
+  color: var(--accent);
+}
+
+.badge-focus.significant {
+  background: rgba(91, 141, 212, 0.15);
+  color: var(--status-upcoming);
+}
+
+.badge-focus.featured {
+  background: rgba(232, 228, 223, 0.06);
+  color: var(--text-secondary);
+}
+
 /* ========== Medium Tags ========== */
 .card-mediums {
   display: flex;

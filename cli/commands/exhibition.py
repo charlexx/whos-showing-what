@@ -12,6 +12,7 @@ DATA_FILE = DATA_DIR / "exhibitions.json"
 
 TYPES = ["solo", "group", "fair", "biennial", "residency", "screening", "performance"]
 ADMISSION = ["free", "paid", "donation", "rsvp"]
+FOCUS = ["dedicated", "significant", "featured"]
 STATUSES = ["upcoming", "current", "past"]
 SOURCES = ["manual", "submission", "scrape", "api"]
 REGIONS = [
@@ -93,6 +94,7 @@ def register(subparsers):
     add_p.add_argument("--type", dest="exh_type", choices=TYPES)
     add_p.add_argument("--admission", choices=ADMISSION)
     add_p.add_argument("--mediums", nargs="+")
+    add_p.add_argument("--focus", choices=FOCUS)
     add_p.add_argument("--source", default="manual", choices=SOURCES)
     add_p.add_argument("--status", choices=STATUSES)
     add_p.add_argument("--description", default="")
@@ -150,6 +152,7 @@ def add_exhibition(args):
         raw = _prompt_required("Mediums (comma-separated)")
         mediums = [m.strip() for m in raw.split(",") if m.strip()]
 
+    focus = args.focus or _prompt_required("Focus", choices=FOCUS)
     source = args.source or "manual"
     description = args.description or _prompt("Description")
     url = args.url or _prompt("URL")
@@ -186,6 +189,7 @@ def add_exhibition(args):
         "type": exh_type,
         "admission": admission,
         "mediums": mediums,
+        "focus": focus,
         "source": source,
         "added_date": today_str(),
         "status": status,
@@ -241,7 +245,7 @@ def edit_exhibition(args):
         if entry["id"] == args.id:
             print(f"Editing {args.id} (press Enter to keep current value)", file=sys.stderr)
             for field in ["title", "city", "country", "region", "start_date",
-                          "end_date", "type", "admission", "status",
+                          "end_date", "type", "admission", "focus", "status",
                           "description", "url", "image_url"]:
                 current = entry.get(field, "")
                 new_val = _prompt(field, default=str(current))

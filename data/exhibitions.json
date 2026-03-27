@@ -2,7 +2,14 @@
   {
     "id": "exh-tate-modern-nigerian-modernism-2025",
     "title": "Nigerian Modernism",
-    "artist_ids": ["art-ben-enwonwu", "art-el-anatsui", "art-uche-okeke", "art-ladi-kwali", "art-uzo-egonu", "art-jd-okhai-ojeikere"],
+    "artist_ids": [
+      "art-ben-enwonwu",
+      "art-el-anatsui",
+      "art-uche-okeke",
+      "art-ladi-kwali",
+      "art-uzo-egonu",
+      "art-jd-okhai-ojeikere"
+    ],
     "venue_id": "ven-tate-modern",
     "city": "London",
     "country": "United Kingdom",
@@ -11,7 +18,14 @@
     "end_date": "2026-05-10",
     "type": "group",
     "admission": "paid",
-    "mediums": ["painting", "sculpture", "textiles", "ceramics", "works on paper"],
+    "mediums": [
+      "painting",
+      "sculpture",
+      "textiles",
+      "ceramics",
+      "works on paper"
+    ],
+    "focus": "dedicated",
     "description": "The first UK exhibition to trace the development of modern art in Nigeria, spanning from indirect colonial rule to national independence and beyond. Features over 250 works by more than 50 artists.",
     "url": "https://www.tate.org.uk/whats-on/tate-modern/nigerian-modernism",
     "image_url": "",
@@ -22,7 +36,15 @@
   {
     "id": "exh-moma-ideas-of-africa-2025",
     "title": "Ideas of Africa: Portraiture and Political Imagination",
-    "artist_ids": ["art-seydou-keita", "art-malick-sidibe", "art-jean-depara", "art-sanle-sory", "art-samuel-fosso", "art-njideka-akunyili-crosby", "art-james-barnor"],
+    "artist_ids": [
+      "art-seydou-keita",
+      "art-malick-sidibe",
+      "art-jean-depara",
+      "art-sanle-sory",
+      "art-samuel-fosso",
+      "art-njideka-akunyili-crosby",
+      "art-james-barnor"
+    ],
     "venue_id": "ven-moma",
     "city": "New York",
     "country": "United States",
@@ -31,7 +53,10 @@
     "end_date": "2026-07-25",
     "type": "group",
     "admission": "paid",
-    "mediums": ["photography"],
+    "mediums": [
+      "photography"
+    ],
+    "focus": "dedicated",
     "description": "Examines how photographers and their sitters contributed to Pan-African solidarity during the mid-20th century. Features works from the Jean Pigozzi gift alongside recent acquisitions.",
     "url": "https://www.moma.org/calendar/exhibitions/5755",
     "image_url": "",
@@ -42,7 +67,9 @@
   {
     "id": "exh-brooklyn-museum-seydou-keita-2025",
     "title": "Seydou Keita: A Tactile Lens",
-    "artist_ids": ["art-seydou-keita"],
+    "artist_ids": [
+      "art-seydou-keita"
+    ],
     "venue_id": "ven-brooklyn-museum",
     "city": "New York",
     "country": "United States",
@@ -51,7 +78,11 @@
     "end_date": "2026-05-17",
     "type": "solo",
     "admission": "paid",
-    "mediums": ["photography", "textiles"],
+    "mediums": [
+      "photography",
+      "textiles"
+    ],
+    "focus": "dedicated",
     "description": "The most expansive North American exhibition of the legendary Malian photographer's work. Over 280 works including iconic prints, never-before-seen portraits, textiles, and personal artifacts.",
     "url": "https://www.brooklynmuseum.org/exhibitions/seydou-keita",
     "image_url": "",
@@ -62,7 +93,9 @@
   {
     "id": "exh-moad-unbound-2025",
     "title": "UNBOUND: Art, Blackness and the Universe",
-    "artist_ids": ["art-gustavo-nazareno"],
+    "artist_ids": [
+      "art-gustavo-nazareno"
+    ],
     "venue_id": "ven-moad-sf",
     "city": "San Francisco",
     "country": "United States",
@@ -71,7 +104,14 @@
     "end_date": "2026-08-16",
     "type": "group",
     "admission": "paid",
-    "mediums": ["painting", "sculpture", "installation", "video", "photography"],
+    "mediums": [
+      "painting",
+      "sculpture",
+      "installation",
+      "video",
+      "photography"
+    ],
+    "focus": "significant",
     "description": "Explores the intersections of Blackness and the cosmos across three floors. Features artists including Lorna Simpson, Rashaad Newsome, Harmonia Rosales, and Gustavo Nazareno.",
     "url": "https://www.moadsf.org/exhibitions",
     "image_url": "",
@@ -82,7 +122,9 @@
   {
     "id": "exh-whitechapel-veronica-ryan-2026",
     "title": "Veronica Ryan: Multiple Conversations",
-    "artist_ids": ["art-veronica-ryan"],
+    "artist_ids": [
+      "art-veronica-ryan"
+    ],
     "venue_id": "ven-whitechapel-gallery",
     "city": "London",
     "country": "United Kingdom",
@@ -91,7 +133,12 @@
     "end_date": "2026-06-14",
     "type": "solo",
     "admission": "paid",
-    "mediums": ["sculpture", "textiles", "works on paper"],
+    "mediums": [
+      "sculpture",
+      "textiles",
+      "works on paper"
+    ],
+    "focus": "dedicated",
     "description": "Showcases over 100 works across four decades from the Turner Prize winning artist, including recently rediscovered works from the 1980s.",
     "url": "https://www.whitechapelgallery.org/exhibitions/veronica-ryan-multiple-conversations/",
     "image_url": "",
@@ -102,7 +149,10 @@
   {
     "id": "exh-barbican-black-planet-2026",
     "title": "Project a Black Planet: The Art and Culture of Panafrica",
-    "artist_ids": ["art-chris-ofili", "art-yinka-shonibare"],
+    "artist_ids": [
+      "art-chris-ofili",
+      "art-yinka-shonibare"
+    ],
     "venue_id": "ven-barbican-art-gallery",
     "city": "London",
     "country": "United Kingdom",
@@ -111,7 +161,14 @@
     "end_date": "2026-09-06",
     "type": "group",
     "admission": "paid",
-    "mediums": ["painting", "sculpture", "installation", "photography", "mixed media"],
+    "mediums": [
+      "painting",
+      "sculpture",
+      "installation",
+      "photography",
+      "mixed media"
+    ],
+    "focus": "dedicated",
     "description": "The first exhibition to consider Pan-Africanism's influence on visual art and culture, and the critical role of artists in shaping Pan-African visions. Features work from Africa, Brazil, the Caribbean, North America and Western Europe.",
     "url": "https://www.barbican.org.uk/whats-on/2026/event/project-a-black-planet",
     "image_url": "",
@@ -131,7 +188,12 @@
     "end_date": "2026-11-01",
     "type": "group",
     "admission": "paid",
-    "mediums": ["textiles", "fashion", "mixed media"],
+    "mediums": [
+      "textiles",
+      "fashion",
+      "mixed media"
+    ],
+    "focus": "dedicated",
     "description": "Originally curated by London's V&A, this travelling exhibition celebrates the African fashion scene, arriving in Paris after stops in Australia, Canada and the US.",
     "url": "",
     "image_url": "",
@@ -151,7 +213,15 @@
     "end_date": "2026-10-11",
     "type": "fair",
     "admission": "paid",
-    "mediums": ["painting", "sculpture", "photography", "mixed media", "textiles", "ceramics"],
+    "mediums": [
+      "painting",
+      "sculpture",
+      "photography",
+      "mixed media",
+      "textiles",
+      "ceramics"
+    ],
+    "focus": "dedicated",
     "description": "The leading international art fair dedicated to contemporary art from Africa and its diaspora. Annual London edition at Somerset House during Frieze Week.",
     "url": "https://www.1-54.com/london/",
     "image_url": "",
@@ -171,7 +241,13 @@
     "end_date": "2026-05-17",
     "type": "fair",
     "admission": "paid",
-    "mediums": ["painting", "sculpture", "photography", "mixed media"],
+    "mediums": [
+      "painting",
+      "sculpture",
+      "photography",
+      "mixed media"
+    ],
+    "focus": "dedicated",
     "description": "New York edition featuring 26 galleries from across Africa, Europe and the US, presenting over 80 artists from Africa and its diaspora.",
     "url": "https://www.1-54.com/new-york/",
     "image_url": "",
@@ -191,7 +267,14 @@
     "end_date": "2026-12-19",
     "type": "biennial",
     "admission": "paid",
-    "mediums": ["painting", "sculpture", "installation", "video", "performance"],
+    "mediums": [
+      "painting",
+      "sculpture",
+      "installation",
+      "video",
+      "performance"
+    ],
+    "focus": "dedicated",
     "description": "Africa's longest-running and most prestigious contemporary art biennial. The 16th edition transforms Dakar into a global hub for African and diasporic creativity.",
     "url": "https://biennaledakar.org",
     "image_url": "",
@@ -211,7 +294,14 @@
     "end_date": "2026-11-03",
     "type": "fair",
     "admission": "paid",
-    "mediums": ["painting", "sculpture", "photography", "mixed media", "design"],
+    "mediums": [
+      "painting",
+      "sculpture",
+      "photography",
+      "mixed media",
+      "design"
+    ],
+    "focus": "dedicated",
     "description": "West Africa's leading international art fair, spotlighting established and emerging artists with design showcases, film screenings, and collector forums.",
     "url": "https://www.artxlagos.com",
     "image_url": "",
@@ -231,7 +321,13 @@
     "end_date": "2026-08-30",
     "type": "group",
     "admission": "paid",
-    "mediums": ["painting", "sculpture", "installation", "photography"],
+    "mediums": [
+      "painting",
+      "sculpture",
+      "installation",
+      "photography"
+    ],
+    "focus": "dedicated",
     "description": "Exhibition programme honoring the legacy of the late Koyo Kouoh, former Executive Director and Chief Curator, celebrating contemporary African and diasporic art.",
     "url": "https://www.zeitzmocaa.museum",
     "image_url": "",
@@ -251,7 +347,13 @@
     "end_date": "2026-09-20",
     "type": "fair",
     "admission": "paid",
-    "mediums": ["painting", "sculpture", "photography", "mixed media"],
+    "mediums": [
+      "painting",
+      "sculpture",
+      "photography",
+      "mixed media"
+    ],
+    "focus": "significant",
     "description": "Art fair blending indoor and outdoor exhibitions in Shepstone Gardens. Strong focus on emerging artists, a discovery hub for collectors seeking new contemporary voices.",
     "url": "https://rfrlatitudes.co.za",
     "image_url": "",
@@ -262,7 +364,9 @@
   {
     "id": "exh-white-cube-seoul-el-anatsui-2026",
     "title": "El Anatsui: LuwVor",
-    "artist_ids": ["art-el-anatsui"],
+    "artist_ids": [
+      "art-el-anatsui"
+    ],
     "venue_id": "ven-white-cube-seoul",
     "city": "Seoul",
     "country": "South Korea",
@@ -271,7 +375,11 @@
     "end_date": "2026-04-18",
     "type": "solo",
     "admission": "free",
-    "mediums": ["sculpture", "installation"],
+    "mediums": [
+      "sculpture",
+      "installation"
+    ],
+    "focus": "dedicated",
     "description": "El Anatsui's first exhibition with White Cube. New body of work in metal, ceramic and wood unveiled across the Seoul gallery, featuring sculptures viewable from both sides.",
     "url": "https://www.whitecube.com/gallery-exhibitions/el-anatsui-seoul-2026",
     "image_url": "",
@@ -282,7 +390,9 @@
   {
     "id": "exh-white-cube-hk-el-anatsui-2026",
     "title": "El Anatsui: MivEvi",
-    "artist_ids": ["art-el-anatsui"],
+    "artist_ids": [
+      "art-el-anatsui"
+    ],
     "venue_id": "ven-white-cube-hong-kong",
     "city": "Hong Kong",
     "country": "China",
@@ -291,7 +401,11 @@
     "end_date": "2026-05-09",
     "type": "solo",
     "admission": "free",
-    "mediums": ["sculpture", "installation"],
+    "mediums": [
+      "sculpture",
+      "installation"
+    ],
+    "focus": "dedicated",
     "description": "Concurrent with the Seoul exhibition, El Anatsui presents new work at White Cube Hong Kong alongside Art Basel Hong Kong 2026.",
     "url": "https://www.whitecube.com/gallery-exhibitions/el-anatsui-hong-kong-2026",
     "image_url": "",
@@ -302,7 +416,9 @@
   {
     "id": "exh-white-cube-nyc-cinga-samson-2026",
     "title": "Cinga Samson: Ukuphuthelwa",
-    "artist_ids": ["art-cinga-samson"],
+    "artist_ids": [
+      "art-cinga-samson"
+    ],
     "venue_id": "ven-white-cube-new-york",
     "city": "New York",
     "country": "United States",
@@ -311,7 +427,10 @@
     "end_date": "2026-04-18",
     "type": "solo",
     "admission": "free",
-    "mediums": ["painting"],
+    "mediums": [
+      "painting"
+    ],
+    "focus": "dedicated",
     "description": "South African artist Cinga Samson presents new oil paintings exploring spiritual alertness and existential depth in his signature dark palette. Title is isiXhosa for 'unable to sleep'.",
     "url": "https://www.whitecube.com/gallery-exhibitions/cinga-samson-new-york-2026",
     "image_url": "",
@@ -331,7 +450,15 @@
     "end_date": "2026-11-22",
     "type": "biennial",
     "admission": "paid",
-    "mediums": ["painting", "sculpture", "installation", "video", "performance", "photography"],
+    "mediums": [
+      "painting",
+      "sculpture",
+      "installation",
+      "video",
+      "performance",
+      "photography"
+    ],
+    "focus": "significant",
     "description": "The 61st International Art Exhibition curated by the late Koyo Kouoh (Cameroon/Switzerland), the first African woman to lead the Venice Biennale. Features 111 artists and 12 African national pavilions. Title drawn from jazz and the idea of quieter, more attentive registers.",
     "url": "https://www.labiennale.org",
     "image_url": "",
@@ -342,7 +469,9 @@
   {
     "id": "exh-venice-gb-lubaina-himid-2026",
     "title": "Lubaina Himid: British Pavilion, Venice Biennale 2026",
-    "artist_ids": ["art-lubaina-himid"],
+    "artist_ids": [
+      "art-lubaina-himid"
+    ],
     "venue_id": "ven-giardini-arsenale-venice",
     "city": "Venice",
     "country": "Italy",
@@ -351,7 +480,11 @@
     "end_date": "2026-11-22",
     "type": "solo",
     "admission": "paid",
-    "mediums": ["painting", "installation"],
+    "mediums": [
+      "painting",
+      "installation"
+    ],
+    "focus": "dedicated",
     "description": "Tanzanian-British artist Lubaina Himid represents Great Britain at the 61st Venice Biennale. Turner Prize winner 2017.",
     "url": "https://www.labiennale.org",
     "image_url": "",
@@ -362,7 +495,9 @@
   {
     "id": "exh-moma-odili-donald-odita-2026",
     "title": "Odili Donald Odita: Songs from Life",
-    "artist_ids": ["art-odili-donald-odita"],
+    "artist_ids": [
+      "art-odili-donald-odita"
+    ],
     "venue_id": "ven-moma",
     "city": "New York",
     "country": "United States",
@@ -371,7 +506,10 @@
     "end_date": "2027-05-01",
     "type": "solo",
     "admission": "paid",
-    "mediums": ["painting"],
+    "mediums": [
+      "painting"
+    ],
+    "focus": "dedicated",
     "description": "Nigerian-American abstract painter Odili Donald Odita presents geometric colour compositions exploring identity, migration, and the African diaspora at MoMA.",
     "url": "https://www.moma.org",
     "image_url": "",
@@ -391,7 +529,14 @@
     "end_date": "2026-02-22",
     "type": "fair",
     "admission": "paid",
-    "mediums": ["painting", "sculpture", "photography", "mixed media", "installation"],
+    "mediums": [
+      "painting",
+      "sculpture",
+      "photography",
+      "mixed media",
+      "installation"
+    ],
+    "focus": "significant",
     "description": "Africa's largest art fair, bringing together galleries from across the continent and internationally. Features curated sections, talks, and collector programmes.",
     "url": "https://investeccapetownartfair.co.za",
     "image_url": "",
@@ -411,7 +556,13 @@
     "end_date": "2026-02-23",
     "type": "fair",
     "admission": "paid",
-    "mediums": ["painting", "sculpture", "photography", "mixed media"],
+    "mediums": [
+      "painting",
+      "sculpture",
+      "photography",
+      "mixed media"
+    ],
+    "focus": "dedicated",
     "description": "The annual Marrakech edition of 1-54, the most prominent international platform dedicated exclusively to contemporary African art. Features galleries from across the continent and diaspora.",
     "url": "https://www.1-54.com/marrakech/",
     "image_url": "",
@@ -422,7 +573,9 @@
   {
     "id": "exh-ooa-gallery-bruce-clarke-2026",
     "title": "Bruce Clarke: Still Standing - Upright Women",
-    "artist_ids": ["art-bruce-clarke"],
+    "artist_ids": [
+      "art-bruce-clarke"
+    ],
     "venue_id": "ven-ooa-gallery-sitges",
     "city": "Sitges",
     "country": "Spain",
@@ -431,7 +584,12 @@
     "end_date": "2026-04-19",
     "type": "solo",
     "admission": "paid",
-    "mediums": ["painting", "collage", "printmaking"],
+    "mediums": [
+      "painting",
+      "collage",
+      "printmaking"
+    ],
+    "focus": "dedicated",
     "description": "South African artist Bruce Clarke presents painting, print, collage, and photo-collage works exploring memory, dignity, and resilience.",
     "url": "https://ooagallery.com",
     "image_url": "",
@@ -442,7 +600,9 @@
   {
     "id": "exh-jack-shainman-chiamonwu-2026",
     "title": "Ifeyinwa Joy Chiamonwu: New Works",
-    "artist_ids": ["art-ifeyinwa-joy-chiamonwu"],
+    "artist_ids": [
+      "art-ifeyinwa-joy-chiamonwu"
+    ],
     "venue_id": "ven-jack-shainman-nyc",
     "city": "New York",
     "country": "United States",
@@ -451,7 +611,11 @@
     "end_date": "2026-03-28",
     "type": "solo",
     "admission": "free",
-    "mediums": ["drawing", "charcoal"],
+    "mediums": [
+      "drawing",
+      "charcoal"
+    ],
+    "focus": "dedicated",
     "description": "Nigerian hyperrealist charcoal artist Ifeyinwa Joy Chiamonwu presents celebratory portraits of family and friends, asserting representation beyond Western standards.",
     "url": "https://www.jackshainman.com",
     "image_url": "",
@@ -471,7 +635,13 @@
     "end_date": "2026-04-12",
     "type": "fair",
     "admission": "paid",
-    "mediums": ["painting", "sculpture", "photography", "mixed media"],
+    "mediums": [
+      "painting",
+      "sculpture",
+      "photography",
+      "mixed media"
+    ],
+    "focus": "featured",
     "description": "Major international art fair with strong representation of African and diasporic artists through its curated sections and museum partnerships.",
     "url": "https://www.expochicago.com",
     "image_url": "",
@@ -491,7 +661,14 @@
     "end_date": "2026-11-08",
     "type": "fair",
     "admission": "paid",
-    "mediums": ["painting", "sculpture", "photography", "mixed media", "installation"],
+    "mediums": [
+      "painting",
+      "sculpture",
+      "photography",
+      "mixed media",
+      "installation"
+    ],
+    "focus": "dedicated",
     "description": "Paris' dedicated African contemporary art fair, bringing together galleries from across Africa and the diaspora with talks, performances, and special exhibitions.",
     "url": "https://www.akaafair.com",
     "image_url": "",

@@ -11,6 +11,7 @@ DATA_DIR = Path(__file__).resolve().parent.parent.parent / "data"
 STATUSES = {"upcoming", "current", "past"}
 TYPES = {"solo", "group", "fair", "biennial", "residency", "screening", "performance"}
 ADMISSION = {"free", "paid", "donation", "rsvp"}
+FOCUS = {"dedicated", "significant", "featured"}
 SOURCES = {"manual", "submission", "scrape", "api"}
 REGIONS = {
     "West Africa", "East Africa", "Southern Africa", "North Africa", "Central Africa",
@@ -25,8 +26,8 @@ ARTIST_REQUIRED = ["id", "name", "origin_country", "origin_region", "mediums"]
 VENUE_REQUIRED = ["id", "name", "city", "country", "type"]
 EXHIBITION_REQUIRED = [
     "id", "title", "artist_ids", "venue_id", "city", "country", "region",
-    "start_date", "end_date", "type", "admission", "mediums", "source",
-    "added_date", "status",
+    "start_date", "end_date", "type", "admission", "mediums", "focus",
+    "source", "added_date", "status",
 ]
 
 
@@ -101,6 +102,8 @@ def run_validate(args):
             errors.append(f"Exhibition {e['id']}: invalid admission '{e['admission']}'")
         if e.get("region") and e["region"] not in REGIONS:
             errors.append(f"Exhibition {e['id']}: invalid region '{e['region']}'")
+        if e.get("focus") and e["focus"] not in FOCUS:
+            errors.append(f"Exhibition {e['id']}: invalid focus '{e['focus']}'")
         if e.get("source") and e["source"] not in SOURCES:
             errors.append(f"Exhibition {e['id']}: invalid source '{e['source']}'")
 

@@ -28,9 +28,13 @@ Static site + Python CLI. No backend framework.
 ## Data schemas
 
 ### Exhibition (data/exhibitions.json)
-Required fields: id, title, artist_ids (array of art- IDs), venue_id (ven- ID), city, country, region, start_date (YYYY-MM-DD), end_date (YYYY-MM-DD), type, admission, mediums (array), source, added_date, status
+Required fields: id, title, artist_ids (array of art- IDs), venue_id (ven- ID), city, country, region, start_date (YYYY-MM-DD), end_date (YYYY-MM-DD), type, admission, mediums (array), focus, source, added_date, status
 Optional fields: description, url, image_url
 type values: solo | group | fair | biennial | residency | screening | performance
+focus values: dedicated | significant | featured
+  dedicated = exhibition is specifically about African artists/art
+  significant = African artists are a major presence but not exclusively African
+  featured = one or more African artists included in a broader show
 admission values: free | paid | donation | rsvp
 status values: upcoming | current | past
 source values: manual | submission | scrape | api

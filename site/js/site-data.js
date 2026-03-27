@@ -27,6 +27,7 @@ const WSW_DATA = {
         "ceramics",
         "works on paper"
       ],
+      "focus": "dedicated",
       "description": "The first UK exhibition to trace the development of modern art in Nigeria, spanning from indirect colonial rule to national independence and beyond. Features over 250 works by more than 50 artists.",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/nigerian-modernism",
       "image_url": "",
@@ -57,6 +58,7 @@ const WSW_DATA = {
       "mediums": [
         "photography"
       ],
+      "focus": "dedicated",
       "description": "Examines how photographers and their sitters contributed to Pan-African solidarity during the mid-20th century. Features works from the Jean Pigozzi gift alongside recent acquisitions.",
       "url": "https://www.moma.org/calendar/exhibitions/5755",
       "image_url": "",
@@ -82,6 +84,7 @@ const WSW_DATA = {
         "photography",
         "textiles"
       ],
+      "focus": "dedicated",
       "description": "The most expansive North American exhibition of the legendary Malian photographer's work. Over 280 works including iconic prints, never-before-seen portraits, textiles, and personal artifacts.",
       "url": "https://www.brooklynmuseum.org/exhibitions/seydou-keita",
       "image_url": "",
@@ -110,6 +113,7 @@ const WSW_DATA = {
         "video",
         "photography"
       ],
+      "focus": "significant",
       "description": "Explores the intersections of Blackness and the cosmos across three floors. Features artists including Lorna Simpson, Rashaad Newsome, Harmonia Rosales, and Gustavo Nazareno.",
       "url": "https://www.moadsf.org/exhibitions",
       "image_url": "",
@@ -136,6 +140,7 @@ const WSW_DATA = {
         "textiles",
         "works on paper"
       ],
+      "focus": "dedicated",
       "description": "Showcases over 100 works across four decades from the Turner Prize winning artist, including recently rediscovered works from the 1980s.",
       "url": "https://www.whitechapelgallery.org/exhibitions/veronica-ryan-multiple-conversations/",
       "image_url": "",
@@ -165,6 +170,7 @@ const WSW_DATA = {
         "photography",
         "mixed media"
       ],
+      "focus": "dedicated",
       "description": "The first exhibition to consider Pan-Africanism's influence on visual art and culture, and the critical role of artists in shaping Pan-African visions. Features work from Africa, Brazil, the Caribbean, North America and Western Europe.",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/project-a-black-planet",
       "image_url": "",
@@ -189,6 +195,7 @@ const WSW_DATA = {
         "fashion",
         "mixed media"
       ],
+      "focus": "dedicated",
       "description": "Originally curated by London's V&A, this travelling exhibition celebrates the African fashion scene, arriving in Paris after stops in Australia, Canada and the US.",
       "url": "",
       "image_url": "",
@@ -216,6 +223,7 @@ const WSW_DATA = {
         "textiles",
         "ceramics"
       ],
+      "focus": "dedicated",
       "description": "The leading international art fair dedicated to contemporary art from Africa and its diaspora. Annual London edition at Somerset House during Frieze Week.",
       "url": "https://www.1-54.com/london/",
       "image_url": "",
@@ -241,6 +249,7 @@ const WSW_DATA = {
         "photography",
         "mixed media"
       ],
+      "focus": "dedicated",
       "description": "New York edition featuring 26 galleries from across Africa, Europe and the US, presenting over 80 artists from Africa and its diaspora.",
       "url": "https://www.1-54.com/new-york/",
       "image_url": "",
@@ -267,6 +276,7 @@ const WSW_DATA = {
         "video",
         "performance"
       ],
+      "focus": "dedicated",
       "description": "Africa's longest-running and most prestigious contemporary art biennial. The 16th edition transforms Dakar into a global hub for African and diasporic creativity.",
       "url": "https://biennaledakar.org",
       "image_url": "",
@@ -293,6 +303,7 @@ const WSW_DATA = {
         "mixed media",
         "design"
       ],
+      "focus": "dedicated",
       "description": "West Africa's leading international art fair, spotlighting established and emerging artists with design showcases, film screenings, and collector forums.",
       "url": "https://www.artxlagos.com",
       "image_url": "",
@@ -318,6 +329,7 @@ const WSW_DATA = {
         "installation",
         "photography"
       ],
+      "focus": "dedicated",
       "description": "Exhibition programme honoring the legacy of the late Koyo Kouoh, former Executive Director and Chief Curator, celebrating contemporary African and diasporic art.",
       "url": "https://www.zeitzmocaa.museum",
       "image_url": "",
@@ -343,6 +355,7 @@ const WSW_DATA = {
         "photography",
         "mixed media"
       ],
+      "focus": "significant",
       "description": "Art fair blending indoor and outdoor exhibitions in Shepstone Gardens. Strong focus on emerging artists, a discovery hub for collectors seeking new contemporary voices.",
       "url": "https://rfrlatitudes.co.za",
       "image_url": "",
@@ -368,6 +381,7 @@ const WSW_DATA = {
         "sculpture",
         "installation"
       ],
+      "focus": "dedicated",
       "description": "El Anatsui's first exhibition with White Cube. New body of work in metal, ceramic and wood unveiled across the Seoul gallery, featuring sculptures viewable from both sides.",
       "url": "https://www.whitecube.com/gallery-exhibitions/el-anatsui-seoul-2026",
       "image_url": "",
@@ -393,6 +407,7 @@ const WSW_DATA = {
         "sculpture",
         "installation"
       ],
+      "focus": "dedicated",
       "description": "Concurrent with the Seoul exhibition, El Anatsui presents new work at White Cube Hong Kong alongside Art Basel Hong Kong 2026.",
       "url": "https://www.whitecube.com/gallery-exhibitions/el-anatsui-hong-kong-2026",
       "image_url": "",
@@ -417,6 +432,7 @@ const WSW_DATA = {
       "mediums": [
         "painting"
       ],
+      "focus": "dedicated",
       "description": "South African artist Cinga Samson presents new oil paintings exploring spiritual alertness and existential depth in his signature dark palette. Title is isiXhosa for 'unable to sleep'.",
       "url": "https://www.whitecube.com/gallery-exhibitions/cinga-samson-new-york-2026",
       "image_url": "",
@@ -444,6 +460,7 @@ const WSW_DATA = {
         "performance",
         "photography"
       ],
+      "focus": "significant",
       "description": "The 61st International Art Exhibition curated by the late Koyo Kouoh (Cameroon/Switzerland), the first African woman to lead the Venice Biennale. Features 111 artists and 12 African national pavilions. Title drawn from jazz and the idea of quieter, more attentive registers.",
       "url": "https://www.labiennale.org",
       "image_url": "",
@@ -469,6 +486,7 @@ const WSW_DATA = {
         "painting",
         "installation"
       ],
+      "focus": "dedicated",
       "description": "Tanzanian-British artist Lubaina Himid represents Great Britain at the 61st Venice Biennale. Turner Prize winner 2017.",
       "url": "https://www.labiennale.org",
       "image_url": "",
@@ -493,6 +511,7 @@ const WSW_DATA = {
       "mediums": [
         "painting"
       ],
+      "focus": "dedicated",
       "description": "Nigerian-American abstract painter Odili Donald Odita presents geometric colour compositions exploring identity, migration, and the African diaspora at MoMA.",
       "url": "https://www.moma.org",
       "image_url": "",
@@ -519,6 +538,7 @@ const WSW_DATA = {
         "mixed media",
         "installation"
       ],
+      "focus": "significant",
       "description": "Africa's largest art fair, bringing together galleries from across the continent and internationally. Features curated sections, talks, and collector programmes.",
       "url": "https://investeccapetownartfair.co.za",
       "image_url": "",
@@ -544,6 +564,7 @@ const WSW_DATA = {
         "photography",
         "mixed media"
       ],
+      "focus": "dedicated",
       "description": "The annual Marrakech edition of 1-54, the most prominent international platform dedicated exclusively to contemporary African art. Features galleries from across the continent and diaspora.",
       "url": "https://www.1-54.com/marrakech/",
       "image_url": "",
@@ -570,6 +591,7 @@ const WSW_DATA = {
         "collage",
         "printmaking"
       ],
+      "focus": "dedicated",
       "description": "South African artist Bruce Clarke presents painting, print, collage, and photo-collage works exploring memory, dignity, and resilience.",
       "url": "https://ooagallery.com",
       "image_url": "",
@@ -595,6 +617,7 @@ const WSW_DATA = {
         "drawing",
         "charcoal"
       ],
+      "focus": "dedicated",
       "description": "Nigerian hyperrealist charcoal artist Ifeyinwa Joy Chiamonwu presents celebratory portraits of family and friends, asserting representation beyond Western standards.",
       "url": "https://www.jackshainman.com",
       "image_url": "",
@@ -620,6 +643,7 @@ const WSW_DATA = {
         "photography",
         "mixed media"
       ],
+      "focus": "featured",
       "description": "Major international art fair with strong representation of African and diasporic artists through its curated sections and museum partnerships.",
       "url": "https://www.expochicago.com",
       "image_url": "",
@@ -646,6 +670,7 @@ const WSW_DATA = {
         "mixed media",
         "installation"
       ],
+      "focus": "dedicated",
       "description": "Paris' dedicated African contemporary art fair, bringing together galleries from across Africa and the diaspora with talks, performances, and special exhibitions.",
       "url": "https://www.akaafair.com",
       "image_url": "",
@@ -1250,5 +1275,5 @@ const WSW_DATA = {
       "notes": ""
     }
   ],
-  "generated": "2026-03-27 01:09"
+  "generated": "2026-03-27 01:24"
 };
