@@ -2072,6 +2072,724 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "past",
       "focus": "featured"
+    },
+    {
+      "id": "exh-rele-young-contemp-10-2025",
+      "title": "Young Contemporaries 10th Edition",
+      "artist_ids": [],
+      "venue_id": "ven-rele-gallery-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-01-18",
+      "end_date": "2025-02-22",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "mixed media"
+      ],
+      "description": "Decade-anniversary edition of Rele Arts Foundation's flagship emerging artist programme. Six alumni from the Foundation's residency in Ekiti State.",
+      "url": "https://www.rele.co/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-thought-pyramid-nok7-2025",
+      "title": "Next of Kin Series 7: Who Will Give Us A Masterpiece?",
+      "artist_ids": [],
+      "venue_id": "ven-thought-pyramid-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-01-25",
+      "end_date": "2025-03-29",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "mixed media",
+        "drawing"
+      ],
+      "description": "Prestigious juried emerging artist competition featuring 20 finalists from across the African continent.",
+      "url": "https://thoughtpyramidartcentre.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-cca-lagos-reopening-2025",
+      "title": "Archives and Memories (CCA Lagos Reopening)",
+      "artist_ids": [],
+      "venue_id": "ven-cca-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-02-12",
+      "end_date": "2025-06-30",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "photography",
+        "mixed media"
+      ],
+      "description": "CCA Lagos reopened after 2022 closure with archival and contemporary works welcoming back the art community.",
+      "url": "https://ccalagos.org/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-ko-obodo-2025",
+      "title": "Eva Obodo: Dry Season",
+      "artist_ids": [
+        "art-eva-obodo"
+      ],
+      "venue_id": "ven-ko-gallery-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-03-01",
+      "end_date": "2025-04-04",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "sculpture",
+        "mixed media"
+      ],
+      "description": "Solo exhibition by Nigerian sculptor Eva Obodo, known for found materials and assemblage.",
+      "url": "https://ko-artspace.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-rele-emore-2025",
+      "title": "Yoma Emore: There Was Once a Traveller...",
+      "artist_ids": [
+        "art-yoma-emore"
+      ],
+      "venue_id": "ven-rele-gallery-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-03-08",
+      "end_date": "2025-04-26",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "textiles",
+        "mixed media"
+      ],
+      "description": "Multidisciplinary artist unfolds a cartography of memory, migration, and correspondence using textile. Anchored in letters exchanged between her mother and pen pals during the 1970s.",
+      "url": "https://www.rele.co/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-lgw-2025",
+      "title": "Lagos Gallery Weekend 2025: Discover Lagos Through Art",
+      "artist_ids": [
+        "art-gerald-chukwuma"
+      ],
+      "venue_id": "ven-lagos-multiple",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-03-28",
+      "end_date": "2025-03-30",
+      "type": "fair",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "installation",
+        "mixed media"
+      ],
+      "description": "Second edition of the citywide art weekend bringing together 20 galleries and 5 cultural institutions. Workshops, tours, and marketplace.",
+      "url": "https://lagosgalleryweekend.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-rele-moneyang-2025",
+      "title": "Salomon Moneyang: eto ya Nda-bot: Intimate Interiors",
+      "artist_ids": [
+        "art-salomon-moneyang"
+      ],
+      "venue_id": "ven-rele-gallery-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-05-03",
+      "end_date": "2025-06-14",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "description": "Cameroonian artist explores home as a shifting terrain shaped by memory, inheritance, and return after journeying back to his ancestral village.",
+      "url": "https://www.rele.co/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-temple-muse-adewuyi-2025",
+      "title": "Kenny Adewuyi: Sole to Soul (Retrospective)",
+      "artist_ids": [
+        "art-kenny-adewuyi"
+      ],
+      "venue_id": "ven-temple-muse-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-06-21",
+      "end_date": "2025-07-21",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "sculpture",
+        "drawing"
+      ],
+      "description": "Rare retrospective of 32 works spanning three decades. Life-size bronze sculptures alongside intimate charcoal drawings. Presented by SMO Contemporary Art.",
+      "url": "https://smocontemporaryart.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-thought-pyramid-auchi-2025",
+      "title": "1499 Art Force — Auchi Art Royal",
+      "artist_ids": [],
+      "venue_id": "ven-thought-pyramid-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-08-10",
+      "end_date": "2025-08-25",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture"
+      ],
+      "description": "Fourth group exhibition by 14 Auchi Polytechnic alumni from the class of 1999, now rebranded as Auchi Art Royal.",
+      "url": "https://thoughtpyramidartcentre.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-thought-pyramid-limcaf-2025",
+      "title": "LIMCAF 2025 Lagos Regional: Can We Breathe?",
+      "artist_ids": [],
+      "venue_id": "ven-thought-pyramid-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-08-09",
+      "end_date": "2025-08-11",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "mixed media"
+      ],
+      "description": "Lagos Regional Centre exhibition for Nigeria's largest visual art event, hosting 62 young artists addressing social, political, and environmental realities.",
+      "url": "https://thoughtpyramidartcentre.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-cca-lagos-wind-chimes-2025",
+      "title": "Wind Chimes, Gongs and Bells — For Whom Is This Call?",
+      "artist_ids": [],
+      "venue_id": "ven-cca-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-08-22",
+      "end_date": "2025-10-11",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "sound",
+        "video",
+        "installation"
+      ],
+      "description": "Satellite project of The Listening Biennial 2025. Sound, video, interactive installations by six artists with live sonic sessions by the Lagos Sound Artists Collective.",
+      "url": "https://ccalagos.org/events/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-ko-ejaita-2025",
+      "title": "Diana Ejaita: Exercises in Liberation",
+      "artist_ids": [
+        "art-diana-ejaita"
+      ],
+      "venue_id": "ven-ko-gallery-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-09-20",
+      "end_date": "2025-10-18",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "textiles",
+        "illustration",
+        "printmaking"
+      ],
+      "description": "Solo exhibition by Nigerian-Italian artist Diana Ejaita at ko gallery Lagos.",
+      "url": "https://ko-artspace.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-national-theatre-reopening-2025",
+      "title": "National Theatre Art Collection (Restoration and Reopening)",
+      "artist_ids": [],
+      "venue_id": "ven-national-theatre-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-10-01",
+      "end_date": "2030-12-31",
+      "type": "group",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "mixed media",
+        "ceramics"
+      ],
+      "description": "SMO Contemporary Art restored and curated 70+ large-scale modernist artworks plus 1,000+ historic objects. Opened by President Tinubu. Most significant public collection of modernist art in Nigeria.",
+      "url": "",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-adegbola-heroes-past-2025",
+      "title": "Heroes Past (ADEGBOLA Gallery Inaugural Exhibition)",
+      "artist_ids": [],
+      "venue_id": "ven-adegbola-gallery-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-10-01",
+      "end_date": "2025-12-31",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography"
+      ],
+      "description": "Inaugural exhibition at newly launched ADEGBOLA Gallery. Travelling show honouring Nigeria's pre- and post-independence leaders through rarely seen works by master Nigerian artists.",
+      "url": "https://www.artreport.africa/post/a-new-home-for-heritage-adegbola-gallery-launches-in-lagos-with-landmark-exhibition-heroes-past",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-rele-ahiakwo-2025",
+      "title": "Ugo Ahiakwo: After the Dance",
+      "artist_ids": [
+        "art-ugo-ahiakwo"
+      ],
+      "venue_id": "ven-rele-gallery-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-10-11",
+      "end_date": "2025-11-15",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "sculpture"
+      ],
+      "description": "Sculptural forms from discarded vehicle parts exploring love, intimacy, fracture, and redemption. Title references Marvin Gaye.",
+      "url": "https://www.rele.co/exhibitions/90-after-the-dance-lagos/overview/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-affinity-wolf-2025",
+      "title": "Lulama Wolf: I'm Not Governed By My Flesh",
+      "artist_ids": [
+        "art-lulama-wolf"
+      ],
+      "venue_id": "ven-affinity-art-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-11-05",
+      "end_date": "2026-01-17",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "mixed media"
+      ],
+      "description": "South African artist Lulama Wolf's first solo in Nigeria. Explores duality of fragility and endurance. Curated by Anelisa Mangcu.",
+      "url": "https://galleryaffinity.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-art-x-lagos-2025",
+      "title": "ART X Lagos 2025: Imagining Otherwise, No Matter the Tide (10th Edition)",
+      "artist_ids": [],
+      "venue_id": "ven-federal-palace-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-11-06",
+      "end_date": "2025-11-09",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "installation",
+        "textiles",
+        "mixed media",
+        "film"
+      ],
+      "description": "Landmark 10th edition. 15 galleries in Main and Spotlight sections. Special projects by Nengi Omuku, Dennis Osadebe, Temitayo Ogunbiyi, Sokari Douglas Camp. Inaugural ART X ICON exhibition on J.D. Okhai Ojeikere.",
+      "url": "https://www.artxlagos.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-tiwani-lagos-marcus-bello-2025",
+      "title": "Nifemi Marcus-Bello: Material Affirmations: ORIKI Acts I-III",
+      "artist_ids": [
+        "art-nifemi-marcus-bello"
+      ],
+      "venue_id": "ven-tiwani-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-11-07",
+      "end_date": "2026-01-10",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "design",
+        "sculpture",
+        "installation",
+        "mixed media"
+      ],
+      "description": "First solo show in Lagos by internationally acclaimed designer Nifemi Marcus-Bello. Practice interrogates material histories and identity. Co-presented by Tiwani and Marta Los Angeles.",
+      "url": "https://www.tiwani.co.uk/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-thought-pyramid-japa-2025",
+      "title": "JAPA Film and Art Group Exhibition",
+      "artist_ids": [],
+      "venue_id": "ven-thought-pyramid-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-10-05",
+      "end_date": "2025-10-18",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "mixed media",
+        "film"
+      ],
+      "description": "Dual-channel project confronting Nigeria's mass youth migration crisis. Documentary screening plus group art exhibition by 14 Next of Kin alumni. Curated by Ovie Omatsola.",
+      "url": "https://thoughtpyramidartcentre.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-nahous-slawn-2025",
+      "title": "Olaolu Slawn: BOBO",
+      "artist_ids": [
+        "art-olaolu-slawn"
+      ],
+      "venue_id": "ven-nahous-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-01",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture"
+      ],
+      "description": "Landmark homecoming exhibition by British-Nigerian artist. Largest presentation in Nigeria. Explores memory, distance, belonging. Curated by Teni Zaccheaus. Included 10 collaborating Lagos artists.",
+      "url": "https://hypebeast.com/2025/12/slawn-bobo-nahous-nigeria-exhibition-interview",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-rele-young-contemp-11-2026",
+      "title": "Young Contemporaries 11th Edition",
+      "artist_ids": [],
+      "venue_id": "ven-rele-gallery-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-01-10",
+      "end_date": "2026-02-21",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "mixed media"
+      ],
+      "description": "11th edition of Rele Arts Foundation's Young Contemporaries programme. Three emerging artists from the Foundation's residency in Ekiti State.",
+      "url": "https://www.rele.co/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-cca-lagos-chord-notes-2026",
+      "title": "Chord Notes: Body Rhythms in the City",
+      "artist_ids": [],
+      "venue_id": "ven-cca-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-02-01",
+      "end_date": "2026-05-31",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "mixed media",
+        "installation",
+        "sound",
+        "video"
+      ],
+      "description": "CCA Lagos and Goethe-Institut Nigeria collaboration exploring the body, rhythm, and urban life through artistic expressions responding to movement, sound, and city dynamics.",
+      "url": "https://ccalagos.org/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-lgw-2026",
+      "title": "Lagos Gallery Weekend 2026: Art for All",
+      "artist_ids": [],
+      "venue_id": "ven-lagos-multiple",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-03-05",
+      "end_date": "2026-03-08",
+      "type": "fair",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "installation",
+        "mixed media"
+      ],
+      "description": "Third edition of the citywide art weekend. 20 participating galleries across Yaba, Ikoyi, Victoria Island, and Lekki. Hub at Alliance Francaise. Workshops, film screenings, heritage tours, guided city routes.",
+      "url": "https://lagosgalleryweekend.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-oda-chukwuma-2026",
+      "title": "Gerald Chukwuma: Water Carried Us Here, Water Will Carry Us Away",
+      "artist_ids": [
+        "art-gerald-chukwuma"
+      ],
+      "venue_id": "ven-oda-art-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-03-05",
+      "end_date": "2026-04-30",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "mixed media",
+        "painting"
+      ],
+      "description": "New body of work inspired by the 1803 Igbo Landing. Portraiture (The Wrinkle Series) and watercolour abstraction (Index Series). Merges traditional Igbo aesthetics with Uli and Nsibidi symbols.",
+      "url": "https://lagosgalleryweekend.com/exhibitions/oda-art",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-affinity-nobakada-2026",
+      "title": "Buqaqawuli Nobakada (LGW 2026 presentation)",
+      "artist_ids": [],
+      "venue_id": "ven-affinity-art-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-03-05",
+      "end_date": "2026-04-30",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "mixed media",
+        "painting"
+      ],
+      "description": "Emerging South African mixed-media artist known for figurative portraits of women in moments of non-sexual intimacy and hyper-femininity.",
+      "url": "https://lagosgalleryweekend.com/exhibitions/affinity-gallery",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-nomadic-ayihawu-2026",
+      "title": "Paul Ayihawu: Ile Adua",
+      "artist_ids": [
+        "art-paul-ayihawu"
+      ],
+      "venue_id": "ven-nomadic-art-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-03-06",
+      "end_date": "2026-04-30",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "mixed media"
+      ],
+      "description": "Solo exhibition exploring spirituality, opening during Lagos Gallery Weekend 2026.",
+      "url": "",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-alliance-francaise-she-energy-2026",
+      "title": "She Energy II",
+      "artist_ids": [],
+      "venue_id": "ven-alliance-francaise-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2026-03-07",
+      "end_date": "2026-04-04",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "mixed media"
+      ],
+      "description": "Group exhibition of women-centred art, opening during Lagos Gallery Weekend 2026.",
+      "url": "",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-tiwani-lagos-prempeh-2025",
+      "title": "Emma Prempeh: Belonging In-Between",
+      "artist_ids": [],
+      "venue_id": "ven-tiwani-lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "region": "West Africa",
+      "start_date": "2025-03-06",
+      "end_date": "2025-05-24",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "mixed media"
+      ],
+      "description": "Tiwani Contemporary Lagos's opening show of 2025. Ghanaian-British artist Emma Prempeh exploring belonging, identity, and in-betweenness.",
+      "url": "https://www.tiwani.co.uk/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-03-27",
+      "status": "past",
+      "focus": "dedicated"
     }
   ],
   "artists": [
@@ -3030,6 +3748,180 @@ const WSW_DATA = {
       "birth_year": 1971,
       "website": "",
       "notes": ""
+    },
+    {
+      "id": "art-gerald-chukwuma",
+      "name": "Gerald Chukwuma",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Lagos",
+        "Nigeria"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "mixed media",
+        "sculpture",
+        "painting"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "Known for wood burning, chiselling, Uli and Nsibidi symbols"
+    },
+    {
+      "id": "art-lulama-wolf",
+      "name": "Lulama Wolf",
+      "origin_country": "South Africa",
+      "origin_region": "Southern Africa",
+      "based_in": [
+        "South Africa"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting",
+        "mixed media"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-olaolu-slawn",
+      "name": "Olaolu Slawn",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "London",
+        "United Kingdom"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting",
+        "sculpture"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "British-Nigerian artist"
+    },
+    {
+      "id": "art-yoma-emore",
+      "name": "Yoma Emore",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Nigeria"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "textiles",
+        "mixed media"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-kenny-adewuyi",
+      "name": "Kenny Adewuyi",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Nigeria"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "sculpture",
+        "drawing"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "Known for elongated bronze figures"
+    },
+    {
+      "id": "art-ugo-ahiakwo",
+      "name": "Ugo Ahiakwo",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Nigeria"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "sculpture"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "Works from discarded vehicle parts"
+    },
+    {
+      "id": "art-diana-ejaita",
+      "name": "Diana Ejaita",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Berlin",
+        "Germany"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "textiles",
+        "illustration",
+        "printmaking"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "Nigerian-Italian artist"
+    },
+    {
+      "id": "art-nifemi-marcus-bello",
+      "name": "Nifemi Marcus-Bello",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Lagos",
+        "Nigeria"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "design",
+        "sculpture",
+        "installation"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "Designer and sculptor"
+    },
+    {
+      "id": "art-salomon-moneyang",
+      "name": "Salomon Moneyang",
+      "origin_country": "Cameroon",
+      "origin_region": "Central Africa",
+      "based_in": [
+        "Cameroon"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-paul-ayihawu",
+      "name": "Paul Ayihawu",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Nigeria"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "mixed media"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": ""
     }
   ],
   "venues": [
@@ -3653,7 +4545,151 @@ const WSW_DATA = {
       "type": "institution",
       "website": "",
       "notes": "Public art commission"
+    },
+    {
+      "id": "ven-rele-gallery-lagos",
+      "name": "Rele Gallery",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "gallery",
+      "website": "https://www.rele.co",
+      "notes": ""
+    },
+    {
+      "id": "ven-thought-pyramid-lagos",
+      "name": "Thought Pyramid Art Centre",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "gallery",
+      "website": "https://thoughtpyramidartcentre.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-ko-gallery-lagos",
+      "name": "ko gallery",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "gallery",
+      "website": "https://ko-artspace.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-alexis-galleries-lagos",
+      "name": "Alexis Galleries",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "gallery",
+      "website": "https://alexisgalleries.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-cca-lagos",
+      "name": "Centre for Contemporary Art Lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "institution",
+      "website": "https://ccalagos.org",
+      "notes": "Reopened February 2025"
+    },
+    {
+      "id": "ven-affinity-art-lagos",
+      "name": "Affinity Art Gallery",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "gallery",
+      "website": "https://galleryaffinity.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-temple-muse-lagos",
+      "name": "Temple Muse",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "gallery",
+      "website": "https://www.temple-muse.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-smo-contemporary-lagos",
+      "name": "SMO Contemporary Art",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "gallery",
+      "website": "https://smocontemporaryart.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-adegbola-gallery-lagos",
+      "name": "ADEGBOLA Gallery",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "gallery",
+      "website": "",
+      "notes": "Victoria Island. Founded October 2025."
+    },
+    {
+      "id": "ven-nahous-lagos",
+      "name": "Nahous",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "gallery",
+      "website": "",
+      "notes": "Federal Palace Hotel east wing. Gallery + concept store + members club. Founded by Richard Vedelago."
+    },
+    {
+      "id": "ven-tiwani-lagos",
+      "name": "Tiwani Contemporary Lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "gallery",
+      "website": "https://www.tiwani.co.uk",
+      "notes": "Elsie Femi Pearse Street, Victoria Island"
+    },
+    {
+      "id": "ven-oda-art-lagos",
+      "name": "O'DA Art Gallery",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "gallery",
+      "website": "https://www.odaartgallery.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-national-theatre-lagos",
+      "name": "National Theatre Lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "institution",
+      "website": "",
+      "notes": "Restored collection curated by SMO Contemporary Art. Reopened October 2025."
+    },
+    {
+      "id": "ven-national-museum-lagos",
+      "name": "National Museum Lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "museum",
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "ven-alliance-francaise-lagos",
+      "name": "Alliance Francaise de Lagos",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "institution",
+      "website": "",
+      "notes": "Ikoyi"
+    },
+    {
+      "id": "ven-nomadic-art-lagos",
+      "name": "Nomadic Art Gallery",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "type": "gallery",
+      "website": "",
+      "notes": ""
     }
   ],
-  "generated": "2026-03-27 05:45"
+  "generated": "2026-03-27 06:04"
 };

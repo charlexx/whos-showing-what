@@ -619,5 +619,149 @@
     "type": "institution",
     "website": "",
     "notes": "Public art commission"
+  },
+  {
+    "id": "ven-rele-gallery-lagos",
+    "name": "Rele Gallery",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "gallery",
+    "website": "https://www.rele.co",
+    "notes": ""
+  },
+  {
+    "id": "ven-thought-pyramid-lagos",
+    "name": "Thought Pyramid Art Centre",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "gallery",
+    "website": "https://thoughtpyramidartcentre.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-ko-gallery-lagos",
+    "name": "ko gallery",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "gallery",
+    "website": "https://ko-artspace.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-alexis-galleries-lagos",
+    "name": "Alexis Galleries",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "gallery",
+    "website": "https://alexisgalleries.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-cca-lagos",
+    "name": "Centre for Contemporary Art Lagos",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "institution",
+    "website": "https://ccalagos.org",
+    "notes": "Reopened February 2025"
+  },
+  {
+    "id": "ven-affinity-art-lagos",
+    "name": "Affinity Art Gallery",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "gallery",
+    "website": "https://galleryaffinity.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-temple-muse-lagos",
+    "name": "Temple Muse",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "gallery",
+    "website": "https://www.temple-muse.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-smo-contemporary-lagos",
+    "name": "SMO Contemporary Art",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "gallery",
+    "website": "https://smocontemporaryart.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-adegbola-gallery-lagos",
+    "name": "ADEGBOLA Gallery",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "gallery",
+    "website": "",
+    "notes": "Victoria Island. Founded October 2025."
+  },
+  {
+    "id": "ven-nahous-lagos",
+    "name": "Nahous",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "gallery",
+    "website": "",
+    "notes": "Federal Palace Hotel east wing. Gallery + concept store + members club. Founded by Richard Vedelago."
+  },
+  {
+    "id": "ven-tiwani-lagos",
+    "name": "Tiwani Contemporary Lagos",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "gallery",
+    "website": "https://www.tiwani.co.uk",
+    "notes": "Elsie Femi Pearse Street, Victoria Island"
+  },
+  {
+    "id": "ven-oda-art-lagos",
+    "name": "O'DA Art Gallery",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "gallery",
+    "website": "https://www.odaartgallery.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-national-theatre-lagos",
+    "name": "National Theatre Lagos",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "institution",
+    "website": "",
+    "notes": "Restored collection curated by SMO Contemporary Art. Reopened October 2025."
+  },
+  {
+    "id": "ven-national-museum-lagos",
+    "name": "National Museum Lagos",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "museum",
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "ven-alliance-francaise-lagos",
+    "name": "Alliance Francaise de Lagos",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "institution",
+    "website": "",
+    "notes": "Ikoyi"
+  },
+  {
+    "id": "ven-nomadic-art-lagos",
+    "name": "Nomadic Art Gallery",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "type": "gallery",
+    "website": "",
+    "notes": ""
   }
 ]
