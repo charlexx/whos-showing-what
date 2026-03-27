@@ -341,11 +341,6 @@
     });
     searchInput.addEventListener("input", render);
 
-    // Update footer year
-    var footerP = document.querySelector("footer p");
-    if (footerP) {
-      footerP.textContent = "Radar \u2014 Built by Charlene Chikezie";
-    }
   }
 
   if (document.readyState === "loading") {

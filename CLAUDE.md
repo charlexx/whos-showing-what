@@ -16,7 +16,7 @@ Part of the Forme Femine ecosystem. Static site + Python CLI. No backend framewo
 - All IDs are slugified with prefixes: exh-, art-, ven-
 - No backend server, no database, no ORM, no framework
 - site-data.js is GENERATED — never edit it directly
-- Footer must read "Radar — Built by Charlene Chikezie"
+- Footer reads "Radar by Forme Femine" with Forme Femine linked to formefemine.com, plus copyright year below
 - Dark mode is the default
 - All filtering is client-side
 

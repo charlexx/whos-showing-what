@@ -78,21 +78,6 @@ body {
   line-height: 1.5;
 }
 
-.hero-byline {
-  margin-top: 0.35rem;
-  font-size: 0.9rem;
-}
-
-.hero-byline-link {
-  color: var(--accent);
-  text-decoration: none;
-  transition: text-decoration 0.2s;
-}
-
-.hero-byline-link:hover {
-  text-decoration: underline;
-}
-
 .hero-stats {
   margin-top: 1.25rem;
   font-size: 0.875rem;
@@ -426,8 +411,27 @@ footer {
   border-top: 1px solid var(--border);
   padding: 2rem 1.5rem;
   text-align: center;
+}
+
+.footer-brand {
   color: var(--text-secondary);
   font-size: 0.8125rem;
+}
+
+.footer-link {
+  color: var(--accent);
+  text-decoration: none;
+  transition: text-decoration 0.2s;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
+
+.footer-copy {
+  color: var(--text-secondary);
+  font-size: 0.6875rem;
+  margin-top: 0.35rem;
 }
 
 /* ========== Responsive: Tablet ========== */
