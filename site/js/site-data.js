@@ -118,26 +118,26 @@ const WSW_DATA = {
       "status": "current"
     },
     {
-      "id": "exh-hackney-veronica-ryan-2026",
+      "id": "exh-whitechapel-veronica-ryan-2026",
       "title": "Veronica Ryan: Multiple Conversations",
       "artist_ids": [
         "art-veronica-ryan"
       ],
-      "venue_id": "ven-veronica-ryan-hackney",
+      "venue_id": "ven-whitechapel-gallery",
       "city": "London",
       "country": "United Kingdom",
       "region": "Europe",
-      "start_date": "2026-02-01",
-      "end_date": "2026-06-30",
+      "start_date": "2026-04-01",
+      "end_date": "2026-06-14",
       "type": "solo",
-      "admission": "free",
+      "admission": "paid",
       "mediums": [
         "sculpture",
         "textiles",
         "works on paper"
       ],
       "description": "Showcases over 100 works across four decades from the Turner Prize winning artist, including recently rediscovered works from the 1980s.",
-      "url": "",
+      "url": "https://www.whitechapelgallery.org/exhibitions/veronica-ryan-multiple-conversations/",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
@@ -166,7 +166,7 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "The first exhibition to consider Pan-Africanism's influence on visual art and culture, and the critical role of artists in shaping Pan-African visions. Features work from Africa, Brazil, the Caribbean, North America and Western Europe.",
-      "url": "https://www.barbican.org.uk",
+      "url": "https://www.barbican.org.uk/whats-on/2026/event/project-a-black-planet",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
@@ -344,7 +344,7 @@ const WSW_DATA = {
         "mixed media"
       ],
       "description": "Art fair blending indoor and outdoor exhibitions in Shepstone Gardens. Strong focus on emerging artists, a discovery hub for collectors seeking new contemporary voices.",
-      "url": "",
+      "url": "https://rfrlatitudes.co.za",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
@@ -470,7 +470,7 @@ const WSW_DATA = {
         "installation"
       ],
       "description": "Tanzanian-British artist Lubaina Himid represents Great Britain at the 61st Venice Biennale. Turner Prize winner 2017.",
-      "url": "",
+      "url": "https://www.labiennale.org",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
@@ -596,7 +596,7 @@ const WSW_DATA = {
         "charcoal"
       ],
       "description": "Nigerian hyperrealist charcoal artist Ifeyinwa Joy Chiamonwu presents celebratory portraits of family and friends, asserting representation beyond Western standards.",
-      "url": "",
+      "url": "https://www.jackshainman.com",
       "image_url": "",
       "source": "manual",
       "added_date": "2026-03-27",
@@ -1133,12 +1133,12 @@ const WSW_DATA = {
       "notes": "Venue for Art X Lagos"
     },
     {
-      "id": "ven-veronica-ryan-hackney",
-      "name": "Hackney Museum",
+      "id": "ven-whitechapel-gallery",
+      "name": "Whitechapel Gallery",
       "city": "London",
       "country": "United Kingdom",
-      "type": "museum",
-      "website": "https://hackney.gov.uk/museum",
+      "type": "gallery",
+      "website": "https://www.whitechapelgallery.org",
       "notes": ""
     },
     {
@@ -1250,5 +1250,5 @@ const WSW_DATA = {
       "notes": ""
     }
   ],
-  "generated": "2026-03-27 01:03"
+  "generated": "2026-03-27 01:09"
 };

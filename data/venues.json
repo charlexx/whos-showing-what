@@ -99,12 +99,12 @@
     "notes": "Venue for Art X Lagos"
   },
   {
-    "id": "ven-veronica-ryan-hackney",
-    "name": "Hackney Museum",
+    "id": "ven-whitechapel-gallery",
+    "name": "Whitechapel Gallery",
     "city": "London",
     "country": "United Kingdom",
-    "type": "museum",
-    "website": "https://hackney.gov.uk/museum",
+    "type": "gallery",
+    "website": "https://www.whitechapelgallery.org",
     "notes": ""
   },
   {
