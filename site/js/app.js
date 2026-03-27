@@ -322,17 +322,21 @@
     if (exh.description) {
       body += "<p class=\"card-description\">" + esc(exh.description) + "</p>";
     }
+    body += "<div class=\"card-body-links\">";
+    body += "<a class=\"card-detail-link\" href=\"exhibition/" + encodeURIComponent(exh.id) + ".html\">" +
+      "View details <span>\u2192</span></a>";
     if (exh.url) {
       body += "<a class=\"card-link\" href=\"" + esc(exh.url) + "\" target=\"_blank\" rel=\"noopener noreferrer\">" +
         "Visit exhibition <span class=\"card-link-arrow\">\u2192</span>" +
       "</a>";
     }
     body += "</div>";
+    body += "</div>";
 
     card.innerHTML = header + artistsHtml + meta + badges + mediums + body;
 
     card.addEventListener("click", function (e) {
-      if (e.target.closest(".card-link")) return;
+      if (e.target.closest(".card-link") || e.target.closest(".card-detail-link")) return;
       card.classList.toggle("expanded");
     });
 

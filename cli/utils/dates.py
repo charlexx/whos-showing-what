@@ -10,6 +10,11 @@ MONTHS = [
     "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
 ]
 
+MONTHS_LONG = [
+    "January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December",
+]
+
 
 def is_valid_date(date_str):
     """Check if a string is a valid YYYY-MM-DD date."""
@@ -32,6 +37,12 @@ def format_date(date_str):
     """Return human-readable format like '15 Feb 2026'."""
     d = parse_date(date_str)
     return f"{d.day} {MONTHS[d.month - 1]} {d.year}"
+
+
+def format_date_long(date_str):
+    """Return human-readable format like '8 October 2025'."""
+    d = parse_date(date_str)
+    return f"{d.day} {MONTHS_LONG[d.month - 1]} {d.year}"
 
 
 def validate_date_range(start_str, end_str):

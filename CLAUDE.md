@@ -9,6 +9,8 @@ Part of the Forme Femine ecosystem. Static site + Python CLI. No backend framewo
 - CLI: Python, entry point is cli/wsw.py
 - Site: vanilla HTML/CSS/JS in site/, no frameworks
 - Build: CLI generates site/js/site-data.js from JSON sources
+- Build: CLI generates individual exhibition pages at site/exhibition/{id}.html
+- Build: CLI generates sitemap.xml and robots.txt in site/
 - Deploy: Cloudflare Pages from site/ directory
 
 ## Hard rules
@@ -16,6 +18,8 @@ Part of the Forme Femine ecosystem. Static site + Python CLI. No backend framewo
 - All IDs are slugified with prefixes: exh-, art-, ven-
 - No backend server, no database, no ORM, no framework
 - site-data.js is GENERATED — never edit it directly
+- site/exhibition/*.html are GENERATED — never edit them directly
+- sitemap.xml and robots.txt are GENERATED — never edit them directly
 - Footer reads "Radar by Forme Femine" with Forme Femine linked to formefemine.com, plus copyright year below
 - Dark mode is the default
 - All filtering is client-side
