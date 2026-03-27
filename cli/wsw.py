@@ -4,7 +4,7 @@
 import argparse
 import sys
 
-from commands import exhibition, artist, venue, build, stats, validate
+from commands import exhibition, artist, venue, build, stats, validate, verify
 
 
 BANNER = """
@@ -14,10 +14,13 @@ BANNER = """
 
 
 def refresh(args):
-    """Run validate + build in sequence."""
+    """Run validate + verify + build in sequence."""
     val_exit = validate.run_validate(args)
     if val_exit != 0:
         return val_exit
+    ver_exit = verify.run_verify(args)
+    if ver_exit != 0:
+        return ver_exit
     return build.run_build(args)
 
 
@@ -34,8 +37,9 @@ def main():
     build.register(subparsers)
     stats.register(subparsers)
     validate.register(subparsers)
+    verify.register(subparsers)
 
-    # refresh = validate + build
+    # refresh = validate + verify + build
     refresh_p = subparsers.add_parser("refresh", help="Validate data then build site")
     refresh_p.set_defaults(func=refresh)
 

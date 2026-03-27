@@ -52,7 +52,7 @@ type values: gallery | museum | institution | project-space | fair | biennial-ve
 
 ## CLI namespace
 Entry point: python cli/wsw.py
-Commands: exhibition, artist, venue, build, stats, validate, refresh
+Commands: exhibition, artist, venue, build, stats, validate, verify, refresh
 
 ## Colours
 Background: #0a0a0a
@@ -65,6 +65,17 @@ Accent hover: #d4b88a
 Status current: #4a9e6e
 Status upcoming: #5b8dd4
 Status past: #6b6560
+
+## Verify command
+Layer 1 only — stdlib, no external dependencies or API costs.
+`python cli/wsw.py verify` fact-checks every exhibition and scores confidence:
+- **high**: URL resolves (200), title or artist name confirmed on page, dates valid, all fields complete
+- **medium**: URL resolves but content not confirmed, or minor warnings (no artist match, exhibition not on venue site)
+- **low**: URL returns 404/error, date sanity fails, missing required fields, no URL and no venue website to cross-reference
+Checks performed: URL resolution (HEAD/GET), page content matching (title + artist names), venue website cross-reference, date sanity (>2yr duration, start>end, placeholder dates), duplicate detection (difflib, 0.8 threshold), required field completeness.
+Flags: `--dry-run` (print only, no save), `--quiet` (skip high-confidence results).
+Results saved to exhibitions.json as `verified`, `verified_date`, `confidence` fields.
+`refresh` runs: validate -> verify -> build.
 
 ## Commit discipline
 Run `python cli/wsw.py validate` before every commit.
