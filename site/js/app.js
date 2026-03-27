@@ -58,6 +58,9 @@
   var selMedium = document.getElementById("filter-medium");
   var selFocus = document.getElementById("filter-focus");
 
+  var timePills = document.querySelectorAll(".time-pill");
+  var activeTimePill = null;
+
   var allFilters = [selStatus, selCity, selCountry, selRegion, selType, selAdmission, selMedium, selFocus];
 
   // ==================== Helpers ====================
@@ -107,6 +110,73 @@
   function capitalize(s) {
     if (!s) return "";
     return s.charAt(0).toUpperCase() + s.slice(1);
+  }
+
+  // ==================== Time Filter Logic ====================
+  function getDateOnly(d) {
+    var r = new Date(d.getTime());
+    r.setHours(0, 0, 0, 0);
+    return r;
+  }
+
+  function rangesOverlap(exhStart, exhEnd, rangeStart, rangeEnd) {
+    return exhStart <= rangeEnd && exhEnd >= rangeStart;
+  }
+
+  function matchesTimeFilter(exh, timeKey) {
+    if (!timeKey) return true;
+    var today = getDateOnly(new Date());
+    var exhStart = parseDate(exh.start_date);
+    var exhEnd = parseDate(exh.end_date);
+
+    if (timeKey === "today") {
+      return exhStart <= today && exhEnd >= today;
+    }
+    if (timeKey === "tomorrow") {
+      var tom = new Date(today.getTime());
+      tom.setDate(tom.getDate() + 1);
+      return exhStart <= tom && exhEnd >= tom;
+    }
+    if (timeKey === "this-week") {
+      var weekEnd = new Date(today.getTime());
+      var dayOfWeek = today.getDay();
+      var daysUntilSun = dayOfWeek === 0 ? 0 : 7 - dayOfWeek;
+      weekEnd.setDate(weekEnd.getDate() + daysUntilSun);
+      return rangesOverlap(exhStart, exhEnd, today, weekEnd);
+    }
+    if (timeKey === "this-weekend") {
+      var dayNow = today.getDay();
+      var satOffset = dayNow === 0 ? -1 : 6 - dayNow;
+      var sat = new Date(today.getTime());
+      sat.setDate(sat.getDate() + satOffset);
+      var sun = new Date(sat.getTime());
+      sun.setDate(sun.getDate() + 1);
+      if (sun < today) return false;
+      var wkStart = sat < today ? today : sat;
+      return rangesOverlap(exhStart, exhEnd, wkStart, sun);
+    }
+    if (timeKey === "this-month") {
+      var monthStart = new Date(today.getFullYear(), today.getMonth(), 1);
+      var monthEnd = new Date(today.getFullYear(), today.getMonth() + 1, 0);
+      return rangesOverlap(exhStart, exhEnd, monthStart, monthEnd);
+    }
+    if (timeKey === "opening-soon") {
+      var limit = new Date(today.getTime());
+      limit.setDate(limit.getDate() + 14);
+      return exhStart > today && exhStart <= limit;
+    }
+    return true;
+  }
+
+  function setActiveTimePill(timeKey) {
+    activeTimePill = timeKey || null;
+    timePills.forEach(function (btn) {
+      if (btn.getAttribute("data-time") === activeTimePill) {
+        btn.classList.add("active");
+      } else {
+        btn.classList.remove("active");
+      }
+    });
   }
 
   function uniqueSorted(arr) {
@@ -201,6 +271,10 @@
       var val = params.get(key);
       if (val) PARAM_MAP[key].value = val;
     });
+    var timeParam = params.get("time");
+    if (timeParam) {
+      setActiveTimePill(timeParam);
+    }
   }
 
   function writeParams() {
@@ -209,6 +283,7 @@
       var val = PARAM_MAP[key].value;
       if (val) params.set(key, val);
     });
+    if (activeTimePill) params.set("time", activeTimePill);
     var qs = params.toString();
     var url = window.location.pathname + (qs ? "?" + qs : "");
     history.replaceState(null, "", url);
@@ -244,6 +319,7 @@
       exh._status = deriveStatus(exh);
 
       if (fStatus && exh._status !== fStatus) return false;
+      if (activeTimePill && !matchesTimeFilter(exh, activeTimePill)) return false;
       if (fCity && exh.city !== fCity) return false;
       if (fCountry && exh.country !== fCountry) return false;
       if (fRegion && exh.region !== fRegion) return false;
@@ -373,9 +449,27 @@
     render();
 
     allFilters.forEach(function (el) {
-      el.addEventListener("change", render);
+      el.addEventListener("change", function () {
+        if (el === selStatus && selStatus.value) {
+          setActiveTimePill(null);
+        }
+        render();
+      });
     });
     searchInput.addEventListener("input", render);
+
+    timePills.forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var key = btn.getAttribute("data-time");
+        if (activeTimePill === key) {
+          setActiveTimePill(null);
+        } else {
+          setActiveTimePill(key);
+          selStatus.value = "";
+        }
+        render();
+      });
+    });
 
   }
 

@@ -236,6 +236,40 @@ body {
   border-color: var(--accent);
 }
 
+/* === Time Filter Pills === */
+.time-filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 0.625rem;
+  margin-bottom: 0.25rem;
+}
+
+.time-pill {
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-secondary);
+  font-family: var(--font);
+  transition: all 0.15s;
+}
+
+.time-pill:hover {
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+.time-pill.active {
+  background: var(--accent);
+  color: var(--bg);
+  border-color: var(--accent);
+  font-weight: 600;
+}
+
 .filter-count {
   font-size: 0.75rem;
   color: var(--text-secondary);
