@@ -296,6 +296,11 @@
 
   // ==================== Sort ====================
   function sortExhibitions(list) {
+    if (activeTimePill === "closing-soon") {
+      return list.slice().sort(function (a, b) {
+        return a.end_date.localeCompare(b.end_date);
+      });
+    }
     var statusOrder = { current: 0, upcoming: 1, past: 2 };
     return list.slice().sort(function (a, b) {
       var sa = statusOrder[a._status] || 1;
