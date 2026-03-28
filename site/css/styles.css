@@ -531,6 +531,16 @@ main {
   color: var(--status-upcoming);
 }
 
+.badge-focus.diaspora {
+  background: rgba(126, 34, 206, 0.15);
+  color: #7e22ce;
+}
+
+[data-theme="light"] .badge-focus.diaspora {
+  background: rgba(107, 33, 168, 0.15);
+  color: #6b21a8;
+}
+
 .badge-focus.featured {
   background: var(--badge-bg);
   color: var(--text-secondary);

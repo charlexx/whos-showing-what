@@ -1,7 +1,7 @@
 # CLAUDE.md — Radar — Forme Femine
 
 ## What this is
-A curated exhibition tracker for African artists showing worldwide.
+A curated exhibition tracker for African and Black diaspora artists showing worldwide.
 Part of the Forme Femine ecosystem. Static site + Python CLI. No backend framework.
 
 ## Architecture
@@ -38,10 +38,11 @@ Part of the Forme Femine ecosystem. Static site + Python CLI. No backend framewo
 Required fields: id, title, artist_ids (array of art- IDs), venue_id (ven- ID), city, country, region, start_date (YYYY-MM-DD), end_date (YYYY-MM-DD), type, admission, mediums (array), focus, source, added_date, status
 Optional fields: description, url, image_url
 type values: solo | group | fair | biennial | residency | screening | performance
-focus values: dedicated | significant | featured
+focus values: dedicated | diaspora | significant | featured
   dedicated = exhibition is specifically about African artists/art
-  significant = African artists are a major presence but not exclusively African
-  featured = one or more African artists included in a broader show
+  diaspora = exhibition by or about artists of African descent from outside the continent (African American, Afro-Caribbean, Afro-Brazilian, Afro-Latino, etc.)
+  significant = African or Black diaspora artists are a major presence but not exclusively so
+  featured = one or more African or Black diaspora artists included in a broader show
 admission values: free | paid | donation | rsvp
 status values: upcoming | current | past
 source values: manual | submission | scrape | api

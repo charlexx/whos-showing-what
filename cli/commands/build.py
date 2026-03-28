@@ -159,7 +159,14 @@ def _render_exhibition_page(exh, artist_map, venue_map):
     if admission:
         details_items.append(f"<dt>Admission</dt><dd>{admission}</dd>")
     if focus:
-        details_items.append(f"<dt>Focus</dt><dd>{h(focus)}</dd>")
+        focus_labels = {
+            "dedicated": "Dedicated to African artists",
+            "diaspora": "Black diaspora artists",
+            "significant": "Significant African and diaspora presence",
+            "featured": "African and diaspora artists featured",
+        }
+        focus_display = focus_labels.get(focus, h(focus))
+        details_items.append(f"<dt>Focus</dt><dd>{focus_display}</dd>")
     if exh.get("source"):
         details_items.append(f'<dt>Source</dt><dd>{h(exh["source"])}</dd>')
     if exh.get("confidence"):

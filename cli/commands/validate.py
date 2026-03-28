@@ -11,7 +11,7 @@ DATA_DIR = Path(__file__).resolve().parent.parent.parent / "data"
 STATUSES = {"upcoming", "current", "past"}
 TYPES = {"solo", "group", "fair", "biennial", "residency", "screening", "performance"}
 ADMISSION = {"free", "paid", "donation", "rsvp"}
-FOCUS = {"dedicated", "significant", "featured"}
+FOCUS = {"dedicated", "diaspora", "significant", "featured"}
 SOURCES = {"manual", "submission", "scrape", "api"}
 REGIONS = {
     "West Africa", "East Africa", "Southern Africa", "North Africa", "Central Africa",

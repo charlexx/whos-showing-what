@@ -113,7 +113,7 @@ const WSW_DATA = {
         "video",
         "photography"
       ],
-      "focus": "significant",
+      "focus": "diaspora",
       "description": "Explores the intersections of Blackness and the cosmos across three floors. Features artists including Lorna Simpson, Rashaad Newsome, Harmonia Rosales, and Gustavo Nazareno.",
       "url": "https://www.moadsf.org/exhibitions",
       "image_url": "",
@@ -1333,7 +1333,7 @@ const WSW_DATA = {
         "photography",
         "mixed media"
       ],
-      "focus": "dedicated",
+      "focus": "diaspora",
       "description": "29th year of annual exhibition spotlighting creativity of artists of African descent. 150+ artists plus open studios.",
       "url": "https://richmondartcenter.org/exhibitions/art-of-the-african-diaspora-2026/",
       "image_url": "",
@@ -1549,7 +1549,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "diaspora"
     },
     {
       "id": "exh-october-inheriting-future-2025",
@@ -1658,7 +1658,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming",
-      "focus": "dedicated"
+      "focus": "diaspora"
     },
     {
       "id": "exh-gasworks-nengudi-2026",
@@ -1685,7 +1685,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming",
-      "focus": "dedicated"
+      "focus": "diaspora"
     },
     {
       "id": "exh-camden-locke-2026",
@@ -1713,7 +1713,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming",
-      "focus": "dedicated"
+      "focus": "diaspora"
     },
     {
       "id": "exh-ra-kerry-james-marshall-2025",
@@ -1739,7 +1739,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "diaspora"
     },
     {
       "id": "exh-hayward-mickalene-thomas-2025",
@@ -1767,7 +1767,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "diaspora"
     },
     {
       "id": "exh-barbican-curve-noah-davis-2025",
@@ -1792,7 +1792,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "diaspora"
     },
     {
       "id": "exh-gallery1957-fadugba-2025",
@@ -1869,7 +1869,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "upcoming",
-      "focus": "dedicated"
+      "focus": "diaspora"
     },
     {
       "id": "exh-pilar-corrias-mathieu-2025",
@@ -1894,7 +1894,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "diaspora"
     },
     {
       "id": "exh-gagosian-gordon-parks-2026",
@@ -1919,7 +1919,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "diaspora"
     },
     {
       "id": "exh-autograph-lost-vocabularies-2025",
@@ -2815,7 +2815,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "diaspora"
     },
     {
       "id": "exh-savvy-counter-spells-2025",
@@ -2917,7 +2917,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "past",
-      "focus": "dedicated"
+      "focus": "diaspora"
     },
     {
       "id": "exh-gropius-bau-ligia-lewis-2025",
@@ -2944,7 +2944,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "diaspora"
     },
     {
       "id": "exh-kw-bpa-2025",
@@ -3023,7 +3023,7 @@ const WSW_DATA = {
       "source": "manual",
       "added_date": "2026-03-27",
       "status": "current",
-      "focus": "dedicated"
+      "focus": "diaspora"
     },
     {
       "id": "exh-positions-berlin-2026",
@@ -5192,5 +5192,5 @@ const WSW_DATA = {
       "notes": ""
     }
   ],
-  "generated": "2026-03-28 01:31"
+  "generated": "2026-03-28 02:03"
 };

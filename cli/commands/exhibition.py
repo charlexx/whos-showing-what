@@ -12,7 +12,7 @@ DATA_FILE = DATA_DIR / "exhibitions.json"
 
 TYPES = ["solo", "group", "fair", "biennial", "residency", "screening", "performance"]
 ADMISSION = ["free", "paid", "donation", "rsvp"]
-FOCUS = ["dedicated", "significant", "featured"]
+FOCUS = ["dedicated", "diaspora", "significant", "featured"]
 STATUSES = ["upcoming", "current", "past"]
 SOURCES = ["manual", "submission", "scrape", "api"]
 REGIONS = [
