@@ -165,6 +165,11 @@
       limit.setDate(limit.getDate() + 14);
       return exhStart > today && exhStart <= limit;
     }
+    if (timeKey === "closing-soon") {
+      var limit = new Date(today.getTime());
+      limit.setDate(limit.getDate() + 14);
+      return exhStart <= today && exhEnd >= today && exhEnd <= limit;
+    }
     return true;
   }
 
