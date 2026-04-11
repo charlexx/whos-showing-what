@@ -3943,5 +3943,527 @@
     "added_date": "2026-04-11",
     "status": "past",
     "focus": "dedicated"
+  },
+  {
+    "id": "exh-whitney-sherald-2025",
+    "title": "Amy Sherald: American Sublime",
+    "artist_ids": [
+      "art-amy-sherald"
+    ],
+    "venue_id": "ven-whitney-museum",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2025-04-09",
+    "end_date": "2025-08-10",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "painting"
+    ],
+    "description": "First major museum survey. ~50 paintings spanning 2007-present including iconic portraits of Michelle Obama and Breonna Taylor. Curated by Rujeko Hockley.",
+    "url": "https://whitney.org/exhibitions/amy-sherald",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "past",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-guggenheim-rashid-johnson-2025",
+    "title": "Rashid Johnson: A Poem for Deep Thinkers",
+    "artist_ids": [
+      "art-rashid-johnson"
+    ],
+    "venue_id": "ven-guggenheim",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2025-04-18",
+    "end_date": "2026-01-18",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "video",
+      "installation",
+      "mixed media"
+    ],
+    "description": "Major mid-career survey spanning the entire rotunda. 90+ artworks including Anxious Men, Broken Men, Cosmic Slops, spray-painted text works, and large-scale sculpture. Site-specific installation with live plants, books, and piano.",
+    "url": "https://www.guggenheim.org/exhibition/rashid-johnson-a-poem-for-deep-thinkers",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "past",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-moma-jafa-2025",
+    "title": "Artist's Choice: Arthur Jafa - Less Is Morbid",
+    "artist_ids": [
+      "art-arthur-jafa"
+    ],
+    "venue_id": "ven-moma",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2025-11-19",
+    "end_date": "2026-07-05",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "installation",
+      "mixed media"
+    ],
+    "description": "Jafa selects 80+ works from MoMA's collection examining Blackness in modern art. Pairs Basquiat with Twombly, Lygia Clark with Roy DeCarava, Mondrian with Lutisha Pettway. Part of MoMA's Artist's Choice series.",
+    "url": "https://www.moma.org/calendar/exhibitions/5825",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-ps1-goliath-2025",
+    "title": "Gabrielle Goliath: Personal Accounts",
+    "artist_ids": [
+      "art-gabrielle-goliath"
+    ],
+    "venue_id": "ven-moma-ps1",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2025-11-06",
+    "end_date": "2026-03-16",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "video",
+      "installation"
+    ],
+    "description": "US premiere of Goliath's acclaimed video series responding to patriarchal violence globally. Withholds narrative speech, portraying breaths, sighs, cries between survivors' recounts. Goliath represents South Africa at 2026 Venice Biennale.",
+    "url": "https://www.momaps1.org/en/programs/612-gabrielle-goliath",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "past",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-ps1-greater-new-york-2026",
+    "title": "Greater New York 2026",
+    "artist_ids": [],
+    "venue_id": "ven-moma-ps1",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-04-16",
+    "end_date": "2026-08-17",
+    "type": "group",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "installation",
+      "performance",
+      "mixed media"
+    ],
+    "description": "Sixth edition of PS1's signature quinquennial survey. 53 artists/collectives, 150+ works. Marks PS1's 50th anniversary. Free admission 2026-2028. Curated by Connie Butler and Ruba Katrib.",
+    "url": "https://www.momaps1.org/en/programs/702-greater-new-york-2026",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "significant"
+  },
+  {
+    "id": "exh-whitney-biennial-2026",
+    "title": "Whitney Biennial 2026",
+    "artist_ids": [
+      "art-precious-okoyomon"
+    ],
+    "venue_id": "ven-whitney-museum",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-03-08",
+    "end_date": "2026-08-31",
+    "type": "biennial",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "installation",
+      "video",
+      "performance",
+      "mixed media"
+    ],
+    "description": "82nd edition of the longest-running survey of American art. 56 artists curated by Marcela Guerrero and Drew Sawyer. Includes Precious Okoyomon (Nigerian-American). Coincides with Greater New York for first time since 2010.",
+    "url": "https://whitney.org/exhibitions/2026-biennial",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "significant"
+  },
+  {
+    "id": "exh-studio-museum-tom-lloyd-2025",
+    "title": "Tom Lloyd (retrospective)",
+    "artist_ids": [
+      "art-tom-lloyd"
+    ],
+    "venue_id": "ven-studio-museum-harlem",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2025-07-29",
+    "end_date": "2026-07-30",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "light sculpture",
+      "electronic art",
+      "installation"
+    ],
+    "description": "Comprehensive retrospective of Tom Lloyd (1929-1996) whose Electronic Refractions series was the subject of the Studio Museum's very first exhibition in 1968. Inaugurates the new Adjaye-designed building.",
+    "url": "https://www.studiomuseum.org/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-studio-museum-from-now-2025",
+    "title": "From Now: A Collection in Context",
+    "artist_ids": [],
+    "venue_id": "ven-studio-museum-harlem",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2025-11-15",
+    "end_date": "2026-08-16",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "photography",
+      "mixed media"
+    ],
+    "description": "First comprehensive presentation of the Studio Museum's permanent collection in the new building. Traces creativity by artists of African descent across multiple decades.",
+    "url": "https://www.studiomuseum.org/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-studio-museum-to-be-a-place-2025",
+    "title": "To Be A Place",
+    "artist_ids": [],
+    "venue_id": "ven-studio-museum-harlem",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2025-11-15",
+    "end_date": "2026-08-30",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "photography",
+      "archival"
+    ],
+    "description": "Presentation of archival photographs and ephemera spanning the Studio Museum's 56-year history of exhibitions, events, and programmes.",
+    "url": "https://www.studiomuseum.org/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-studio-museum-air-works-2025",
+    "title": "From the Studio: Fifty-Eight Years of Artists in Residence",
+    "artist_ids": [],
+    "venue_id": "ven-studio-museum-harlem",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2025-11-15",
+    "end_date": "2026-08-30",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "works on paper"
+    ],
+    "description": "Newly created works on paper by nearly all former artists-in-residence, installed in 4th-floor studios. Reflects on the history and impact of the Museum's signature AIR programme.",
+    "url": "https://www.studiomuseum.org/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-studio-museum-expanding-walls-2025",
+    "title": "Expanding the Walls: Photography, History, and Community",
+    "artist_ids": [],
+    "venue_id": "ven-studio-museum-harlem",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2025-11-15",
+    "end_date": "2026-04-12",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "photography"
+    ],
+    "description": "Works by teen participants from the Museum's free photography programme shown alongside images by celebrated Harlem photographer James Van Der Zee.",
+    "url": "https://www.studiomuseum.org/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "past",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-studio-museum-kiwanga-2026",
+    "title": "Kapwani Kiwanga: BLEED",
+    "artist_ids": [
+      "art-kapwani-kiwanga"
+    ],
+    "venue_id": "ven-studio-museum-harlem",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-03-11",
+    "end_date": "2027-04-01",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "textile",
+      "installation"
+    ],
+    "description": "Site-specific commission inspired by quilting traditions and Underground Railroad codes. Flying geese motif in black, blue, crimson using Atlantic Ocean salt water oxidation, pokeberry dye, and indigo - materials referencing histories of slavery, resistance, and ancestral knowledge.",
+    "url": "https://www.studiomuseum.org/exhibitions/kapwani-kiwanga-bleed",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-studio-museum-fade-2026",
+    "title": "Fade",
+    "artist_ids": [],
+    "venue_id": "ven-studio-museum-harlem",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-05-01",
+    "end_date": "2026-09-06",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "installation",
+      "mixed media"
+    ],
+    "description": "Sixth installment of the Studio Museum's celebrated F show series. 17 early-career artists of African and Afro-Latinx descent with newly commissioned and loaned artworks.",
+    "url": "https://www.studiomuseum.org/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "upcoming",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-studio-museum-norment-2025",
+    "title": "Camille Norment: Untitled (heliotrope)",
+    "artist_ids": [
+      "art-camille-norment"
+    ],
+    "venue_id": "ven-studio-museum-harlem",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2025-11-15",
+    "end_date": "2026-12-31",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "sound sculpture",
+      "installation"
+    ],
+    "description": "Site-specific sonic sculpture composed of brass tubing featuring a chorus of voices. Installed on the Museum's terrace staircase.",
+    "url": "https://www.studiomuseum.org/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-pace-gilliam-2026",
+    "title": "Sam Gilliam: STITCHED",
+    "artist_ids": [
+      "art-sam-gilliam"
+    ],
+    "venue_id": "ven-pace-gallery-nyc",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-03-12",
+    "end_date": "2026-04-25",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "sculpture"
+    ],
+    "description": "US debut of works created during 1993 Irish residency at Ballinglen Arts Foundation. Pre-painted canvases shipped and stitched in Ireland. Wall-mounted works plus never-before-seen volumetric hanging sculptures.",
+    "url": "https://www.pacegallery.com/exhibitions/sam-gilliam-stitched/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-lehmann-maupin-binion-2026",
+    "title": "McArthur Binion: Stuttering:Standing:Still II",
+    "artist_ids": [
+      "art-mcarthur-binion"
+    ],
+    "venue_id": "ven-lehmann-maupin-nyc",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-03-05",
+    "end_date": "2026-04-18",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "mixed media"
+    ],
+    "description": "New works including Self:Portrait and Under:Ground series. Layers personal documents (birth certificates, phone book pages) beneath oil stick and ink abstractions.",
+    "url": "https://www.lehmannmaupin.com/exhibitions/mcarthur-binion5",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-bronx-museum-aim-2026",
+    "title": "The Seventh AIM Biennial: Forms of Connection",
+    "artist_ids": [],
+    "venue_id": "ven-bronx-museum",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-01-23",
+    "end_date": "2026-06-30",
+    "type": "biennial",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "installation",
+      "mixed media"
+    ],
+    "description": "Seventh edition of the AIM (Artists in the Marketplace) Biennial. Since 1980, over 1,200 emerging NYC artists have participated in the fellowship programme.",
+    "url": "https://bronxmuseum.org/exhibitions/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "significant"
+  },
+  {
+    "id": "exh-new-museum-inaugural-2025",
+    "title": "New Humans, Memories of the Future",
+    "artist_ids": [],
+    "venue_id": "ven-new-museum",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "installation",
+      "video",
+      "mixed media"
+    ],
+    "description": "Inaugural exhibition in the New Museum's new seven-storey OMA expansion. 150+ artists exploring how makers envision humanity amid technological change. Includes work by artists of African descent.",
+    "url": "https://www.newmuseum.org/",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "significant"
+  },
+  {
+    "id": "exh-moma-new-photography-2025",
+    "title": "New Photography: Lines of Belonging",
+    "artist_ids": [
+      "art-gabrielle-goliath"
+    ],
+    "venue_id": "ven-moma",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2025-09-14",
+    "end_date": "2026-01-17",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "photography",
+      "video"
+    ],
+    "description": "MoMA's New Photography series. Includes South African artist Gabrielle Goliath's Berenice 29-39 alongside other international photographers exploring belonging, identity, and place.",
+    "url": "https://www.moma.org/artists/137390-gabrielle-goliath",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "past",
+    "focus": "significant"
+  },
+  {
+    "id": "exh-aca-continuum-2026",
+    "title": "Continuum: Over 100 Years of Black Art",
+    "artist_ids": [
+      "art-sam-gilliam"
+    ],
+    "venue_id": "ven-aca-galleries",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "start_date": "2026-01-31",
+    "end_date": "2026-03-07",
+    "type": "group",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "works on paper"
+    ],
+    "description": "Group exhibition spanning over a century of Black art in America. Includes work by Sam Gilliam and other significant African American artists.",
+    "url": "https://www.acagalleries.com",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "past",
+    "focus": "dedicated"
   }
 ]

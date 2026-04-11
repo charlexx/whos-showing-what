@@ -1494,5 +1494,169 @@
     "birth_year": null,
     "website": "",
     "notes": "One of few artists in the region producing etchings with embossing"
+  },
+  {
+    "id": "art-amy-sherald",
+    "name": "Amy Sherald",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "is_diaspora": true,
+    "mediums": [
+      "painting"
+    ],
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "African American. Painted official portrait of Michelle Obama. Known for grey-toned skin palette."
+  },
+  {
+    "id": "art-rashid-johnson",
+    "name": "Rashid Johnson",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "sculpture",
+      "video",
+      "installation",
+      "mixed media"
+    ],
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "African American. Anxious Men series, Broken Men, Cosmic Slops."
+  },
+  {
+    "id": "art-arthur-jafa",
+    "name": "Arthur Jafa",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "is_diaspora": true,
+    "mediums": [
+      "video",
+      "installation",
+      "mixed media",
+      "film"
+    ],
+    "based_in": [
+      "Los Angeles",
+      "United States"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "African American. Turner Prize nominee. Love Is the Message, The Message Is Death."
+  },
+  {
+    "id": "art-gabrielle-goliath",
+    "name": "Gabrielle Goliath",
+    "origin_country": "South Africa",
+    "origin_region": "Southern Africa",
+    "is_diaspora": false,
+    "mediums": [
+      "video",
+      "installation",
+      "performance"
+    ],
+    "based_in": [
+      "Johannesburg",
+      "South Africa"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "Representing South Africa at 2026 Venice Biennale. Work addresses patriarchal violence."
+  },
+  {
+    "id": "art-precious-okoyomon",
+    "name": "Precious Okoyomon",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "is_diaspora": true,
+    "mediums": [
+      "installation",
+      "sculpture",
+      "poetry"
+    ],
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "Nigerian-American artist and poet. Featured in Whitney Biennial 2026."
+  },
+  {
+    "id": "art-tom-lloyd",
+    "name": "Tom Lloyd",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "is_diaspora": true,
+    "mediums": [
+      "light sculpture",
+      "electronic art",
+      "installation"
+    ],
+    "based_in": [],
+    "birth_year": 1929,
+    "website": "",
+    "notes": "African American. Pioneer of electronic art. Subject of Studio Museum's very first exhibition in 1968. Died 1996."
+  },
+  {
+    "id": "art-camille-norment",
+    "name": "Camille Norment",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "is_diaspora": true,
+    "mediums": [
+      "sound sculpture",
+      "installation"
+    ],
+    "based_in": [
+      "Oslo",
+      "Norway"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "African American. Sound artist and composer based in Oslo. Represented Norway at 2015 Venice Biennale."
+  },
+  {
+    "id": "art-sam-gilliam",
+    "name": "Sam Gilliam",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "sculpture",
+      "installation"
+    ],
+    "based_in": [],
+    "birth_year": 1933,
+    "website": "",
+    "notes": "African American. Pioneered Drape paintings. Washington Color School. Died 2022."
+  },
+  {
+    "id": "art-mcarthur-binion",
+    "name": "McArthur Binion",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "mixed media"
+    ],
+    "based_in": [
+      "Chicago",
+      "United States"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "African American. Layers personal documents beneath oil stick and ink abstractions."
   }
 ]

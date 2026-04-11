@@ -997,5 +997,86 @@
     "type": "fair",
     "website": "",
     "notes": "Dak'Art OFF programme and Partcours"
+  },
+  {
+    "id": "ven-whitney-museum",
+    "name": "Whitney Museum of American Art",
+    "city": "New York",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://whitney.org",
+    "notes": "945 Hudson St. Home of the Whitney Biennial."
+  },
+  {
+    "id": "ven-guggenheim",
+    "name": "Solomon R. Guggenheim Museum",
+    "city": "New York",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.guggenheim.org",
+    "notes": "Frank Lloyd Wright building, Fifth Avenue."
+  },
+  {
+    "id": "ven-moma-ps1",
+    "name": "MoMA PS1",
+    "city": "New York",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.momaps1.org",
+    "notes": "Long Island City, Queens. Free admission 2026-2028."
+  },
+  {
+    "id": "ven-studio-museum-harlem",
+    "name": "Studio Museum in Harlem",
+    "city": "New York",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.studiomuseum.org",
+    "notes": "Reopened Nov 15 2025 in new Adjaye-designed building. $300M. Dedicated to artists of African descent."
+  },
+  {
+    "id": "ven-pace-gallery-nyc",
+    "name": "Pace Gallery",
+    "city": "New York",
+    "country": "United States",
+    "type": "gallery",
+    "website": "https://www.pacegallery.com",
+    "notes": "540 West 25th Street, Chelsea."
+  },
+  {
+    "id": "ven-lehmann-maupin-nyc",
+    "name": "Lehmann Maupin",
+    "city": "New York",
+    "country": "United States",
+    "type": "gallery",
+    "website": "https://www.lehmannmaupin.com",
+    "notes": "501 West 24th Street, Chelsea."
+  },
+  {
+    "id": "ven-bronx-museum",
+    "name": "Bronx Museum of the Arts",
+    "city": "New York",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://bronxmuseum.org",
+    "notes": "Currently undergoing $42.9M renovation by Marvel Architects."
+  },
+  {
+    "id": "ven-new-museum",
+    "name": "New Museum",
+    "city": "New York",
+    "country": "United States",
+    "type": "museum",
+    "website": "https://www.newmuseum.org",
+    "notes": "New $89M seven-storey expansion by OMA/Shohei Shigematsu."
+  },
+  {
+    "id": "ven-aca-galleries",
+    "name": "ACA Galleries",
+    "city": "New York",
+    "country": "United States",
+    "type": "gallery",
+    "website": "https://www.acagalleries.com",
+    "notes": "529 West 20th Street. Founded 1932."
   }
 ]
