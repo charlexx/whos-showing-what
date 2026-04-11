@@ -826,5 +826,104 @@
     "type": "fair",
     "website": "https://www.gallery-weekend-berlin.de",
     "notes": ""
+  },
+  {
+    "id": "ven-centre-pompidou",
+    "name": "Centre Pompidou",
+    "city": "Paris",
+    "country": "France",
+    "type": "museum",
+    "website": "https://www.centrepompidou.fr",
+    "notes": "Closed autumn 2025 for 5-year renovation"
+  },
+  {
+    "id": "ven-grand-palais",
+    "name": "Grand Palais",
+    "city": "Paris",
+    "country": "France",
+    "type": "museum",
+    "website": "https://www.grandpalais.fr",
+    "notes": ""
+  },
+  {
+    "id": "ven-lafayette-anticipations",
+    "name": "Lafayette Anticipations",
+    "city": "Paris",
+    "country": "France",
+    "type": "institution",
+    "website": "https://www.lafayetteanticipations.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-mep-paris",
+    "name": "Maison Europeenne de la Photographie",
+    "city": "Paris",
+    "country": "France",
+    "type": "museum",
+    "website": "https://www.mep-fr.org",
+    "notes": ""
+  },
+  {
+    "id": "ven-white-cube-paris",
+    "name": "White Cube Paris",
+    "city": "Paris",
+    "country": "France",
+    "type": "gallery",
+    "website": "https://www.whitecube.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-hauser-wirth-paris",
+    "name": "Hauser & Wirth Paris",
+    "city": "Paris",
+    "country": "France",
+    "type": "gallery",
+    "website": "https://www.hauserwirth.com",
+    "notes": ""
+  },
+  {
+    "id": "ven-musee-art-moderne-paris",
+    "name": "Musee d'Art Moderne de la Ville de Paris",
+    "city": "Paris",
+    "country": "France",
+    "type": "museum",
+    "website": "https://www.mam.paris.fr",
+    "notes": ""
+  },
+  {
+    "id": "ven-musee-de-lhomme",
+    "name": "Musee de l'Homme",
+    "city": "Paris",
+    "country": "France",
+    "type": "museum",
+    "website": "https://www.museedelhomme.fr",
+    "notes": ""
+  },
+  {
+    "id": "ven-philharmonie-paris",
+    "name": "Philharmonie de Paris",
+    "city": "Paris",
+    "country": "France",
+    "type": "institution",
+    "website": "https://philharmoniedeparis.fr",
+    "notes": ""
+  },
+  {
+    "id": "ven-galerie-cecile-fakhoury",
+    "name": "Galerie Cecile Fakhoury",
+    "city": "Paris",
+    "country": "France",
+    "type": "gallery",
+    "website": "https://www.cecilefakhoury.com",
+    "notes": "Also Abidjan and Dakar locations"
+  },
+  {
+    "id": "ven-mariane-ibrahim-paris",
+    "name": "Mariane Ibrahim Paris",
+    "city": "Paris",
+    "country": "France",
+    "type": "gallery",
+    "website": "https://marianeibrahim.com",
+    "notes": "Also Chicago and Mexico City"
   }
 ]

@@ -1222,5 +1222,152 @@
     "birth_year": 1983,
     "website": "",
     "notes": "Afro-Caribbean. Choreographer and artist redefining performance within visual arts."
+  },
+  {
+    "id": "art-melvin-edwards",
+    "name": "Melvin Edwards",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "sculpture"
+    ],
+    "birth_year": 1937,
+    "website": "",
+    "notes": "African American sculptor. Lynch Fragments series. Lives between Baltimore, NY and Dakar."
+  },
+  {
+    "id": "art-meriem-bennani",
+    "name": "Meriem Bennani",
+    "origin_country": "Morocco",
+    "origin_region": "North Africa",
+    "based_in": [
+      "New York",
+      "United States"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "video",
+      "installation",
+      "sound"
+    ],
+    "birth_year": 1988,
+    "website": "",
+    "notes": "Moroccan-born, New York-based"
+  },
+  {
+    "id": "art-otobong-nkanga",
+    "name": "Otobong Nkanga",
+    "origin_country": "Nigeria",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Antwerp",
+      "Belgium"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "installation",
+      "sculpture",
+      "tapestry",
+      "mixed media"
+    ],
+    "birth_year": 1974,
+    "website": "",
+    "notes": "Duchamp Prize context 2025"
+  },
+  {
+    "id": "art-na-chainkua-reindorf",
+    "name": "Na Chainkua Reindorf",
+    "origin_country": "Ghana",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Accra",
+      "Ghana"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "tapestry",
+      "sculpture",
+      "painting"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-theaster-gates",
+    "name": "Theaster Gates",
+    "origin_country": "United States",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Chicago",
+      "United States"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting",
+      "sculpture",
+      "installation",
+      "performance"
+    ],
+    "birth_year": 1973,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-frank-bowling",
+    "name": "Frank Bowling",
+    "origin_country": "Guyana",
+    "origin_region": "West Africa",
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1934,
+    "website": "",
+    "notes": "Guyanese-British. RA member."
+  },
+  {
+    "id": "art-dennis-morris",
+    "name": "Dennis Morris",
+    "origin_country": "United Kingdom",
+    "origin_region": "West Africa",
+    "based_in": [
+      "London",
+      "United Kingdom"
+    ],
+    "is_diaspora": true,
+    "mediums": [
+      "photography"
+    ],
+    "birth_year": 1960,
+    "website": "",
+    "notes": "British-Jamaican photographer. Bob Marley, Sex Pistols, Black British culture."
+  },
+  {
+    "id": "art-geraldine-tobe",
+    "name": "Geraldine Tobe",
+    "origin_country": "Democratic Republic of the Congo",
+    "origin_region": "Central Africa",
+    "based_in": [
+      "Kinshasa",
+      "Democratic Republic of the Congo"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting",
+      "mixed media"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": ""
   }
 ]

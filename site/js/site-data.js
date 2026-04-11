@@ -3134,6 +3134,403 @@ const WSW_DATA = {
       "added_date": "2026-03-27",
       "status": "current",
       "focus": "featured"
+    },
+    {
+      "id": "exh-pompidou-paris-noir-2025",
+      "title": "Paris Noir: Artistic Circulations and Anti-Colonial Resistance, 1950-2000",
+      "artist_ids": [],
+      "venue_id": "ven-centre-pompidou",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-03-19",
+      "end_date": "2025-06-30",
+      "type": "group",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "collage",
+        "film",
+        "video",
+        "installation"
+      ],
+      "description": "Landmark final exhibition before Pompidou's 5-year closure. 350+ works by 150 Black artists from Africa, Americas and Caribbean who lived and worked in Paris 1950-2000. Retraces Negritude movement and Presence Africaine.",
+      "url": "https://www.centrepompidou.fr/en/program/calendar/event/VRo249Y",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-palais-de-tokyo-edwards-2025",
+      "title": "Melvin Edwards (retrospective)",
+      "artist_ids": [
+        "art-melvin-edwards"
+      ],
+      "venue_id": "ven-palais-de-tokyo-paris",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-10-22",
+      "end_date": "2026-02-15",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "sculpture"
+      ],
+      "description": "First monographic exhibition in France. Sixty years of welded steel sculpture shaped by travels between USA, Caribbean and West Africa. Lynch Fragments series. Part of Naomi Beckwith's American Season.",
+      "url": "https://palaisdetokyo.com/en/exposition/melvin-edwards/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "diaspora"
+    },
+    {
+      "id": "exh-palais-de-tokyo-echo-delay-2025",
+      "title": "ECHO DELAY REVERB: American Art and Francophone Thought",
+      "artist_ids": [],
+      "venue_id": "ven-palais-de-tokyo-paris",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-10-22",
+      "end_date": "2026-02-15",
+      "type": "group",
+      "admission": "paid",
+      "mediums": [
+        "mixed media",
+        "installation",
+        "sculpture",
+        "film"
+      ],
+      "description": "Major group show examining how American artists appropriated French theoretical and political ideas. Features Barbara Chase-Riboud and Steffani Jemison. Curated by Naomi Beckwith.",
+      "url": "https://www.e-flux.com/announcements/678093/fall-2025-an-american-season-at-palais-de-tokyo",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "significant"
+    },
+    {
+      "id": "exh-grand-palais-mickalene-thomas-2025",
+      "title": "Mickalene Thomas: All About Love",
+      "artist_ids": [
+        "art-mickalene-thomas"
+      ],
+      "venue_id": "ven-grand-palais",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-12-17",
+      "end_date": "2026-04-05",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "collage",
+        "photography",
+        "video",
+        "installation"
+      ],
+      "description": "First African-American artist honoured with a major solo at the Grand Palais. Celebrates visibility and representation of Black women. Title from bell hooks' book.",
+      "url": "https://www.grandpalais.fr/en/program/mickalene-thomas",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "current",
+      "focus": "diaspora"
+    },
+    {
+      "id": "exh-akaa-2025",
+      "title": "AKAA (Also Known As Africa) 2025 - 10th Anniversary",
+      "artist_ids": [],
+      "venue_id": "ven-carreau-du-temple-paris",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-10-24",
+      "end_date": "2025-10-26",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media",
+        "installation"
+      ],
+      "description": "10th anniversary edition of Paris's dedicated African and diasporic contemporary art and design fair. 33+ galleries. VIP preview during Paris Art Week.",
+      "url": "https://www.akaafair.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-mam-nkanga-2025",
+      "title": "Otobong Nkanga (Duchamp Prize 2025)",
+      "artist_ids": [
+        "art-otobong-nkanga"
+      ],
+      "venue_id": "ven-musee-art-moderne-paris",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-10-01",
+      "end_date": "2026-03-31",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "installation",
+        "sculpture",
+        "mixed media",
+        "tapestry"
+      ],
+      "description": "Nigerian artist in context of Marcel Duchamp Prize 2025 announcement at the Musee d'Art Moderne. Work exploring ecology, extraction and interconnection.",
+      "url": "https://www.mam.paris.fr",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-lafayette-bennani-2025",
+      "title": "Meriem Bennani: Sole Crushing",
+      "artist_ids": [
+        "art-meriem-bennani"
+      ],
+      "venue_id": "ven-lafayette-anticipations",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-10-01",
+      "end_date": "2025-12-31",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "sound",
+        "installation"
+      ],
+      "description": "Immersive multisensory sound environment by Moroccan-born, New York-based artist known for blending documentary and speculative fiction.",
+      "url": "https://www.lafayetteanticipations.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-mep-dennis-morris-2025",
+      "title": "Dennis Morris",
+      "artist_ids": [
+        "art-dennis-morris"
+      ],
+      "venue_id": "ven-mep-paris",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-03-01",
+      "end_date": "2025-05-18",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "photography"
+      ],
+      "description": "Photographs documenting Black British culture, reggae and punk scenes. Known for iconic images of Bob Marley, Sex Pistols and London's Black communities.",
+      "url": "https://www.mep-fr.org",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "diaspora"
+    },
+    {
+      "id": "exh-white-cube-paris-gates-2026",
+      "title": "Theaster Gates: And Other Paintings",
+      "artist_ids": [
+        "art-theaster-gates"
+      ],
+      "venue_id": "ven-white-cube-paris",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2026-03-06",
+      "end_date": "2026-04-04",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "mixed media"
+      ],
+      "description": "Solo at White Cube Paris. Gates combines sculpture, installation, performance and urban planning with themes of Black cultural production.",
+      "url": "https://www.whitecube.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "current",
+      "focus": "diaspora"
+    },
+    {
+      "id": "exh-hauser-wirth-bowling-2025",
+      "title": "Frank Bowling",
+      "artist_ids": [
+        "art-frank-bowling"
+      ],
+      "venue_id": "ven-hauser-wirth-paris",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-10-01",
+      "end_date": "2025-12-31",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "description": "Exhibition at Hauser and Wirth Paris concurrent with Paris Noir. Guyanese-British painter known for large-scale abstract works exploring Caribbean and diasporic identity.",
+      "url": "https://www.hauserwirth.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "diaspora"
+    },
+    {
+      "id": "exh-musee-homme-wax-2025",
+      "title": "Wax: History and Influence",
+      "artist_ids": [],
+      "venue_id": "ven-musee-de-lhomme",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-03-01",
+      "end_date": "2025-09-07",
+      "type": "group",
+      "admission": "paid",
+      "mediums": [
+        "fashion",
+        "textiles",
+        "mixed media"
+      ],
+      "description": "Exhibition on wax fabric: its history and influence on fashion, art and design. Explores the complex colonial and postcolonial trajectories of this African-identified material.",
+      "url": "https://www.museedelhomme.fr",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-paris-art-basel-2025",
+      "title": "Paris+ par Art Basel 2025",
+      "artist_ids": [],
+      "venue_id": "ven-grand-palais",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-10-22",
+      "end_date": "2025-10-26",
+      "type": "fair",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media",
+        "installation"
+      ],
+      "description": "Third edition of Art Basel's Paris fair during Paris Art Week. Major international galleries including those representing African and diaspora artists.",
+      "url": "https://www.artbasel.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "featured"
+    },
+    {
+      "id": "exh-fakhoury-reindorf-2025",
+      "title": "Na Chainkua Reindorf: Strange Flesh",
+      "artist_ids": [
+        "art-na-chainkua-reindorf"
+      ],
+      "venue_id": "ven-galerie-cecile-fakhoury",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-06-01",
+      "end_date": "2025-09-30",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "tapestry",
+        "sculpture",
+        "painting"
+      ],
+      "description": "Ghanaian artist conjures a fictional female masquerade society through tapestries, sculptures and paintings. Galerie Cecile Fakhoury operates across Abidjan, Dakar and Paris.",
+      "url": "https://www.cecilefakhoury.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-mariane-ibrahim-paris-cosmos-2025",
+      "title": "Door to the Cosmos",
+      "artist_ids": [
+        "art-zohra-opoku"
+      ],
+      "venue_id": "ven-mariane-ibrahim-paris",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-10-18",
+      "end_date": "2025-12-13",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "mixed media",
+        "sculpture",
+        "installation"
+      ],
+      "description": "Group exhibition tracing constellations across past, present and future. Works traversing antiquity, speculative futures and cosmic realms. Features Zohra Opoku and others.",
+      "url": "https://marianeibrahim.com/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-philharmonie-disco-2025",
+      "title": "Disco - I'm Coming Out",
+      "artist_ids": [],
+      "venue_id": "ven-philharmonie-paris",
+      "city": "Paris",
+      "country": "France",
+      "region": "Europe",
+      "start_date": "2025-03-01",
+      "end_date": "2025-08-17",
+      "type": "group",
+      "admission": "paid",
+      "mediums": [
+        "photography",
+        "fashion",
+        "installation"
+      ],
+      "description": "Traces history of disco, closely linked to Afro-American and LGBTQ+ culture. Features photography, costumes, music installations and social history.",
+      "url": "https://philharmoniedeparis.fr",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "significant"
     }
   ],
   "artists": [
@@ -4360,6 +4757,153 @@ const WSW_DATA = {
       "birth_year": 1983,
       "website": "",
       "notes": "Afro-Caribbean. Choreographer and artist redefining performance within visual arts."
+    },
+    {
+      "id": "art-melvin-edwards",
+      "name": "Melvin Edwards",
+      "origin_country": "United States",
+      "origin_region": "West Africa",
+      "based_in": [
+        "New York",
+        "United States"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "sculpture"
+      ],
+      "birth_year": 1937,
+      "website": "",
+      "notes": "African American sculptor. Lynch Fragments series. Lives between Baltimore, NY and Dakar."
+    },
+    {
+      "id": "art-meriem-bennani",
+      "name": "Meriem Bennani",
+      "origin_country": "Morocco",
+      "origin_region": "North Africa",
+      "based_in": [
+        "New York",
+        "United States"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "video",
+        "installation",
+        "sound"
+      ],
+      "birth_year": 1988,
+      "website": "",
+      "notes": "Moroccan-born, New York-based"
+    },
+    {
+      "id": "art-otobong-nkanga",
+      "name": "Otobong Nkanga",
+      "origin_country": "Nigeria",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Antwerp",
+        "Belgium"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "installation",
+        "sculpture",
+        "tapestry",
+        "mixed media"
+      ],
+      "birth_year": 1974,
+      "website": "",
+      "notes": "Duchamp Prize context 2025"
+    },
+    {
+      "id": "art-na-chainkua-reindorf",
+      "name": "Na Chainkua Reindorf",
+      "origin_country": "Ghana",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Accra",
+        "Ghana"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "tapestry",
+        "sculpture",
+        "painting"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-theaster-gates",
+      "name": "Theaster Gates",
+      "origin_country": "United States",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Chicago",
+        "United States"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting",
+        "sculpture",
+        "installation",
+        "performance"
+      ],
+      "birth_year": 1973,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-frank-bowling",
+      "name": "Frank Bowling",
+      "origin_country": "Guyana",
+      "origin_region": "West Africa",
+      "based_in": [
+        "London",
+        "United Kingdom"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1934,
+      "website": "",
+      "notes": "Guyanese-British. RA member."
+    },
+    {
+      "id": "art-dennis-morris",
+      "name": "Dennis Morris",
+      "origin_country": "United Kingdom",
+      "origin_region": "West Africa",
+      "based_in": [
+        "London",
+        "United Kingdom"
+      ],
+      "is_diaspora": true,
+      "mediums": [
+        "photography"
+      ],
+      "birth_year": 1960,
+      "website": "",
+      "notes": "British-Jamaican photographer. Bob Marley, Sex Pistols, Black British culture."
+    },
+    {
+      "id": "art-geraldine-tobe",
+      "name": "Geraldine Tobe",
+      "origin_country": "Democratic Republic of the Congo",
+      "origin_region": "Central Africa",
+      "based_in": [
+        "Kinshasa",
+        "Democratic Republic of the Congo"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting",
+        "mixed media"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": ""
     }
   ],
   "venues": [
@@ -5190,7 +5734,106 @@ const WSW_DATA = {
       "type": "fair",
       "website": "https://www.gallery-weekend-berlin.de",
       "notes": ""
+    },
+    {
+      "id": "ven-centre-pompidou",
+      "name": "Centre Pompidou",
+      "city": "Paris",
+      "country": "France",
+      "type": "museum",
+      "website": "https://www.centrepompidou.fr",
+      "notes": "Closed autumn 2025 for 5-year renovation"
+    },
+    {
+      "id": "ven-grand-palais",
+      "name": "Grand Palais",
+      "city": "Paris",
+      "country": "France",
+      "type": "museum",
+      "website": "https://www.grandpalais.fr",
+      "notes": ""
+    },
+    {
+      "id": "ven-lafayette-anticipations",
+      "name": "Lafayette Anticipations",
+      "city": "Paris",
+      "country": "France",
+      "type": "institution",
+      "website": "https://www.lafayetteanticipations.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-mep-paris",
+      "name": "Maison Europeenne de la Photographie",
+      "city": "Paris",
+      "country": "France",
+      "type": "museum",
+      "website": "https://www.mep-fr.org",
+      "notes": ""
+    },
+    {
+      "id": "ven-white-cube-paris",
+      "name": "White Cube Paris",
+      "city": "Paris",
+      "country": "France",
+      "type": "gallery",
+      "website": "https://www.whitecube.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-hauser-wirth-paris",
+      "name": "Hauser & Wirth Paris",
+      "city": "Paris",
+      "country": "France",
+      "type": "gallery",
+      "website": "https://www.hauserwirth.com",
+      "notes": ""
+    },
+    {
+      "id": "ven-musee-art-moderne-paris",
+      "name": "Musee d'Art Moderne de la Ville de Paris",
+      "city": "Paris",
+      "country": "France",
+      "type": "museum",
+      "website": "https://www.mam.paris.fr",
+      "notes": ""
+    },
+    {
+      "id": "ven-musee-de-lhomme",
+      "name": "Musee de l'Homme",
+      "city": "Paris",
+      "country": "France",
+      "type": "museum",
+      "website": "https://www.museedelhomme.fr",
+      "notes": ""
+    },
+    {
+      "id": "ven-philharmonie-paris",
+      "name": "Philharmonie de Paris",
+      "city": "Paris",
+      "country": "France",
+      "type": "institution",
+      "website": "https://philharmoniedeparis.fr",
+      "notes": ""
+    },
+    {
+      "id": "ven-galerie-cecile-fakhoury",
+      "name": "Galerie Cecile Fakhoury",
+      "city": "Paris",
+      "country": "France",
+      "type": "gallery",
+      "website": "https://www.cecilefakhoury.com",
+      "notes": "Also Abidjan and Dakar locations"
+    },
+    {
+      "id": "ven-mariane-ibrahim-paris",
+      "name": "Mariane Ibrahim Paris",
+      "city": "Paris",
+      "country": "France",
+      "type": "gallery",
+      "website": "https://marianeibrahim.com",
+      "notes": "Also Chicago and Mexico City"
     }
   ],
-  "generated": "2026-03-28 02:28"
+  "generated": "2026-04-11 11:14"
 };
