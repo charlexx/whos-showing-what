@@ -1023,31 +1023,6 @@ const WSW_DATA = {
       "status": "current"
     },
     {
-      "id": "exh-circle-art-soi-2026",
-      "title": "Michael Soi",
-      "artist_ids": [
-        "art-michael-soi"
-      ],
-      "venue_id": "ven-circle-art-nairobi",
-      "city": "Nairobi",
-      "country": "Kenya",
-      "region": "East Africa",
-      "start_date": "2026-01-21",
-      "end_date": "2026-02-25",
-      "type": "solo",
-      "admission": "free",
-      "mediums": [
-        "painting"
-      ],
-      "focus": "dedicated",
-      "description": "Solo by the Nairobi-based satirist whose practice offers sharp commentary on social and political dynamics.",
-      "url": "https://circleartagency.com/exhibitions/",
-      "image_url": "",
-      "source": "manual",
-      "added_date": "2026-03-27",
-      "status": "past"
-    },
-    {
       "id": "exh-234-art-fair-lagos-2026",
       "title": "+234 Art Fair 2026: Inclusivity",
       "artist_ids": [],
@@ -3531,6 +3506,445 @@ const WSW_DATA = {
       "added_date": "2026-04-11",
       "status": "past",
       "focus": "significant"
+    },
+    {
+      "id": "exh-gallery1957-ali-2025",
+      "title": "Awanle Ayiboro Hawa Ali: Fine Feathers Don't Make Fine Birds",
+      "artist_ids": [],
+      "venue_id": "ven-gallery-1957-accra",
+      "city": "Accra",
+      "country": "Ghana",
+      "region": "West Africa",
+      "start_date": "2025-02-13",
+      "end_date": "2025-04-19",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "mixed media"
+      ],
+      "description": "Explores lives of Kayayei girls (female porters from northern Ghana) and sex workers on Oxford Street, Accra. Interrogates power, gender, survival, and agency. Following ten-month gallery residency.",
+      "url": "https://www.gallery1957.com/exhibitions/123-awanle-ayiboro-hawa-ali-fine-feathers-don-t-gallery-i-accra/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-gallery1957-quarshie-2025",
+      "title": "Jeremiah Quarshie: Memories of Yellow - A Game of Power & Chance",
+      "artist_ids": [
+        "art-jeremiah-quarshie"
+      ],
+      "venue_id": "ven-gallery-1957-accra",
+      "city": "Accra",
+      "country": "Ghana",
+      "region": "West Africa",
+      "start_date": "2025-03-06",
+      "end_date": "2025-05-17",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "installation"
+      ],
+      "description": "Accra's water crisis explored through towering gallon thrones occupied by Ghanaian women. Gallery transformed into immersive experience with Ludo game mechanics. Marks Gallery 1957's 9th anniversary.",
+      "url": "https://www.gallery1957.com/exhibitions/124-jeremiah-quarshie-memories-of-yellow-a-game-gallery-ii/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-chale-wote-2025",
+      "title": "Chale Wote Street Art Festival 2025: The Orbs Beneath the Nile Lead to Kongo",
+      "artist_ids": [],
+      "venue_id": "ven-chale-wote-accra",
+      "city": "Accra",
+      "country": "Ghana",
+      "region": "West Africa",
+      "start_date": "2025-08-15",
+      "end_date": "2025-08-24",
+      "type": "fair",
+      "admission": "free",
+      "mediums": [
+        "installation",
+        "performance",
+        "film",
+        "mixed media"
+      ],
+      "description": "15th anniversary of West Africa's most celebrated public arts festival. Explores African spiritual lineages, healing traditions, and liberation struggles. Ritual processions, community murals, healing labs, film salons. Expanded to Nubuke Foundation and Museum of Science and Technology.",
+      "url": "https://www.chalewote.com/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-gallery1957-quaicoe-2025",
+      "title": "Otis Kwame Kye Quaicoe: Where the Waters Meet",
+      "artist_ids": [
+        "art-otis-kwame-kye-quaicoe"
+      ],
+      "venue_id": "ven-gallery-1957-accra",
+      "city": "Accra",
+      "country": "Ghana",
+      "region": "West Africa",
+      "start_date": "2025-10-21",
+      "end_date": "2026-03-07",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "description": "Quaicoe returns to Ghana with work celebrating Black leisure, joy, and the radical act of rest. First solo exhibition in his country of birth. A homecoming and meditation on water's capacity to hold and transform.",
+      "url": "https://www.gallery1957.com/exhibitions/current/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-gallery1957-gawu-mensah-2025",
+      "title": "Denyse Gawu-Mensah: Lightyears of Us",
+      "artist_ids": [
+        "art-denyse-gawu-mensah"
+      ],
+      "venue_id": "ven-gallery-1957-accra",
+      "city": "Accra",
+      "country": "Ghana",
+      "region": "West Africa",
+      "start_date": "2025-10-30",
+      "end_date": "2026-03-31",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "photography",
+        "mixed media"
+      ],
+      "description": "Draws on family archive of photographs from 1960s-70s depicting Ghana's post-independence period. Transforms vintage photographs into tactile records using image transfer techniques.",
+      "url": "https://www.gallery1957.com/exhibitions/current/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-gallery1957-clottey-2025",
+      "title": "Serge Attukwei Clottey: [Dis]Appearing Rituals - An Open Lab of Now for Tomorrow",
+      "artist_ids": [
+        "art-serge-attukwei-clottey"
+      ],
+      "venue_id": "ven-gallery-1957-accra",
+      "city": "Accra",
+      "country": "Ghana",
+      "region": "West Africa",
+      "start_date": "2025-11-01",
+      "end_date": "2026-03-31",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "installation",
+        "mixed media"
+      ],
+      "description": "Almost a decade after inaugurating Gallery 1957 with his debut solo in 2016, Clottey returns to take over the entire 1,400 sqm Unlimited Gallery. The first and only solo exhibition in this massive space.",
+      "url": "https://www.gallery1957.com/exhibitions/current/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "current",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-limbo-museum-sylvester-2025",
+      "title": "Reginald Sylvester II: On the Other Side of Languish",
+      "artist_ids": [],
+      "venue_id": "ven-limbo-museum-accra",
+      "city": "Accra",
+      "country": "Ghana",
+      "region": "West Africa",
+      "start_date": "2025-11-15",
+      "end_date": "2026-06-30",
+      "type": "solo",
+      "admission": "paid",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "installation"
+      ],
+      "description": "Debut exhibition at newly opened Limbo Museum, housed in an unfinished brutalist structure. Created during extended residency. Partnership with Gallery 1957.",
+      "url": "https://www.designboom.com/architecture/unfinished-brutalist-structure-ghana-limbo-museum-gallery-1957-11-15-2025/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "current",
+      "focus": "significant"
+    },
+    {
+      "id": "exh-circle-art-new-discoveries-2025",
+      "title": "New Discoveries: 6 New Artists",
+      "artist_ids": [],
+      "venue_id": "ven-circle-art-nairobi",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "region": "East Africa",
+      "start_date": "2025-01-22",
+      "end_date": "2025-02-27",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "mixed media"
+      ],
+      "description": "Circle Art Gallery introduces six emerging artists from across East Africa: Kenya, Uganda, Ethiopia, Tanzania.",
+      "url": "https://circleartagency.com/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-one-off-muriithi-2025",
+      "title": "Simon Muriithi: Troubled Neighbours",
+      "artist_ids": [
+        "art-simon-muriithi"
+      ],
+      "venue_id": "ven-one-off-nairobi",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "region": "East Africa",
+      "start_date": "2025-01-15",
+      "end_date": "2025-02-28",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "printmaking"
+      ],
+      "description": "Masterful print show by veteran printmaker. One of few artists in the region producing etchings with embossing. Investigates animals, birds, and humans who struggle to co-exist.",
+      "url": "",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-nairobi-sudanese-2025",
+      "title": "Visions: Three Sudanese Contemporary Artists",
+      "artist_ids": [],
+      "venue_id": "ven-circle-art-nairobi",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "region": "East Africa",
+      "start_date": "2025-01-15",
+      "end_date": "2025-03-31",
+      "type": "group",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "mixed media"
+      ],
+      "description": "Three prominent Sudanese contemporary artists bridging tradition and modernity. Reflects Sudan's cultural heritage while addressing identity, resilience, and transformation.",
+      "url": "",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-circle-art-musoke-2025",
+      "title": "Theresa Musoke: Major Career Retrospective",
+      "artist_ids": [
+        "art-theresa-musoke"
+      ],
+      "venue_id": "ven-circle-art-nairobi",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "region": "East Africa",
+      "start_date": "2025-04-24",
+      "end_date": "2025-06-06",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "description": "Major exhibition covering 60-year career of the Ugandan painter. Long-discussed project between the gallery and artist. Significant institutional-scale presentation.",
+      "url": "https://circleartagency.com/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-circle-art-karmali-2025",
+      "title": "Tahir Karmali",
+      "artist_ids": [
+        "art-tahir-karmali"
+      ],
+      "venue_id": "ven-circle-art-nairobi",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "region": "East Africa",
+      "start_date": "2025-09-17",
+      "end_date": "2025-10-16",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "photography",
+        "mixed media"
+      ],
+      "description": "Kenyan photographer who has exhibited across continents. Previous solos at Management Gallery NYC and Circle Art. Participated in Dak'Art Biennale 2024.",
+      "url": "https://circleartagency.com/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-circle-art-soi-2026-expanded",
+      "title": "Michael Soi: Heaven Can Wait Two + Untold Stories",
+      "artist_ids": [
+        "art-michael-soi"
+      ],
+      "venue_id": "ven-circle-art-nairobi",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "region": "East Africa",
+      "start_date": "2026-01-21",
+      "end_date": "2026-02-27",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "painting"
+      ],
+      "description": "Two concurrent presentations: 'Heaven Can Wait Two' and 'Untold Stories'. Soi's practice functions as a visual diary offering sharp satirical commentary on Nairobi's social and political landscape.",
+      "url": "https://circleartagency.com/exhibitions/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-dakart-off-2025",
+      "title": "Dak'Art OFF Programme 2025: #TheNonOffIsOn",
+      "artist_ids": [
+        "art-zohra-opoku",
+        "art-na-chainkua-reindorf"
+      ],
+      "venue_id": "ven-dakar-multiple",
+      "city": "Dakar",
+      "country": "Senegal",
+      "region": "West Africa",
+      "start_date": "2025-05-01",
+      "end_date": "2025-09-30",
+      "type": "fair",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "photography",
+        "video",
+        "textiles",
+        "installation",
+        "performance"
+      ],
+      "description": "With the official biennale delayed, the OFF programme surged as an autonomous cultural force. 200+ exhibitions across the city. Key shows: Na Chainkua Reindorf at Galerie Cecile Fakhoury, Zohra Opoku at Raw Material Company.",
+      "url": "",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-raw-material-opoku-2025",
+      "title": "Zohra Opoku: With Every Fiber of (my) Being",
+      "artist_ids": [
+        "art-zohra-opoku"
+      ],
+      "venue_id": "ven-raw-material-company",
+      "city": "Dakar",
+      "country": "Senegal",
+      "region": "West Africa",
+      "start_date": "2025-05-01",
+      "end_date": "2025-08-31",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "photography",
+        "textiles",
+        "mixed media"
+      ],
+      "description": "African textiles trailing off large-scale photographic prints. Standing-room-only roundtable on fabric in African contemporary art. At Raw Material Company, founded by Koyo Kouoh.",
+      "url": "https://www.rawmaterialcompany.org/",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-fakhoury-dakar-reindorf-2025",
+      "title": "Na Chainkua Reindorf: Strange Flesh (Dakar)",
+      "artist_ids": [
+        "art-na-chainkua-reindorf"
+      ],
+      "venue_id": "ven-galerie-cecile-fakhoury-dakar",
+      "city": "Dakar",
+      "country": "Senegal",
+      "region": "West Africa",
+      "start_date": "2025-05-01",
+      "end_date": "2025-08-31",
+      "type": "solo",
+      "admission": "free",
+      "mediums": [
+        "tapestry",
+        "sculpture",
+        "painting"
+      ],
+      "description": "Ghanaian artist conjures a fictional female masquerade society. Part of the Dak'Art OFF programme at Galerie Cecile Fakhoury's Dakar space.",
+      "url": "https://www.cecilefakhoury.com",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
+    },
+    {
+      "id": "exh-partcours-dakar-2025",
+      "title": "Partcours 2025: Annual Dakar Gallery Circuit",
+      "artist_ids": [],
+      "venue_id": "ven-dakar-multiple",
+      "city": "Dakar",
+      "country": "Senegal",
+      "region": "West Africa",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-07",
+      "type": "fair",
+      "admission": "free",
+      "mediums": [
+        "painting",
+        "sculpture",
+        "photography",
+        "mixed media",
+        "installation"
+      ],
+      "description": "Annual Dakar gallery circuit coordinating simultaneous openings across commercial galleries and independent spaces. A key moment for the Dakar art market outside biennial years.",
+      "url": "",
+      "image_url": "",
+      "source": "manual",
+      "added_date": "2026-04-11",
+      "status": "past",
+      "focus": "dedicated"
     }
   ],
   "artists": [
@@ -4904,6 +5318,131 @@ const WSW_DATA = {
       "birth_year": null,
       "website": "",
       "notes": ""
+    },
+    {
+      "id": "art-jeremiah-quarshie",
+      "name": "Jeremiah Quarshie",
+      "origin_country": "Ghana",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Accra",
+        "Ghana"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting",
+        "installation"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-otis-kwame-kye-quaicoe",
+      "name": "Otis Kwame Kye Quaicoe",
+      "origin_country": "Ghana",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Accra",
+        "Ghana"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": 1988,
+      "website": "",
+      "notes": "Also represented by Pace Gallery"
+    },
+    {
+      "id": "art-serge-attukwei-clottey",
+      "name": "Serge Attukwei Clottey",
+      "origin_country": "Ghana",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Accra",
+        "Ghana"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "installation",
+        "mixed media",
+        "sculpture"
+      ],
+      "birth_year": 1985,
+      "website": "",
+      "notes": "Afrogallonist practice. Yellow gallon jerrycans."
+    },
+    {
+      "id": "art-denyse-gawu-mensah",
+      "name": "Denyse Gawu-Mensah",
+      "origin_country": "Ghana",
+      "origin_region": "West Africa",
+      "based_in": [
+        "Accra",
+        "Ghana"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "photography",
+        "mixed media"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": ""
+    },
+    {
+      "id": "art-theresa-musoke",
+      "name": "Theresa Musoke",
+      "origin_country": "Uganda",
+      "origin_region": "East Africa",
+      "based_in": [
+        "Nairobi",
+        "Kenya"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "painting"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "60-year career. Major East African painter."
+    },
+    {
+      "id": "art-tahir-karmali",
+      "name": "Tahir Karmali",
+      "origin_country": "Kenya",
+      "origin_region": "East Africa",
+      "based_in": [
+        "Nairobi",
+        "Kenya"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "photography",
+        "mixed media"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "Participated in Dak'Art Biennale 2024"
+    },
+    {
+      "id": "art-simon-muriithi",
+      "name": "Simon Muriithi",
+      "origin_country": "Kenya",
+      "origin_region": "East Africa",
+      "based_in": [
+        "Nairobi",
+        "Kenya"
+      ],
+      "is_diaspora": false,
+      "mediums": [
+        "printmaking",
+        "etching"
+      ],
+      "birth_year": null,
+      "website": "",
+      "notes": "One of few artists in the region producing etchings with embossing"
     }
   ],
   "venues": [
@@ -5833,7 +6372,79 @@ const WSW_DATA = {
       "type": "gallery",
       "website": "https://marianeibrahim.com",
       "notes": "Also Chicago and Mexico City"
+    },
+    {
+      "id": "ven-gallery-1957-accra",
+      "name": "Gallery 1957",
+      "city": "Accra",
+      "country": "Ghana",
+      "type": "gallery",
+      "website": "https://www.gallery1957.com",
+      "notes": "Gallery I, Gallery II, and Unlimited Gallery (Galleria Mall)"
+    },
+    {
+      "id": "ven-chale-wote-accra",
+      "name": "Multiple venues (Osu, Nubuke Foundation, Museum of Science & Technology)",
+      "city": "Accra",
+      "country": "Ghana",
+      "type": "fair",
+      "website": "https://www.chalewote.com",
+      "notes": "Chale Wote Street Art Festival"
+    },
+    {
+      "id": "ven-limbo-museum-accra",
+      "name": "Limbo Museum",
+      "city": "Accra",
+      "country": "Ghana",
+      "type": "museum",
+      "website": "",
+      "notes": "Newly opened. Brutalist concrete structure."
+    },
+    {
+      "id": "ven-one-off-nairobi",
+      "name": "One Off Contemporary Art Gallery",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "type": "gallery",
+      "website": "",
+      "notes": "One of Nairobi's most established galleries"
+    },
+    {
+      "id": "ven-ardhi-gallery-nairobi",
+      "name": "Ardhi Gallery",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "type": "gallery",
+      "website": "",
+      "notes": "Uses VR/immersive tech alongside traditional media"
+    },
+    {
+      "id": "ven-raw-material-company",
+      "name": "Raw Material Company",
+      "city": "Dakar",
+      "country": "Senegal",
+      "type": "institution",
+      "website": "https://www.rawmaterialcompany.org",
+      "notes": "Founded by Koyo Kouoh. Centre for art, knowledge, and society."
+    },
+    {
+      "id": "ven-galerie-cecile-fakhoury-dakar",
+      "name": "Galerie Cecile Fakhoury Dakar",
+      "city": "Dakar",
+      "country": "Senegal",
+      "type": "gallery",
+      "website": "https://www.cecilefakhoury.com",
+      "notes": "Also Abidjan and Paris"
+    },
+    {
+      "id": "ven-dakar-multiple",
+      "name": "Multiple venues across Dakar",
+      "city": "Dakar",
+      "country": "Senegal",
+      "type": "fair",
+      "website": "",
+      "notes": "Dak'Art OFF programme and Partcours"
     }
   ],
-  "generated": "2026-04-11 11:14"
+  "generated": "2026-04-11 11:25"
 };

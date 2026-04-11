@@ -1369,5 +1369,130 @@
     "birth_year": null,
     "website": "",
     "notes": ""
+  },
+  {
+    "id": "art-jeremiah-quarshie",
+    "name": "Jeremiah Quarshie",
+    "origin_country": "Ghana",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Accra",
+      "Ghana"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting",
+      "installation"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-otis-kwame-kye-quaicoe",
+    "name": "Otis Kwame Kye Quaicoe",
+    "origin_country": "Ghana",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Accra",
+      "Ghana"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": 1988,
+    "website": "",
+    "notes": "Also represented by Pace Gallery"
+  },
+  {
+    "id": "art-serge-attukwei-clottey",
+    "name": "Serge Attukwei Clottey",
+    "origin_country": "Ghana",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Accra",
+      "Ghana"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "installation",
+      "mixed media",
+      "sculpture"
+    ],
+    "birth_year": 1985,
+    "website": "",
+    "notes": "Afrogallonist practice. Yellow gallon jerrycans."
+  },
+  {
+    "id": "art-denyse-gawu-mensah",
+    "name": "Denyse Gawu-Mensah",
+    "origin_country": "Ghana",
+    "origin_region": "West Africa",
+    "based_in": [
+      "Accra",
+      "Ghana"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "photography",
+      "mixed media"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": ""
+  },
+  {
+    "id": "art-theresa-musoke",
+    "name": "Theresa Musoke",
+    "origin_country": "Uganda",
+    "origin_region": "East Africa",
+    "based_in": [
+      "Nairobi",
+      "Kenya"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "painting"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "60-year career. Major East African painter."
+  },
+  {
+    "id": "art-tahir-karmali",
+    "name": "Tahir Karmali",
+    "origin_country": "Kenya",
+    "origin_region": "East Africa",
+    "based_in": [
+      "Nairobi",
+      "Kenya"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "photography",
+      "mixed media"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "Participated in Dak'Art Biennale 2024"
+  },
+  {
+    "id": "art-simon-muriithi",
+    "name": "Simon Muriithi",
+    "origin_country": "Kenya",
+    "origin_region": "East Africa",
+    "based_in": [
+      "Nairobi",
+      "Kenya"
+    ],
+    "is_diaspora": false,
+    "mediums": [
+      "printmaking",
+      "etching"
+    ],
+    "birth_year": null,
+    "website": "",
+    "notes": "One of few artists in the region producing etchings with embossing"
   }
 ]

@@ -925,5 +925,77 @@
     "type": "gallery",
     "website": "https://marianeibrahim.com",
     "notes": "Also Chicago and Mexico City"
+  },
+  {
+    "id": "ven-gallery-1957-accra",
+    "name": "Gallery 1957",
+    "city": "Accra",
+    "country": "Ghana",
+    "type": "gallery",
+    "website": "https://www.gallery1957.com",
+    "notes": "Gallery I, Gallery II, and Unlimited Gallery (Galleria Mall)"
+  },
+  {
+    "id": "ven-chale-wote-accra",
+    "name": "Multiple venues (Osu, Nubuke Foundation, Museum of Science & Technology)",
+    "city": "Accra",
+    "country": "Ghana",
+    "type": "fair",
+    "website": "https://www.chalewote.com",
+    "notes": "Chale Wote Street Art Festival"
+  },
+  {
+    "id": "ven-limbo-museum-accra",
+    "name": "Limbo Museum",
+    "city": "Accra",
+    "country": "Ghana",
+    "type": "museum",
+    "website": "",
+    "notes": "Newly opened. Brutalist concrete structure."
+  },
+  {
+    "id": "ven-one-off-nairobi",
+    "name": "One Off Contemporary Art Gallery",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "type": "gallery",
+    "website": "",
+    "notes": "One of Nairobi's most established galleries"
+  },
+  {
+    "id": "ven-ardhi-gallery-nairobi",
+    "name": "Ardhi Gallery",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "type": "gallery",
+    "website": "",
+    "notes": "Uses VR/immersive tech alongside traditional media"
+  },
+  {
+    "id": "ven-raw-material-company",
+    "name": "Raw Material Company",
+    "city": "Dakar",
+    "country": "Senegal",
+    "type": "institution",
+    "website": "https://www.rawmaterialcompany.org",
+    "notes": "Founded by Koyo Kouoh. Centre for art, knowledge, and society."
+  },
+  {
+    "id": "ven-galerie-cecile-fakhoury-dakar",
+    "name": "Galerie Cecile Fakhoury Dakar",
+    "city": "Dakar",
+    "country": "Senegal",
+    "type": "gallery",
+    "website": "https://www.cecilefakhoury.com",
+    "notes": "Also Abidjan and Paris"
+  },
+  {
+    "id": "ven-dakar-multiple",
+    "name": "Multiple venues across Dakar",
+    "city": "Dakar",
+    "country": "Senegal",
+    "type": "fair",
+    "website": "",
+    "notes": "Dak'Art OFF programme and Partcours"
   }
 ]
