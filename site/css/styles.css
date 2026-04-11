@@ -478,6 +478,15 @@ main {
   margin: 0;
 }
 
+.card-title-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.card-title-link:hover {
+  text-decoration: underline;
+}
+
 .card-toggle {
   flex-shrink: 0;
   width: 20px;

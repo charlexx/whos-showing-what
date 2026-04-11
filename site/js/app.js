@@ -371,7 +371,7 @@
 
     // Header
     var header = "<div class=\"card-header\">" +
-      "<h3 class=\"card-title\">" + esc(exh.title) + "</h3>" +
+      "<h3 class=\"card-title\"><a class=\"card-title-link\" href=\"exhibition/" + encodeURIComponent(exh.id) + ".html\">" + esc(exh.title) + "</a></h3>" +
       "<span class=\"card-toggle\" aria-hidden=\"true\">" +
         "<svg width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\"><path d=\"M3.5 5.25L7 8.75L10.5 5.25\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>" +
       "</span>" +
@@ -426,7 +426,7 @@
     card.innerHTML = header + artistsHtml + meta + badges + mediums + body;
 
     card.addEventListener("click", function (e) {
-      if (e.target.closest(".card-link") || e.target.closest(".card-detail-link")) return;
+      if (e.target.closest(".card-link") || e.target.closest(".card-detail-link") || e.target.closest(".card-title-link")) return;
       card.classList.toggle("expanded");
     });
 
