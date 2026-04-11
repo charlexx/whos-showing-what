@@ -1078,5 +1078,14 @@
     "type": "gallery",
     "website": "https://www.acagalleries.com",
     "notes": "529 West 20th Street. Founded 1932."
+  },
+  {
+    "id": "ven-co-berlin",
+    "name": "C/O Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "type": "institution",
+    "website": "https://co-berlin.org",
+    "notes": "Amerika-Haus, Hardenbergstrasse 22-24. Photography and visual media."
   }
 ]

@@ -1658,5 +1658,24 @@
     "birth_year": null,
     "website": "",
     "notes": "African American. Layers personal documents beneath oil stick and ink abstractions."
+  },
+  {
+    "id": "art-jean-katambayi-mukendi",
+    "name": "Jean Katambayi Mukendi",
+    "origin_country": "Democratic Republic of the Congo",
+    "origin_region": "Central Africa",
+    "is_diaspora": false,
+    "mediums": [
+      "sculpture",
+      "drawing",
+      "installation"
+    ],
+    "based_in": [
+      "Lubumbashi",
+      "Democratic Republic of the Congo"
+    ],
+    "birth_year": 1974,
+    "website": "",
+    "notes": "Trained electrician. Practice informed by engineering, mathematics, and resource extraction. Afrolampe series."
   }
 ]

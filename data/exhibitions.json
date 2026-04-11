@@ -4465,5 +4465,108 @@
     "added_date": "2026-04-11",
     "status": "past",
     "focus": "dedicated"
+  },
+  {
+    "id": "exh-kw-katambayi-mukendi-2026",
+    "title": "Jean Katambayi Mukendi: RATIO",
+    "artist_ids": [
+      "art-jean-katambayi-mukendi"
+    ],
+    "venue_id": "ven-kw-institute",
+    "city": "Berlin",
+    "country": "Germany",
+    "region": "Europe",
+    "start_date": "2026-02-21",
+    "end_date": "2026-05-10",
+    "type": "solo",
+    "admission": "paid",
+    "mediums": [
+      "sculpture",
+      "drawing",
+      "installation"
+    ],
+    "description": "First solo exhibition in Germany by Congolese artist. Works created during six-week residency at KW using locally sourced recycled materials from Berlin. Addresses global structural inequities in resource extraction and power distribution. Central sculpture mukendi kabongo Air hybrid Wings. Co-produced with M HKA Antwerp.",
+    "url": "https://www.kw-berlin.de/en/exhibitions/jean-katambayi-mukendi-ratio",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-co-berlin-world-in-common-2026",
+    "title": "A World in Common: Contemporary African Photography",
+    "artist_ids": [],
+    "venue_id": "ven-co-berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "region": "Europe",
+    "start_date": "2026-01-01",
+    "end_date": "2026-06-30",
+    "type": "group",
+    "admission": "paid",
+    "mediums": [
+      "photography",
+      "video"
+    ],
+    "description": "Twenty-three African and African diaspora artists from different generations and geographical contexts. Over one hundred works challenging western-oriented conceptions, exploring alternative historical narratives rooted in diverse experiences of the African continent. Three chapters covering cultural heritage, spirituality, self-representation, and climate justice.",
+    "url": "https://co-berlin.org/en/program/exhibitions/world-common",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-rele-ahiakwo-2026",
+    "title": "Ugo Ahiakwo: After the Dance",
+    "artist_ids": [
+      "art-ugo-ahiakwo"
+    ],
+    "venue_id": "ven-rele-gallery-lagos",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "start_date": "2026-03-01",
+    "end_date": "2026-05-31",
+    "type": "solo",
+    "admission": "free",
+    "mediums": [
+      "sculpture",
+      "installation"
+    ],
+    "description": "Solo exhibition exploring themes of intimacy, fracture, and redemption. Title references Marvin Gaye's song and Jan Gaye's memoir. Discarded vehicle parts and industrial fragments transformed into sculptural forms oscillating between resilience and fragility.",
+    "url": "https://www.rele.co",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "dedicated"
+  },
+  {
+    "id": "exh-rele-lagos-salon-2026",
+    "title": "The Lagos Salon: Pamphlets",
+    "artist_ids": [],
+    "venue_id": "ven-rele-gallery-lagos",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "start_date": "2026-02-01",
+    "end_date": "2026-04-30",
+    "type": "group",
+    "admission": "free",
+    "mediums": [
+      "painting",
+      "sculpture",
+      "photography",
+      "mixed media"
+    ],
+    "description": "Group exhibition curated by Ameh Egwuh and Kingsley Ayogu. Features 29 artists who currently live or have considered Lagos home. Prioritizes self-expression and exploration of the arts in its purest form - unrestricted, intuitive, and deeply personal.",
+    "url": "https://www.rele.co",
+    "image_url": "",
+    "source": "manual",
+    "added_date": "2026-04-11",
+    "status": "current",
+    "focus": "dedicated"
   }
 ]
