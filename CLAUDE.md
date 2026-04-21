@@ -24,7 +24,7 @@ Part of the Forme Femine ecosystem. Static site + Python CLI. No backend framewo
 - site/exhibition/*.html are GENERATED — never edit them directly
 - sitemap.xml and robots.txt are GENERATED — never edit them directly
 - Footer reads "Radar by Forme Femine" with Forme Femine linked to formefemine.com, plus copyright year below
-- Dark mode is the default
+- Light mode is the default (no prefers-color-scheme; returning users who toggled to dark keep their choice via localStorage)
 - All filtering is client-side
 
 ## ID format

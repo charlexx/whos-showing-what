@@ -8,18 +8,17 @@
   function getPreferredTheme() {
     var stored = localStorage.getItem("radar-theme");
     if (stored) return stored;
-    if (window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches) return "light";
-    return "dark";
+    return "light";
   }
 
   function applyTheme(theme) {
-    if (theme === "light") {
-      document.documentElement.setAttribute("data-theme", "light");
+    if (theme === "dark") {
+      document.documentElement.setAttribute("data-theme", "dark");
     } else {
       document.documentElement.removeAttribute("data-theme");
     }
     if (themeToggle) {
-      themeToggle.textContent = theme === "light" ? "\u2600" : "\u263E";
+      themeToggle.textContent = theme === "dark" ? "\u263E" : "\u2600";
     }
   }
 
@@ -27,8 +26,8 @@
 
   if (themeToggle) {
     themeToggle.addEventListener("click", function () {
-      var current = document.documentElement.getAttribute("data-theme") === "light" ? "light" : "dark";
-      var next = current === "light" ? "dark" : "light";
+      var current = document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light";
+      var next = current === "dark" ? "light" : "dark";
       applyTheme(next);
       localStorage.setItem("radar-theme", next);
     });

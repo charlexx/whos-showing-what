@@ -1,35 +1,7 @@
 /* Radar — Full Styles */
 
-/* ========== Variables (Dark — default) ========== */
+/* ========== Variables (Light — default) ========== */
 :root {
-  --bg: #0a0a0a;
-  --surface: #141414;
-  --border: #1e1e1e;
-  --text: #e8e4df;
-  --text-secondary: #8a8580;
-  --accent: #c9a87c;
-  --accent-hover: #d4b88a;
-  --status-current: #4a9e6e;
-  --status-upcoming: #5b8dd4;
-  --status-past: #6b6560;
-  --badge-bg: rgba(255, 255, 255, 0.06);
-  --badge-type-bg: rgba(201, 168, 124, 0.12);
-  --badge-free-bg: rgba(74, 158, 110, 0.12);
-  --badge-dedicated-bg: rgba(201, 168, 124, 0.15);
-  --badge-significant-bg: rgba(91, 141, 212, 0.15);
-  --medium-tag-bg: rgba(232, 228, 223, 0.05);
-  --filter-bg: #141414;
-  --filter-border: #1e1e1e;
-  --filter-bar-bg: rgba(10, 10, 10, 0.85);
-  --card-hover-glow: rgba(201, 168, 124, 0.15);
-  --badge-status-text: #fff;
-  --radius: 8px;
-  --radius-sm: 4px;
-  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-}
-
-/* ========== Light theme ========== */
-[data-theme="light"] {
   --bg: #f5f3f0;
   --surface: #ffffff;
   --border: #e5e2dd;
@@ -50,6 +22,34 @@
   --filter-border: #e5e2dd;
   --filter-bar-bg: rgba(245, 243, 240, 0.85);
   --card-hover-glow: rgba(139, 107, 61, 0.12);
+  --badge-status-text: #fff;
+  --radius: 8px;
+  --radius-sm: 4px;
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* ========== Dark theme ========== */
+[data-theme="dark"] {
+  --bg: #0a0a0a;
+  --surface: #141414;
+  --border: #1e1e1e;
+  --text: #e8e4df;
+  --text-secondary: #8a8580;
+  --accent: #c9a87c;
+  --accent-hover: #d4b88a;
+  --status-current: #4a9e6e;
+  --status-upcoming: #5b8dd4;
+  --status-past: #6b6560;
+  --badge-bg: rgba(255, 255, 255, 0.06);
+  --badge-type-bg: rgba(201, 168, 124, 0.12);
+  --badge-free-bg: rgba(74, 158, 110, 0.12);
+  --badge-dedicated-bg: rgba(201, 168, 124, 0.15);
+  --badge-significant-bg: rgba(91, 141, 212, 0.15);
+  --medium-tag-bg: rgba(232, 228, 223, 0.05);
+  --filter-bg: #141414;
+  --filter-border: #1e1e1e;
+  --filter-bar-bg: rgba(10, 10, 10, 0.85);
+  --card-hover-glow: rgba(201, 168, 124, 0.15);
   --badge-status-text: #fff;
 }
 
@@ -178,7 +178,7 @@ body {
   flex: 0 0 auto;
   width: 260px;
   scroll-snap-align: start;
-  background: rgba(30, 30, 30, 0.6);
+  background: rgba(240, 237, 232, 0.6);
   border: 1px solid var(--border);
   border-radius: 8px;
   padding: 14px 16px;
@@ -189,8 +189,8 @@ body {
   display: block;
 }
 
-[data-theme="light"] .editorial-card {
-  background: rgba(240, 237, 232, 0.6);
+[data-theme="dark"] .editorial-card {
+  background: rgba(30, 30, 30, 0.6);
 }
 
 .editorial-card:hover {
@@ -400,14 +400,14 @@ body {
   cursor: pointer;
   outline: none;
   transition: border-color 0.2s;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 5l3 3 3-3' fill='none' stroke='%238a8580' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 5l3 3 3-3' fill='none' stroke='%236b6560' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
   background-position: right 0.6rem center;
   text-overflow: ellipsis;
 }
 
-[data-theme="light"] .filter-bar select {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 5l3 3 3-3' fill='none' stroke='%236b6560' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
+[data-theme="dark"] .filter-bar select {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 5l3 3 3-3' fill='none' stroke='%238a8580' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
 }
 
 .filter-bar select:hover,
@@ -626,13 +626,13 @@ main {
 }
 
 .badge-focus.diaspora {
-  background: rgba(126, 34, 206, 0.15);
-  color: #7e22ce;
-}
-
-[data-theme="light"] .badge-focus.diaspora {
   background: rgba(107, 33, 168, 0.15);
   color: #6b21a8;
+}
+
+[data-theme="dark"] .badge-focus.diaspora {
+  background: rgba(126, 34, 206, 0.15);
+  color: #7e22ce;
 }
 
 .badge-focus.featured {
@@ -1242,14 +1242,14 @@ footer {
   appearance: none;
   -webkit-appearance: none;
   cursor: pointer;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 5l3 3 3-3' fill='none' stroke='%238a8580' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 5l3 3 3-3' fill='none' stroke='%236b6560' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
   background-position: right 0.6rem center;
   padding-right: 2rem;
 }
 
-[data-theme="light"] .submit-field select {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 5l3 3 3-3' fill='none' stroke='%236b6560' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
+[data-theme="dark"] .submit-field select {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M3 5l3 3 3-3' fill='none' stroke='%238a8580' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
 }
 
 .submit-row {

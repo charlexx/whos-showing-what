@@ -351,11 +351,12 @@ def _render_exhibition_page(exh, artist_map, venue_map, all_exhibitions=None):
   <script type="application/ld+json">
 {jsonld_str}
   </script>
+  <script>if(localStorage.getItem("radar-theme")==="dark")document.documentElement.setAttribute("data-theme","dark")</script>
 </head>
 <body>
   <header class="exh-header-bar">
     <a href="../" class="exh-back">\u2190 All exhibitions</a>
-    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle light/dark mode">&#9790;</button>
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle light/dark mode">&#9728;</button>
   </header>
 
   <article class="exh-page">
@@ -383,10 +384,10 @@ def _render_exhibition_page(exh, artist_map, venue_map, all_exhibitions=None):
   <script>
   (function(){{
     var t=document.getElementById("theme-toggle");
-    function g(){{var s=localStorage.getItem("radar-theme");if(s)return s;if(window.matchMedia&&window.matchMedia("(prefers-color-scheme: light)").matches)return"light";return"dark"}}
-    function a(m){{if(m==="light"){{document.documentElement.setAttribute("data-theme","light")}}else{{document.documentElement.removeAttribute("data-theme")}}if(t){{t.textContent=m==="light"?"\\u2600":"\\u263E"}}}}
+    function g(){{var s=localStorage.getItem("radar-theme");if(s)return s;return"light"}}
+    function a(m){{if(m==="dark"){{document.documentElement.setAttribute("data-theme","dark")}}else{{document.documentElement.removeAttribute("data-theme")}}if(t){{t.textContent=m==="dark"?"\\u263E":"\\u2600"}}}}
     a(g());
-    if(t){{t.addEventListener("click",function(){{var c=document.documentElement.getAttribute("data-theme")==="light"?"light":"dark";var n=c==="light"?"dark":"light";a(n);localStorage.setItem("radar-theme",n)}})}}
+    if(t){{t.addEventListener("click",function(){{var c=document.documentElement.getAttribute("data-theme")==="dark"?"dark":"light";var n=c==="dark"?"light":"dark";a(n);localStorage.setItem("radar-theme",n)}})}}
   }})();
   </script>
 </body>
