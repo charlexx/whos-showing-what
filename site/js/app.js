@@ -179,11 +179,13 @@
   function setActiveTimePill(timeKey) {
     activeTimePill = timeKey || null;
     timePills.forEach(function (btn) {
-      if (btn.getAttribute("data-time") === activeTimePill) {
+      var isActive = btn.getAttribute("data-time") === activeTimePill;
+      if (isActive) {
         btn.classList.add("active");
       } else {
         btn.classList.remove("active");
       }
+      btn.setAttribute("aria-pressed", isActive ? "true" : "false");
     });
   }
 
@@ -423,10 +425,12 @@
     body += "</div>";
 
     card.innerHTML = header + artistsHtml + meta + badges + mediums + body;
+    card.setAttribute("aria-expanded", "false");
 
     card.addEventListener("click", function (e) {
       if (e.target.closest(".card-link") || e.target.closest(".card-detail-link") || e.target.closest(".card-title-link")) return;
       card.classList.toggle("expanded");
+      card.setAttribute("aria-expanded", card.classList.contains("expanded") ? "true" : "false");
     });
 
     return card;
@@ -556,6 +560,8 @@
 
   function toggleSecondaryFilters() {
     filterRowSecondary.classList.toggle("expanded");
+    var isExpanded = filterRowSecondary.classList.contains("expanded");
+    filterToggle.setAttribute("aria-expanded", isExpanded ? "true" : "false");
     updateFilterToggle();
   }
 
@@ -569,6 +575,7 @@
     // Auto-expand secondary row if URL params set any secondary filter
     if (getSecondaryActiveCount() > 0) {
       filterRowSecondary.classList.add("expanded");
+      filterToggle.setAttribute("aria-expanded", "true");
     }
     updateFilterToggle();
 

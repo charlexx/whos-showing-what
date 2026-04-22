@@ -343,9 +343,16 @@ def _render_exhibition_page(exh, artist_map, venue_map, all_exhibitions=None):
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="{h(og_desc)}">
+  <link rel="canonical" href="{BASE_URL}/exhibition/{h(exh_id)}.html">
+  <meta property="og:type" content="website">
   <meta property="og:title" content="{title} — Radar">
   <meta property="og:description" content="{h(og_desc)}">
   <meta property="og:url" content="{BASE_URL}/exhibition/{h(exh_id)}.html">
+  <meta property="og:image" content="{BASE_URL}/static/og-image.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{title} — Radar">
+  <meta name="twitter:description" content="{h(og_desc)}">
+  <meta name="twitter:image" content="{BASE_URL}/static/og-image.svg">
   <title>{title} — Radar</title>
   <link rel="stylesheet" href="../css/styles.css">
   <script type="application/ld+json">
@@ -354,12 +361,13 @@ def _render_exhibition_page(exh, artist_map, venue_map, all_exhibitions=None):
   <script>if(localStorage.getItem("radar-theme")==="dark")document.documentElement.setAttribute("data-theme","dark")</script>
 </head>
 <body>
+  <a href="#main" class="skip-link">Skip to content</a>
   <header class="exh-header-bar">
     <a href="../" class="exh-back">\u2190 All exhibitions</a>
     <button id="theme-toggle" class="theme-toggle" aria-label="Toggle light/dark mode">&#9728;</button>
   </header>
 
-  <article class="exh-page">
+  <article class="exh-page" id="main">
     {badges_html}
     <h1 class="exh-title">{title}</h1>
     <p class="exh-dates">
